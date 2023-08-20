@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rich
+  m_Controller: {fileID: 9100000, guid: 06021dfb19fa63b49a74561d76180ae3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d51f4b7fc96f05344a1b544481953ec9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0a7ce56d6a37bec4bbae7fe6885365b5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 890839b96a295de45a611a9d830ac872, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 32c7d31d1408da542969691226007b9a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c29d0b8dd2a9f6340a43425474420a6f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 81c731f011d185d489e7822430604519, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 401a33d5006b83042b34d73a00310c3c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 197f672fe3cb7f343bd6a25f18fb4db7, type: 2}

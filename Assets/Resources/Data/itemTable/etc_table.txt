@@ -1,0 +1,29 @@
+﻿{
+  "itemTable": [
+    {
+      "_No": "NoArti",
+      "_startNum": 5,
+      "_endNum": 6
+    },
+    {
+      "_No": "FirckArti",
+      "_startNum": 4,
+      "_endNum": 4
+    },
+    {
+      "_No": "RanArti",
+      "_startNum": 1,
+      "_endNum": 3
+    },
+    {
+      "_No": "RanArtiOption1",
+      "_startNum": null,
+      "_endNum": null
+    },
+    {
+      "_No": "RanArtiOption2",
+      "_startNum": null,
+      "_endNum": null
+    }
+  ]
+}

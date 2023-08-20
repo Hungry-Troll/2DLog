@@ -1,0 +1,58 @@
+﻿{
+  "etcData" :[
+    {
+      "_No": 1,
+      "_Name": "검은 상자",
+      "_sum": 1,
+      "_magic": null,
+      "_gold": null,
+      "_NickName": "Black box",
+      "_comment": "사용하면 무엇인가 나올 것 같다."
+    },
+    {
+      "_No": 2,
+      "_Name": "카드 뭉치",
+      "_sum": null,
+      "_magic": 1,
+      "_gold": null,
+      "_NickName": "deck1",
+      "_comment": "사용하면 무슨 일이 생길 것 같다."
+    },
+    {
+      "_No": 3,
+      "_Name": "마법 카드 뭉치",
+      "_sum": null,
+      "_magic": 2,
+      "_gold": null,
+      "_NickName": "deck2",
+      "_comment": "사용하면 무슨 일이 생길 것 같다."
+    },
+    {
+      "_No": 4,
+      "_Name": "전설 카드 뭉치",
+      "_sum": null,
+      "_magic": 3,
+      "_gold": null,
+      "_NickName": "deck3",
+      "_comment": "사용하면 좋은 일이 생길 것 같다."
+    },
+    {
+      "_No": 5,
+      "_Name": "골드",
+      "_sum": null,
+      "_magic": null,
+      "_gold": 1,
+      "_NickName": "gold1",
+      "_comment": "많으면 많을수록 좋다."
+    },
+    {
+      "_No": 6,
+      "_Name": "골드 뭉치",
+      "_sum": null,
+      "_magic": null,
+      "_gold": 2,
+      "_NickName": "gold2",
+      "_comment": "많으면 많을수록 좋다."
+    }
+  ]
+}
