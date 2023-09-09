@@ -4,9 +4,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
-
-
-
 public class GameManager : MonoBehaviour
 {
     static GameManager s_instance;
