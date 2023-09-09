@@ -1,19 +1,39 @@
 fileFormatVersion: 2
 guid: 109708baa8705524090072a6ea44f6f4
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Animal Poision_0
-    21300002: Animal Poision_1
-    21300004: Animal Poision_2
-    21300006: Animal Poision_3
-    21300008: Animal Poision_4
-    21300010: Animal Poision_5
-    21300012: Animal Poision_6
-    21300014: Animal Poision_7
-    21300016: Animal Poision_8
-    21300018: Animal Poision_9
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Animal Poision_0
+  - first:
+      213: 21300002
+    second: Animal Poision_1
+  - first:
+      213: 21300004
+    second: Animal Poision_2
+  - first:
+      213: 21300006
+    second: Animal Poision_3
+  - first:
+      213: 21300008
+    second: Animal Poision_4
+  - first:
+      213: 21300010
+    second: Animal Poision_5
+  - first:
+      213: 21300012
+    second: Animal Poision_6
+  - first:
+      213: 21300014
+    second: Animal Poision_7
+  - first:
+      213: 21300016
+    second: Animal Poision_8
+  - first:
+      213: 21300018
+    second: Animal Poision_9
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -33,6 +53,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -42,8 +64,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -64,11 +86,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -79,7 +105,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -90,7 +117,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -101,6 +129,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -120,6 +149,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e4b80372c15c48d4dbbd3e8266e6caef
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -140,6 +170,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7b66fe103d3f3784cbd6bfce2c30f454
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -160,6 +191,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 89900336295501e4982054548198ede5
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -180,6 +212,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cfd7976cf043b764081b6dbe3b94eaa6
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -200,6 +233,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 97eb197e360632f498209bcaba4d0222
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -220,6 +254,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 247bae45337f5c34ea5a5d4447aa37fb
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -240,6 +275,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bead88a2fda27874a88e89c4592129ad
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -260,6 +296,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 952db22a11ba8844c96c83b562380477
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -280,6 +317,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 01ca0b96144d48345929a06e7e77a8ab
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -300,6 +338,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b310fcaf984db0245921f472114fd609
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -308,10 +347,23 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: c842d7341ffde0e4d8e9852b9b8119d5
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Animal Poision_8: 21300016
+      Animal Poision_2: 21300004
+      Animal Poision_1: 21300002
+      Animal Poision_4: 21300008
+      Animal Poision_9: 21300018
+      Animal Poision_0: 21300000
+      Animal Poision_3: 21300006
+      Animal Poision_7: 21300014
+      Animal Poision_6: 21300012
+      Animal Poision_5: 21300010
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

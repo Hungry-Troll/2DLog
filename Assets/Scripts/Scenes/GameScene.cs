@@ -5,8 +5,6 @@ using static Define;
 
 public class GameScene : BaseScene
 {
-    
-
     protected override void Init()
     {
         base.Init();
@@ -35,13 +33,8 @@ public class GameScene : BaseScene
 
     }
 
-    
-
-
     public override void Clear()
     {
         
     }
-
-
 }

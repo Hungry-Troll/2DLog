@@ -1,14 +1,24 @@
 fileFormatVersion: 2
 guid: d43df8d02f0f25b41bb8554e49711b08
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: crystalplatemail1 0
-    21300002: crystalplatemail1 1
-    21300004: crystalplatemail1 2
-    21300006: crystalplatemail1 3
-    21300008: crystalplatemail1 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: crystalplatemail1 0
+  - first:
+      213: 21300002
+    second: crystalplatemail1 1
+  - first:
+      213: 21300004
+    second: crystalplatemail1 2
+  - first:
+      213: 21300006
+    second: crystalplatemail1 3
+  - first:
+      213: 21300008
+    second: crystalplatemail1 4
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -28,6 +38,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -37,8 +49,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -59,11 +71,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 160
     resizeAlgorithm: 0
@@ -74,6 +90,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -93,6 +110,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 3acb9a87f2bec87489b38754b534d7f8
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -113,6 +131,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: a2bba1d2c01081a44b155d8fae2b8f9d
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -133,6 +152,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: de5fbca4566cc3e498e4a387d86fecb7
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -153,6 +173,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 4e0c82f629ae76b40bd1666a956acb02
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -173,6 +194,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: e9e9228ffcc13b742bc4c48992521f8b
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -181,10 +203,18 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: b7df33fdb19d8dc4eaa940307d7962f8
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      crystalplatemail1 1: 21300002
+      crystalplatemail1 0: 21300000
+      crystalplatemail1 3: 21300006
+      crystalplatemail1 4: 21300008
+      crystalplatemail1 2: 21300004
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

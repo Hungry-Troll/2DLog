@@ -1,20 +1,42 @@
 fileFormatVersion: 2
 guid: fec58f19d2f805c4baee7b710e241ae6
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Gansi tile Trap_0
-    21300002: Gansi tile Trap_1
-    21300004: Gansi tile Trap_2
-    21300006: Gansi tile Trap_3
-    21300008: Gansi tile Trap_4
-    21300010: Gansi tile Trap_5
-    21300012: Gansi tile Trap_6
-    21300014: Gansi tile Trap_7
-    21300016: Gansi tile Trap_8
-    21300018: Gansi tile Trap_9
-    21300020: Gansi tile Trap_10
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Gansi tile Trap_0
+  - first:
+      213: 21300002
+    second: Gansi tile Trap_1
+  - first:
+      213: 21300004
+    second: Gansi tile Trap_2
+  - first:
+      213: 21300006
+    second: Gansi tile Trap_3
+  - first:
+      213: 21300008
+    second: Gansi tile Trap_4
+  - first:
+      213: 21300010
+    second: Gansi tile Trap_5
+  - first:
+      213: 21300012
+    second: Gansi tile Trap_6
+  - first:
+      213: 21300014
+    second: Gansi tile Trap_7
+  - first:
+      213: 21300016
+    second: Gansi tile Trap_8
+  - first:
+      213: 21300018
+    second: Gansi tile Trap_9
+  - first:
+      213: 21300020
+    second: Gansi tile Trap_10
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -34,6 +56,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -43,8 +67,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -65,11 +89,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -80,7 +108,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -91,7 +120,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -102,6 +132,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -121,6 +152,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d4eec58717b8094409b29184b71448cc
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -141,6 +173,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 57d166ddb23020343956447664ddfead
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -161,6 +194,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1877a92b9413f7b4d925243ec67c2ab3
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -181,6 +215,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 94ef309f93f505a418fb6efca3ad638f
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -201,6 +236,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2d70a42eec4dd884da80b9106e0468b6
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -221,6 +257,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c68b4be8055dd02408521ae65a53d5aa
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -241,6 +278,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4d50c42251c7e1b47ad21acf72cd8378
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -261,6 +299,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 437b67f47eb641f4d943548ab6b80796
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -281,6 +320,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 298dbeed1a4639445ad73519e5e15732
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -301,6 +341,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 27add5e870811d344b8daeb907fbf344
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -321,6 +362,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7b8f1493088a4734daa6498cfb9321b8
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -329,10 +371,24 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 90e42774d3fbf514189f7024c4a088de
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gansi tile Trap_2: 21300004
+      Gansi tile Trap_10: 21300020
+      Gansi tile Trap_0: 21300000
+      Gansi tile Trap_9: 21300018
+      Gansi tile Trap_3: 21300006
+      Gansi tile Trap_8: 21300016
+      Gansi tile Trap_4: 21300008
+      Gansi tile Trap_5: 21300010
+      Gansi tile Trap_6: 21300012
+      Gansi tile Trap_1: 21300002
+      Gansi tile Trap_7: 21300014
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

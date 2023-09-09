@@ -1,14 +1,24 @@
 fileFormatVersion: 2
 guid: cf9914f06383ae74aa8934a1d61050af
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Troll Leader Armour2 0
-    21300002: Troll Leader Armour2 1
-    21300004: Troll Leader Armour2 2
-    21300006: Troll Leader Armour2 3
-    21300008: Troll Leader Armour2 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Troll Leader Armour2 0
+  - first:
+      213: 21300002
+    second: Troll Leader Armour2 1
+  - first:
+      213: 21300004
+    second: Troll Leader Armour2 2
+  - first:
+      213: 21300006
+    second: Troll Leader Armour2 3
+  - first:
+      213: 21300008
+    second: Troll Leader Armour2 4
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -28,6 +38,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -37,8 +49,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -59,11 +71,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 160
     resizeAlgorithm: 0
@@ -74,6 +90,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -93,6 +110,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 92cb0b95398a43244a1d6f1fc46f0820
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -113,6 +131,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: ab41738b84cfde4458b9ab9f27f3aa61
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -133,6 +152,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 7b04b7919ae92ad45bc61fcc46da1e42
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -153,6 +173,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 844790c233a815846a40ff9e4e52c0bf
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -173,6 +194,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 38a53bedc8d65f9408ba9a904b41b848
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -181,10 +203,18 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: e2ea6cf0d04472f4ea2295374373a8ca
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Troll Leader Armour2 1: 21300002
+      Troll Leader Armour2 3: 21300006
+      Troll Leader Armour2 0: 21300000
+      Troll Leader Armour2 2: 21300004
+      Troll Leader Armour2 4: 21300008
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
