@@ -84,11 +84,22 @@ public class Define
         Login,
         Lobby,
         Game,
+        DungeonSelect,
     }
     
     public enum UIEvent
     {
         Click,
         Drag,
+        None,
+    }
+
+    public enum Dungeon
+    {
+        Base,
+        Animal,
+        Test1,
+        Test2,
+        Test3,
     }
 }

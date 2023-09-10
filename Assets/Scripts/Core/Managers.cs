@@ -38,7 +38,7 @@ public class Managers : MonoBehaviour
 
     void Update()
     {
-        Input.OnUpdate();
+        //Input.OnUpdate();
         //GameObject tank = Managers.Resouce.Instantiate("Tank"); 생성코드예시
         //Resouce.Destroy(tank);삭제코드예시
     }

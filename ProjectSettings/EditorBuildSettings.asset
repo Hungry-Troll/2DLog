@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: e2ac196c95966df4d9489329309493c6
+  - enabled: 1
+    path: Assets/Scenes/DungeonSelect.unity
+    guid: b746272d638c29a4d9dbbf38c517e3b7
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: ba9edf3d8d1005b4d93c4115196af088
   m_configObjects: {}

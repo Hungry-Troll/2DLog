@@ -13,17 +13,20 @@ public class TitleController : MonoBehaviour
     {
         _startButton.onClick.AddListener(() =>
         {
-            //GameManager.Ui.
-            GameManager.Scene.LoadScene(Define.Scene.Game);
-
+            StartCoroutine(SceneChange());
         });
         _optionButton.onClick.AddListener(() => { }); // 옵션창
         _endButton.onClick.AddListener(() => Application.Quit()); // 종료하기
+
     }
 
-    // Update is called once per frame
-    void Update()
+    // 씬 이동시 사용
+    IEnumerator SceneChange()
     {
-        
+        SystemManager.Instance.FadeOnOff();
+        yield return GameManager.Yield.WaitForSecond(1.0f);
+        GameManager.Scene.LoadScene(Define.Scene.DungeonSelect);
+        yield return GameManager.Yield.WaitForSecond(2.0f);
     }
+
 }
