@@ -5,7 +5,12 @@ using UnityEngine.EventSystems;
 
 public abstract class BaseScene : MonoBehaviour
 {
-    public Define.Scene SceneType { get; protected set;} = Define.Scene.Unknown;
+    private Define.Scene _sceneType;
+    public Define.Scene SceneType 
+    {
+        get { return _sceneType; }
+        protected set { _sceneType = value; }
+    } 
 
     void Start()
     {

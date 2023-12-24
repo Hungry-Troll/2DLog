@@ -35,9 +35,21 @@ public class InputManager : Singleton<InputManager>
 
         var upStream = this.UpdateAsObservable()
             .Where(_ => Input.GetMouseButtonUp(0) && _uiEvent == Define.UIEvent.Drag)
+            .Select(_ => _upPos = Input.mousePosition.x)
             .Subscribe(_ =>
             {
-                _upPos = Input.mousePosition.x;
+                float distance = _downPos - _upPos;
+                float result = Mathf.Abs(distance);
+                Debug.LogError("_downPos : " + _downPos);
+                Debug.LogError("_upPos : " + _upPos);
+                Debug.LogError("result : " + result);
+
+                if (result < 100.0f)
+                {
+                    Debug.LogError("Short");
+                    return;
+                }
+                    
                 if (_downPos >= _upPos)
                     _leftDragAction();
                 else

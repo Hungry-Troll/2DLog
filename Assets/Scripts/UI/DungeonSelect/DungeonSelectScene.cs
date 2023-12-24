@@ -5,24 +5,31 @@ using UnityEngine.UI;
 using static Define;
 using DG.Tweening;
 
-public class DungeonSelect : MonoBehaviour
+public class DungeonSelectScene : BaseScene
 {
     [SerializeField] private List<Image> _dungeonImage;
-    
+    [SerializeField] private Button _selectButton;
+
     private List<Define.Dungeon> _dungeonPool;
     public List<Define.Dungeon> _dungeonList;
 
-    // Start is called before the first frame update
-    void Start()
+
+    protected override void Init()
     {
+        base.Init();
+
+        SceneType = Define.Scene.DungeonSelect;
+        //
         InputManager.Instance.Init();
-        _dungeonPool = new List<Define.Dungeon>(){ Dungeon.Animal,Dungeon.Base, Dungeon.Test1, Dungeon.Test2, Dungeon.Test3 };
+        _dungeonPool = new List<Define.Dungeon>() { Dungeon.Animal, Dungeon.Base, Dungeon.Test1, Dungeon.Test2, Dungeon.Test3 };
         _dungeonList = new List<Define.Dungeon>();
         FirstSeachDungeon();
 
         // 인풋매니저 구독
         InputManager.Instance._LeftDragAction += LeftDungeonImage;
         InputManager.Instance._RightDragAction += RightDungeonImage;
+        //
+        _selectButton.onClick.AddListener(() => GameManager.Scene.LoadScene(Define.Scene.Game));
     }
 
     public void FirstSeachDungeon()
@@ -118,5 +125,9 @@ public class DungeonSelect : MonoBehaviour
         InputManager.Instance._RightDragAction -= RightDungeonImage;
     }
 
+    public override void Clear()
+    {
+        Debug.Log("DungeonSelect Clear!");
+    }
 }
 

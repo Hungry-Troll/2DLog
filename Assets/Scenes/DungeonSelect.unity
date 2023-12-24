@@ -441,7 +441,7 @@ GameObject:
   - component: {fileID: 480994201}
   - component: {fileID: 480994205}
   m_Layer: 5
-  m_Name: UI_DungeonSelect
+  m_Name: '@DungeonSelect'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -555,6 +555,8 @@ MonoBehaviour:
   - {fileID: 4722240}
   - {fileID: 313648585}
   - {fileID: 413692577}
+  _selectButton: {fileID: 1980941466}
+  _dungeonList: 
 --- !u!1 &629460202
 GameObject:
   m_ObjectHideFlags: 0
