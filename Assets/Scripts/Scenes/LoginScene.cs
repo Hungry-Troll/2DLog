@@ -2,23 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System;
 
 public class LoginScene : BaseScene
 {
+    [SerializeField] private TitleController _titleController;
 
     protected override void Init()
     {
         base.Init();
 
         SceneType = Define.Scene.Login;
-    }
 
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Q))
-        {
-            GameManager.Scene.LoadScene(Define.Scene.Game);
-        }
+        _titleController._sceneChange = _sceneChange;
     }
 
     public override void Clear()

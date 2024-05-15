@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using System;
+
 
 public abstract class BaseScene : MonoBehaviour
 {
@@ -10,7 +12,9 @@ public abstract class BaseScene : MonoBehaviour
     {
         get { return _sceneType; }
         protected set { _sceneType = value; }
-    } 
+    }
+
+    public Action _sceneChange;
 
     void Start()
     {
@@ -19,12 +23,24 @@ public abstract class BaseScene : MonoBehaviour
 
     protected virtual void Init()
     {
-        Object obj = GameObject.FindObjectOfType(typeof(EventSystem));
+        UnityEngine.Object obj = GameObject.FindObjectOfType(typeof(EventSystem));
         if (obj == null)
             GameManager.Resouce.Instantiate("UI/EventSystem").name = "@EventSystem";
 
-        //GameManager.Resouce.Instantiate("UI/UI_Buttons");
+        //    많아지면 ADDEvent 함수로 뺄 것
+        _sceneChange = () =>
+        {
+            StartCoroutine(SceneChange(Define.Scene.DungeonSelect));
+        };
     }
 
     public abstract void Clear();
+
+    protected IEnumerator SceneChange(Define.Scene sceneName)
+    {
+        SystemManager.Instance.FadeOnOff();
+        yield return GameManager.Yield.WaitForSecond(1.0f);
+        GameManager.Scene.LoadScene(sceneName);
+        yield return GameManager.Yield.WaitForSecond(2.0f);
+    }
 }
