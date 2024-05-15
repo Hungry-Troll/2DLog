@@ -32,16 +32,16 @@ public class EventManager
         switch (inputDir)
         {
             case MoveDir.Up:
-                UpButton();
+                UpButton.Invoke();
                 break;
             case MoveDir.Down:
-                DownButton();
+                DownButton.Invoke();
                 break;
             case MoveDir.Left:
-                LeftButton();
+                LeftButton.Invoke();
                 break;
             case MoveDir.Right:
-                RightButton();
+                RightButton.Invoke();
                 break;
         }
     }

@@ -57,6 +57,7 @@ public class Define
     {
         Patrol,
         Follow,
+        Search,
         None,
     }
 

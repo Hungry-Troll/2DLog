@@ -11,7 +11,7 @@ public class ObjectManager
 
     public GameObject _target;
 
-    public List<GameObject> _objects = new List<GameObject>();
+    public List<GameObject> _objects = new List<GameObject>(); //이걸 CretureController로 변경하는게 낫지 않나 추후 Find 함수 최적화
 
     public List<GameObject> _monsterObjects = new List<GameObject>();
 
