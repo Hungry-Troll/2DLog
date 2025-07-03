@@ -1,8 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
-using System;
+﻿using UnityEngine;
 
 public class LoginScene : BaseScene
 {

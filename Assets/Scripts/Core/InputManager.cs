@@ -1,9 +1,7 @@
-﻿using UniRx;
+﻿using System;
+using UniRx;
 using UniRx.Triggers;
 using UnityEngine;
-using UnityEngine.Events;
-using System;
-using static Define;
 
 public class InputManager : Singleton<InputManager>
 {
@@ -49,12 +47,12 @@ public class InputManager : Singleton<InputManager>
                     Debug.LogError("Short");
                     return;
                 }
-                    
+
                 if (_downPos >= _upPos)
                     _leftDragAction();
                 else
                     _rightDragAction();
-                
+
                 Debug.LogError("up");
                 // 땔 때 할 일
             });

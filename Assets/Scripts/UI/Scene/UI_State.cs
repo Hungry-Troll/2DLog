@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 public class UI_State : UI_Scene
@@ -14,7 +13,7 @@ public class UI_State : UI_Scene
 
     GameObject middlePanel;
     GameObject underPanel;
-    
+
     enum GameObjects
     {
         MiddlePanel,

@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 public class UI_Bag : UI_Scene
@@ -34,7 +33,7 @@ public class UI_Bag : UI_Scene
             if (random == 1)
             {
                 // MakeSubItem<이름> 으로 생성 //동일한 스크립트를 만들어야됨
-                item = GameManager.Ui.MakeSubItme<UI_Inven_Item>(parent : bagPanel.transform).gameObject;
+                item = GameManager.Ui.MakeSubItme<UI_Inven_Item>(parent: bagPanel.transform).gameObject;
             }
             else if (random == 2)
             {
@@ -54,7 +53,7 @@ public class UI_Bag : UI_Scene
 
     void Update()
     {
-        
+
     }
 
     public void InvenArrayF()

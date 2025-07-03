@@ -79,17 +79,17 @@ public class MonsterController : CreatureController
         base.UpdateIdle();
 
         SearchPlayer();
-        
 
-        
-/*        // 일부로 초기화 하지 않음. 초기화하면 업데이트에 따라서 지속적으로 서치함
-        IESearch = CoSearch();
-        if (_coSearch == null)
-            _coSearch = StartCoroutine(IESearch);
 
-        IEPatrol = CoPatrol();
-        if (_coPatrol == null && FindTarget == false)
-            _coPatrol = StartCoroutine(IEPatrol);*/
+
+        /*        // 일부로 초기화 하지 않음. 초기화하면 업데이트에 따라서 지속적으로 서치함
+                IESearch = CoSearch();
+                if (_coSearch == null)
+                    _coSearch = StartCoroutine(IESearch);
+
+                IEPatrol = CoPatrol();
+                if (_coPatrol == null && FindTarget == false)
+                    _coPatrol = StartCoroutine(IEPatrol);*/
 
     }
 
@@ -189,31 +189,31 @@ public class MonsterController : CreatureController
         _destCellPos = path[1];
 
         //중복 좌표 체크용 계산 (중복인가 false) 뒷 코드는 없으면 공격을 안함
-/*        if (GameManager.Obj.PosCheck(GameManager.Obj._checkPath, _destCellPos) == false && destPos != _destCellPos)
-        {
-            _target = null;
-            State = CreatureState.Idle;
-            GameManager.Obj.PosCheckPathAdd(_destCellPos);
-            yield break;
-        }*/
+        /*        if (GameManager.Obj.PosCheck(GameManager.Obj._checkPath, _destCellPos) == false && destPos != _destCellPos)
+                {
+                    _target = null;
+                    State = CreatureState.Idle;
+                    GameManager.Obj.PosCheckPathAdd(_destCellPos);
+                    yield break;
+                }*/
 
         GameManager.Obj.PosCheckPathAdd(_destCellPos);
 
-        
+
         //첫 좌표에 몬스터가 있으면 좌표설정이 안되서 몬스터가 공격안하는 버그가 있음 수정필요
         if (destPos == _destCellPos)
         {
-                skillList = SkillList.Attack;
-                SkillDir = _lastDir;
+            skillList = SkillList.Attack;
+            SkillDir = _lastDir;
 
-                if (SkillDir == MoveDir.None && _destCellPos.x > transform.position.x)
-                    SkillDir = MoveDir.Right;
-                else if (SkillDir == MoveDir.None && _destCellPos.x < transform.position.x)
-                    SkillDir = MoveDir.Left;
-                else if (_destCellPos.x > transform.position.x )
-                    SkillDir = MoveDir.Right;
-                else if (_destCellPos.x < transform.position.x )
-                    SkillDir = MoveDir.Left;
+            if (SkillDir == MoveDir.None && _destCellPos.x > transform.position.x)
+                SkillDir = MoveDir.Right;
+            else if (SkillDir == MoveDir.None && _destCellPos.x < transform.position.x)
+                SkillDir = MoveDir.Left;
+            else if (_destCellPos.x > transform.position.x)
+                SkillDir = MoveDir.Right;
+            else if (_destCellPos.x < transform.position.x)
+                SkillDir = MoveDir.Left;
 
             State = CreatureState.Skill;
         }
@@ -239,10 +239,10 @@ public class MonsterController : CreatureController
     {
         Vector3Int randPos = CellPos;
         Vector3Int TempPos = CellPos;
-/*        int waitSeconds = 1;
-        yield return new WaitForSeconds(waitSeconds);*/
+        /*        int waitSeconds = 1;
+                yield return new WaitForSeconds(waitSeconds);*/
 
-        int UpDownLeftRight  = Random.Range(1, 5);
+        int UpDownLeftRight = Random.Range(1, 5);
 
         switch (UpDownLeftRight)
         {
@@ -329,10 +329,10 @@ public class MonsterController : CreatureController
     IEnumerator CoStartSkill()
     {
         // 피격판정
-            ms = GetComponent<monsterStat>();
+        ms = GetComponent<monsterStat>();
         int damage = UnityEngine.Random.Range(ms.MinAttack, ms.MaxAttack + 1);
-            PlayerController pc = _target.GetComponent<PlayerController>();
-            pc.OnDamaged(damage);
+        PlayerController pc = _target.GetComponent<PlayerController>();
+        pc.OnDamaged(damage);
 
 
         // 대기시간

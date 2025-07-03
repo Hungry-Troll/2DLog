@@ -1,7 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class UIManager
 {
@@ -24,7 +22,7 @@ public class UIManager
 
     public void SetCanvase(GameObject go, bool sort = true)
     {
-        Canvas canvas = Util.GetOrAddComponent <Canvas>(go);
+        Canvas canvas = Util.GetOrAddComponent<Canvas>(go);
         canvas.renderMode = RenderMode.ScreenSpaceOverlay;
         //overrideSorting = 부모가 어떤값이건 sort오더를 가짐
         canvas.overrideSorting = true;
@@ -37,7 +35,7 @@ public class UIManager
         {
             canvas.sortingOrder = 0;
         }
-            
+
 
     }
 

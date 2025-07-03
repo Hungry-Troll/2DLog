@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -90,7 +89,7 @@ public class ObjectManager
         return null;
     }
 
-        public void Clear()
+    public void Clear()
     {
         _objects.Clear();
     }
@@ -99,5 +98,5 @@ public class ObjectManager
     {
         _itemObjects.Clear();
     }
-    
+
 }

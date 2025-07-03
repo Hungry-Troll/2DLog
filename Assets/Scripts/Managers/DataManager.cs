@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 public interface ILoader<Key, Value>
@@ -13,7 +11,7 @@ public class Test
 
 }
 
-public class DataManager 
+public class DataManager
 {
     //아이템 데이터
     public Dictionary<int, PlayerStat> PlayerStatDict { get; private set; } = new Dictionary<int, PlayerStat>();
@@ -72,7 +70,7 @@ public class DataManager
 
 
     //public Dictionary<int, PlayerStat> TestDict = new Dictionary<int, PlayerStat>();
-    
+
 
 
     public void Init()

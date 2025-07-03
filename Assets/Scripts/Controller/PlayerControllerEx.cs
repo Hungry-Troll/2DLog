@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using static Define;
 
@@ -10,7 +9,7 @@ public class PlayerControllerEx : MonoBehaviour
 
     public float _speed = 3.0f;
 
-    
+
     public Vector3Int CellPos { get; set; } = new Vector3Int(0, -1, 0);
     CreatureState _state = CreatureState.Idle;
     MoveDir _dir = MoveDir.None; // 방향 체크용
@@ -44,10 +43,10 @@ public class PlayerControllerEx : MonoBehaviour
         init();
     }
 
-   
+
     void Update()
     {
-        
+
     }
 
     void init()
@@ -181,7 +180,7 @@ public class PlayerControllerEx : MonoBehaviour
         float dist = moveDir.magnitude;
         while (dist > float.Epsilon)
         {
-            if(dist < float.Epsilon)
+            if (dist < float.Epsilon)
             {
                 break;
             }
@@ -192,40 +191,40 @@ public class PlayerControllerEx : MonoBehaviour
 
         State = CreatureState.Idle;
 
-/*        if (dist < _speed * Time.deltaTime)
-        {
-            transform.position = destPos;
-            State = CreatureState.Idle;
-            Dir = MoveDir.None;
-        }
-        else
-        {
-            transform.position += moveDir.normalized * _speed * Time.deltaTime;
-            State = CreatureState.Moving;
-        }
+        /*        if (dist < _speed * Time.deltaTime)
+                {
+                    transform.position = destPos;
+                    State = CreatureState.Idle;
+                    Dir = MoveDir.None;
+                }
+                else
+                {
+                    transform.position += moveDir.normalized * _speed * Time.deltaTime;
+                    State = CreatureState.Moving;
+                }
 
-        yield return new WaitForSeconds(3.0f);*/
+                yield return new WaitForSeconds(3.0f);*/
     }
 
-   /* IEnumerator MoveObject(Vector3 end, ButtonAction buttonAction)
+    /* IEnumerator MoveObject(Vector3 end, ButtonAction buttonAction)
 
-    {
+     {
 
-        float sqrRemainingDistance = (transform.position - end).magnitude;
-        ButtonOff();
-        while (sqrRemainingDistance > float.Epsilon)
-        {
-            Vector3 newPosition = Vector3.MoveTowards(rigid.position, end, 8f * Time.deltaTime);
-            rigid.MovePosition(newPosition);
-            sqrRemainingDistance = (transform.position - end).magnitude;
-            anim.SetInteger("Run", 1);//애니메이션
+         float sqrRemainingDistance = (transform.position - end).magnitude;
+         ButtonOff();
+         while (sqrRemainingDistance > float.Epsilon)
+         {
+             Vector3 newPosition = Vector3.MoveTowards(rigid.position, end, 8f * Time.deltaTime);
+             rigid.MovePosition(newPosition);
+             sqrRemainingDistance = (transform.position - end).magnitude;
+             anim.SetInteger("Run", 1);//애니메이션
 
-            //ButtonOff();
-            yield return null;
-        }
+             //ButtonOff();
+             yield return null;
+         }
 
-        anim.SetInteger("Run", 0);
+         anim.SetInteger("Run", 0);
 
-    }*/
+     }*/
 
 }

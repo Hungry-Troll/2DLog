@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -47,7 +46,7 @@ public class UI_Inven : UI_Scene
         gridPanel = Get<GameObject>((int)GameObjects.GridPanel);
 
         //foreach (Transform child in gridPanel.transform)
-            //GameManager.Resouce.Destroy(child.gameObject);
+        //GameManager.Resouce.Destroy(child.gameObject);
         //클릭시 사용 각각 함수를 만들어서 사용해야 됨
         GetButton((int)Buttons.State_Button).gameObject.BindEvent(StateButtonClicked);
         GetButton((int)Buttons.Bag_Button).gameObject.BindEvent(BagButtonClicked);
@@ -70,30 +69,30 @@ public class UI_Inven : UI_Scene
     {
         GameManager.Ui.CloseSceneUI();
         GameManager.Ui.ShowSceneUI<UI_Bag>();
-/*        ///////////인벤토리 위치 정렬코드
-        InvenArrayF();
-        for (int i = 0; i < 12; i++)
-        {
+        /*        ///////////인벤토리 위치 정렬코드
+                InvenArrayF();
+                for (int i = 0; i < 12; i++)
+                {
 
-            int random = Random.Range(0, 3);
-            if (random == 1)
-            {
-                item = GameManager.Ui.MakeSubItme<UI_Inven_Item>(parent: gridPanel.transform).gameObject;
-            }
-            else if (random == 2)
-            {
-                item = GameManager.Ui.MakeSubItme<UI_Inven_Ring>(parent: gridPanel.transform).gameObject;
-            }
-            else
-            {
-                item = GameManager.Ui.MakeSubItme<UI_Inven_Empty>(parent: gridPanel.transform).gameObject;
-            }
-            inVec.Set(rPosX[i], rPosY[i], 0);
-            item.GetComponent<RectTransform>().anchoredPosition = inVec;
-            //GameObject item = GameManager.Ui.MakeSubItme<UI_Inven_Item>(parent : gridPanel.transform).gameObject;
-            *//*UI_Inven_Item invenItem = item.GetOrAddComponent<UI_Inven_Item>();
-            invenItem.SetInfo($"집행검{ i}번");*//*
-        }*/
+                    int random = Random.Range(0, 3);
+                    if (random == 1)
+                    {
+                        item = GameManager.Ui.MakeSubItme<UI_Inven_Item>(parent: gridPanel.transform).gameObject;
+                    }
+                    else if (random == 2)
+                    {
+                        item = GameManager.Ui.MakeSubItme<UI_Inven_Ring>(parent: gridPanel.transform).gameObject;
+                    }
+                    else
+                    {
+                        item = GameManager.Ui.MakeSubItme<UI_Inven_Empty>(parent: gridPanel.transform).gameObject;
+                    }
+                    inVec.Set(rPosX[i], rPosY[i], 0);
+                    item.GetComponent<RectTransform>().anchoredPosition = inVec;
+                    //GameObject item = GameManager.Ui.MakeSubItme<UI_Inven_Item>(parent : gridPanel.transform).gameObject;
+                    *//*UI_Inven_Item invenItem = item.GetOrAddComponent<UI_Inven_Item>();
+                    invenItem.SetInfo($"집행검{ i}번");*//*
+                }*/
     }
 
     public void PotionButtonClicked(PointerEventData data)

@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
@@ -35,8 +34,8 @@ public class BoardManager : MonoBehaviour
 
     List<int> list = new List<int>();
     public GameObject[] monster;
-    int [] random;
-    int [] randomDir;
+    int[] random;
+    int[] randomDir;
 
 
 
@@ -76,20 +75,20 @@ public class BoardManager : MonoBehaviour
 
             if (monsterActionEx[i] == MonsterActionEx.Move)
             {
-/*                if (Mathf.Abs(playerTr.position.x - monsterTr[i].x) < float.Epsilon)
-                {
-                    if (playerTr.position.y > monsterTr[i].y)
-                        random[i] = 1; //Up
-                    else
-                        random[i] = 2; //Down
-                }
-                else
-                {
-                    if (playerTr.position.x > monsterTr[i].x)
-                        random[i] = 4; //Right
-                    else
-                        random[i] = 3; //Left
-                }*/
+                /*                if (Mathf.Abs(playerTr.position.x - monsterTr[i].x) < float.Epsilon)
+                                {
+                                    if (playerTr.position.y > monsterTr[i].y)
+                                        random[i] = 1; //Up
+                                    else
+                                        random[i] = 2; //Down
+                                }
+                                else
+                                {
+                                    if (playerTr.position.x > monsterTr[i].x)
+                                        random[i] = 4; //Right
+                                    else
+                                        random[i] = 3; //Left
+                                }*/
                 if (Mathf.Abs(playerTr.position.x - monsterTr[i].x) >= Mathf.Abs(playerTr.position.y - monsterTr[i].y))
                 {
                     if (playerTr.position.x > monsterTr[i].x)
@@ -128,7 +127,7 @@ public class BoardManager : MonoBehaviour
                 }
             }
         }
-                //동일 위치 계산
+        //동일 위치 계산
         //방향계산
         for (i = 0; i < monster.Length; i++)
         {
@@ -178,67 +177,67 @@ public class BoardManager : MonoBehaviour
         //StartCoroutine(MoveObject(start, end, monster, rigid));
     }
 
-/*    public void Up(GameObject monster, Vector3 monsterFinalTr, Rigidbody2D rigid)
-    {
-        if (GameManager.TurnM.turn == TurnManager.Turn.PlayerTurn)
-            return;
-
-        monsterDir = MonsterDir.Up;
-        Vector3 start = monster.transform.position;
-        end = monsterFinalTr;
-        TargetCheck(start, monsterDir);
-        if (monsterActionEx == MonsterActionEx.Attack || monsterActionEx == MonsterActionEx.MoveStop)
+    /*    public void Up(GameObject monster, Vector3 monsterFinalTr, Rigidbody2D rigid)
         {
-            return;
-        }
-        StartCoroutine(MoveObject(start, end, monster, rigid));
-        //StartCoroutine(MoveObject(start, end, monster, rigid));
-    }
-    public void Down(GameObject monster, Vector3 monsterFinalTr, Rigidbody2D rigid)
-    {
-        if (GameManager.TurnM.turn == TurnManager.Turn.PlayerTurn)
-            return;
+            if (GameManager.TurnM.turn == TurnManager.Turn.PlayerTurn)
+                return;
 
-        monsterDir = MonsterDir.Down;
-        Vector3 start = monster.transform.position;
-        end = monsterFinalTr;
-        TargetCheck(start, monsterDir);
-        if (monsterActionEx == MonsterActionEx.Attack || monsterActionEx == MonsterActionEx.MoveStop)
-        {
-            return;
+            monsterDir = MonsterDir.Up;
+            Vector3 start = monster.transform.position;
+            end = monsterFinalTr;
+            TargetCheck(start, monsterDir);
+            if (monsterActionEx == MonsterActionEx.Attack || monsterActionEx == MonsterActionEx.MoveStop)
+            {
+                return;
+            }
+            StartCoroutine(MoveObject(start, end, monster, rigid));
+            //StartCoroutine(MoveObject(start, end, monster, rigid));
         }
-        StartCoroutine(MoveObject(start, end, monster, rigid));
-    }
-    public void Left(GameObject monster, Vector3 monsterFinalTr, Rigidbody2D rigid)
-    {
-        if (GameManager.TurnM.turn == TurnManager.Turn.PlayerTurn)
-            return;
+        public void Down(GameObject monster, Vector3 monsterFinalTr, Rigidbody2D rigid)
+        {
+            if (GameManager.TurnM.turn == TurnManager.Turn.PlayerTurn)
+                return;
 
-        monsterDir = MonsterDir.Left;
-        Vector3 start = monster.transform.position;
-        end = monsterFinalTr;
-        TargetCheck(start, monsterDir);
-        if (monsterActionEx == MonsterActionEx.Attack || monsterActionEx == MonsterActionEx.MoveStop)
-        {
-            return;
+            monsterDir = MonsterDir.Down;
+            Vector3 start = monster.transform.position;
+            end = monsterFinalTr;
+            TargetCheck(start, monsterDir);
+            if (monsterActionEx == MonsterActionEx.Attack || monsterActionEx == MonsterActionEx.MoveStop)
+            {
+                return;
+            }
+            StartCoroutine(MoveObject(start, end, monster, rigid));
         }
-        StartCoroutine(MoveObject(start, end, monster, rigid));
-    }
-    public void Right(GameObject monster, Vector3 monsterFinalTr, Rigidbody2D rigid)
-    {
-        if (GameManager.TurnM.turn == TurnManager.Turn.PlayerTurn)
-            return;
+        public void Left(GameObject monster, Vector3 monsterFinalTr, Rigidbody2D rigid)
+        {
+            if (GameManager.TurnM.turn == TurnManager.Turn.PlayerTurn)
+                return;
 
-        monsterDir = MonsterDir.Right;
-        Vector3 start = monster.transform.position;
-        end = monsterFinalTr;
-        TargetCheck(start, monsterDir);
-        if (monsterActionEx == MonsterActionEx.Attack || monsterActionEx == MonsterActionEx.MoveStop)
-        {
-            return;
+            monsterDir = MonsterDir.Left;
+            Vector3 start = monster.transform.position;
+            end = monsterFinalTr;
+            TargetCheck(start, monsterDir);
+            if (monsterActionEx == MonsterActionEx.Attack || monsterActionEx == MonsterActionEx.MoveStop)
+            {
+                return;
+            }
+            StartCoroutine(MoveObject(start, end, monster, rigid));
         }
-        StartCoroutine(MoveObject(start, end, monster, rigid));
-    }*/
+        public void Right(GameObject monster, Vector3 monsterFinalTr, Rigidbody2D rigid)
+        {
+            if (GameManager.TurnM.turn == TurnManager.Turn.PlayerTurn)
+                return;
+
+            monsterDir = MonsterDir.Right;
+            Vector3 start = monster.transform.position;
+            end = monsterFinalTr;
+            TargetCheck(start, monsterDir);
+            if (monsterActionEx == MonsterActionEx.Attack || monsterActionEx == MonsterActionEx.MoveStop)
+            {
+                return;
+            }
+            StartCoroutine(MoveObject(start, end, monster, rigid));
+        }*/
 
 
     Vector3 vec;
@@ -271,7 +270,7 @@ public class BoardManager : MonoBehaviour
         Vector3 ReStart = start + temp;
 
         Debug.DrawRay(ReStart + new Vector3(0, -0.5f, 0), vec, new Color(0, 1, 0));
-        RaycastHit2D rayHit = Physics2D.Raycast(ReStart + new Vector3(0, -0.5f, 0), vec, 0.5f, LayerMask.GetMask("Player","Monster"));
+        RaycastHit2D rayHit = Physics2D.Raycast(ReStart + new Vector3(0, -0.5f, 0), vec, 0.5f, LayerMask.GetMask("Player", "Monster"));
         if (rayHit.collider != null)
         {
             if (rayHit.collider.tag == "Player")
@@ -297,7 +296,7 @@ public class BoardManager : MonoBehaviour
             sqrRemainingDistance = (monster.transform.position - end).magnitude;
             //anim.SetInteger("Run", 1);//애니메이션
             yield return null;
-         
+
         }
         //anim.SetInteger("Run", 0);
 
@@ -371,12 +370,12 @@ public class BoardManager : MonoBehaviour
     }
 
 
-/*    public IEnumerator EndTurn()
-    {
-        yield return new WaitForSeconds(1.0f);
-        GameManager.TurnM.PlayerTurnCheck();
-    }
-*/
+    /*    public IEnumerator EndTurn()
+        {
+            yield return new WaitForSeconds(1.0f);
+            GameManager.TurnM.PlayerTurnCheck();
+        }
+    */
 
 
 
@@ -398,7 +397,7 @@ public class BoardManager : MonoBehaviour
         list.Remove(2);//데이트 동일내용 삭제
 
     }
-   
+
     void ItemMake()
     {
 

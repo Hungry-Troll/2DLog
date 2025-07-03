@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using static Define;
 
@@ -95,7 +94,7 @@ public class SummonManager
 
     string _itemName = null;
 
-    
+
 
     public void ItemCreate()
     {
@@ -283,7 +282,7 @@ public class SummonManager
         {
             EtcCreateEx(_etcStat, _ItemTable, _EtcStatDic, _itemName);
         }
-        else 
+        else
         {
             ItemCreateEx(_itemStat, _ItemTable, _StatDict, _itemName);
         }
@@ -433,7 +432,7 @@ public class SummonManager
             RanOptionNumArray[1] = RanOption2;
         }
         // 이후 변수에 맞는 옵션을 넣어주면 될 듯
-        
+
 
         // 랜덤 아이템 아이콘 코드
         if (itemName == "ring" || itemName == "amulet")
@@ -459,7 +458,7 @@ public class SummonManager
             //int random = Random.Range(startNum, endNum + 1); //랜덤 _No 추출용
         }
 
-        for (int i = startNum; i < endNum+1; i++)
+        for (int i = startNum; i < endNum + 1; i++)
         {
             string nickName; // 아이템 생성용 변수
             int ringAmuletIconNum = 0; // 링 아뮬렛 닉네임 코멘트 넣는 용도 변수
@@ -471,10 +470,10 @@ public class SummonManager
             if (starttemp != 0)
             {
                 //랜덤으로 뽑는 것으로 수정 
-                ringAmuletIconNum = Random.Range(starttemp, endtemp+1);
+                ringAmuletIconNum = Random.Range(starttemp, endtemp + 1);
                 nickName = StatDict[ringAmuletIconNum]._NickName;
             }
-            
+
             GameObject item = GameManager.Resouce.Instantiate($"item/Equip/{itemName}/{nickName}");
             item.transform.SetParent(go.transform);//부모설정 임시코드
             item.name = (nickName);
@@ -522,7 +521,7 @@ public class SummonManager
             ic.CellPos = itemPos;
 
             // 랜다트 스텟 넣는 코드
-            if(RandartOption1StartNum != 0)
+            if (RandartOption1StartNum != 0)
             {
                 // 아이템 이름 저장하는 임시 변수 랜다트 아이템 마지막에 넣을 것/ 반지랑 링은 제외
                 string itemTempName = null;
@@ -555,7 +554,7 @@ public class SummonManager
                     itemStat.NickName += StatDict[RanOptionNumArray[j]]._NickName;
                     itemStat.comment += StatDict[RanOptionNumArray[j]]._comment;
                 }
-                
+
                 if (itemName == "ring" || itemName == "amulet")
                 {   // 링하고 아뮬렛만 렌다트 아이템 끝 공백문자 제거
                     itemStat.Name = itemStat.Name.Substring(0, itemStat.Name.Length - 1);

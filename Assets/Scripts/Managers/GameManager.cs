@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.Events;
+﻿using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     static GameManager s_instance;
@@ -48,7 +43,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        
+
     }
 
     static void Init()

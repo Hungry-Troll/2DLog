@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using static Define;
 
 public class CreatureController : MonoBehaviour
@@ -11,7 +9,7 @@ public class CreatureController : MonoBehaviour
 
     protected MoveDir _dir = MoveDir.None;
     //protected Vector3Int _cellPos = new Vector3Int(0, -1, 0);
-    
+
     public Vector3Int CellPos { get; set; } = new Vector3Int(0, -1, 0);
 
     protected Animator _animator;
@@ -33,7 +31,7 @@ public class CreatureController : MonoBehaviour
         get { return _state; }
         set
         {
-            if ( _state == value)
+            if (_state == value)
                 return;
 
             _state = value;
@@ -64,7 +62,7 @@ public class CreatureController : MonoBehaviour
     {
         Vector3Int cellPos = CellPos;
 
-        switch(SkillDir)
+        switch (SkillDir)
         {
             case MoveDir.Up:
                 cellPos += Vector3Int.up;
@@ -94,21 +92,21 @@ public class CreatureController : MonoBehaviour
             _animator.Play("idle");
             #region 나중에 4방향 전부 사용하면 그때 사용
 
-/*            switch (_lastDir)
-            {
-                case MoveDir.Up:
-                    _animator.Play("idle");
-                    break;
-                case MoveDir.Down:
-                    _animator.Play("idle");
-                    break;
-                case MoveDir.Left:
-                    _animator.Play("idle");
-                    break;
-                case MoveDir.Right:
-                    _animator.Play("idle");
-                    break;
-            }*/
+            /*            switch (_lastDir)
+                        {
+                            case MoveDir.Up:
+                                _animator.Play("idle");
+                                break;
+                            case MoveDir.Down:
+                                _animator.Play("idle");
+                                break;
+                            case MoveDir.Left:
+                                _animator.Play("idle");
+                                break;
+                            case MoveDir.Right:
+                                _animator.Play("idle");
+                                break;
+                        }*/
             #endregion
         }
         else if (State == CreatureState.Moving)
@@ -203,7 +201,7 @@ public class CreatureController : MonoBehaviour
     {
 
     }
-    
+
     protected virtual void UpdateMoving()
     {   //계산
         Vector3 destPos = GameManager.Map.CurrentGrid.CellToWorld(CellPos) + new Vector3(0.5f, 0.5f);
@@ -284,7 +282,7 @@ public class CreatureController : MonoBehaviour
 
     protected virtual void UpdateSkill() { }
 
-    protected virtual void UpdateDead () { }
+    protected virtual void UpdateDead() { }
 
     protected virtual void UpdateNone() { }
 

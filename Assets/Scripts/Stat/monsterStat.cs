@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class monsterStat : MonoBehaviour
 {
@@ -57,127 +55,127 @@ public class monsterStat : MonoBehaviour
     int _accuracy;
 
     public string Name { get { return _Name; } }
-    public int CurrentHp 
-    { 
-        get 
+    public int CurrentHp
+    {
+        get
         {
             if (_current_hp < 0)
                 return 0;
             if (_current_hp > _max_hp)
                 _current_hp = _max_hp;
 
-            return _current_hp; 
-        } 
-        set 
-        { _current_hp = value; } 
+            return _current_hp;
+        }
+        set
+        { _current_hp = value; }
     }
-    public int MaxHp { get { return _max_hp;} set { _max_hp = value; }}
-    public int MinAttack 
-    { 
-        get 
+    public int MaxHp { get { return _max_hp; } set { _max_hp = value; } }
+    public int MinAttack
+    {
+        get
         {
             if (_min_attack < 0)
                 return 1;
-            return _min_attack; 
-        } 
-        set { _min_attack = value; } 
+            return _min_attack;
+        }
+        set { _min_attack = value; }
     }
-    public int MaxAttack 
-    { 
-        get 
+    public int MaxAttack
+    {
+        get
         {
             if (_max_attack <= 0)
                 return 1;
-            return _max_attack; 
-        } 
-        set 
+            return _max_attack;
+        }
+        set
         { _max_attack = value; }
     }
-    public int Defence 
-    { 
-        get 
+    public int Defence
+    {
+        get
         {
             if (_defence < 0)
                 return 0;
-            return _defence; 
-        } 
-        set { _defence = value; } 
+            return _defence;
+        }
+        set { _defence = value; }
     }
-    public int MinMagicAttack 
-    { 
-        get 
+    public int MinMagicAttack
+    {
+        get
         {
             if (_min_magic_attack <= 0)
                 return 1;
-            return _min_magic_attack; 
-        } 
-        set 
-        { _min_magic_attack = value; } 
+            return _min_magic_attack;
+        }
+        set
+        { _min_magic_attack = value; }
     }
-    public int MaxMagicAttack 
-    { 
-        get 
+    public int MaxMagicAttack
+    {
+        get
         {
             if (_max_magic_attack <= 0)
                 return 1;
-            return _max_magic_attack; 
-        } 
-        set 
-        { _max_magic_attack = value; } 
+            return _max_magic_attack;
+        }
+        set
+        { _max_magic_attack = value; }
     }
-    public int FireRes 
-    { 
-        get 
+    public int FireRes
+    {
+        get
         {
             if (_fire_res >= 3)
                 return 3;
-            return _fire_res; 
-        } 
-        set 
-        {  _fire_res = value; } 
+            return _fire_res;
+        }
+        set
+        { _fire_res = value; }
     }
-    public int ColdRes 
-    { 
-        get 
+    public int ColdRes
+    {
+        get
         {
             if (_cold_res >= 3)
                 return 3;
-            return _cold_res; 
-        } 
-        set 
-        { _cold_res = value; } 
+            return _cold_res;
+        }
+        set
+        { _cold_res = value; }
     }
-    public int EarthRes 
-    { 
-        get 
+    public int EarthRes
+    {
+        get
         {
             if (_earth_res >= 3)
                 return 3;
-            return _earth_res; 
-        } 
-        set 
-        { _earth_res = value; } 
+            return _earth_res;
+        }
+        set
+        { _earth_res = value; }
     }
-    public int DarkRes 
-    { 
-        get 
+    public int DarkRes
+    {
+        get
         {
             if (_dark_res >= 3)
                 return 3;
-            return _dark_res; 
-        } 
-        set 
-        { _dark_res = value; } 
+            return _dark_res;
+        }
+        set
+        { _dark_res = value; }
     }
-    public int PoisonRes 
+    public int PoisonRes
     {
-        get 
+        get
         {
             if (_poison_res >= 1)
                 return 1;
-            return _poison_res; 
-        } 
-        set { _poison_res = value; } 
+            return _poison_res;
+        }
+        set { _poison_res = value; }
     }
     public int Exp { get { return _exp; } }
     public int Skill { get { return _skill; } set { _skill = value; } }

@@ -1,14 +1,13 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using System;
 
 
 public abstract class BaseScene : MonoBehaviour
 {
     private Define.Scene _sceneType;
-    public Define.Scene SceneType 
+    public Define.Scene SceneType
     {
         get { return _sceneType; }
         protected set { _sceneType = value; }

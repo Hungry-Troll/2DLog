@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class SystemManager : Singleton<SystemManager>
@@ -10,7 +8,7 @@ public class SystemManager : Singleton<SystemManager>
     GameObject _ui_SceneChage;
     public void FadeOnOff()
     {
-        if(_ui_SceneChage == null)
+        if (_ui_SceneChage == null)
         {
             // 매니저 클래스들이 모노가 없음 여기서 만들기만 할 것
             string name = "UI_SceneChange";

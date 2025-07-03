@@ -1,9 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using static Define;
-
-public class GameScene : BaseScene
+﻿public class GameScene : BaseScene
 {
     protected override void Init()
     {
@@ -28,13 +23,13 @@ public class GameScene : BaseScene
 
         //UI 인벤토리 테스트
         GameManager.Ui.ShowSceneUI<UI_Inven>();
-        
+
         //GameManager.Ui.ShowSceneUI<ItemIcon>();
 
     }
 
     public override void Clear()
     {
-        
+
     }
 }

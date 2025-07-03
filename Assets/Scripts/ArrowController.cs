@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using static Define;
 
 public class ArrowController : CreatureController
@@ -20,45 +18,45 @@ public class ArrowController : CreatureController
     {
         Vector3Int destPos = CellPos;
 
-            switch (_dir)
-            {
-                case MoveDir.Up:
-                    destPos += Vector3Int.up;
-                    break;
-                case MoveDir.Down:
-                    destPos += Vector3Int.down;
-                    break;
-                case MoveDir.Left:
-                    destPos += Vector3Int.left;
-                    break;
-                case MoveDir.Right:
-                    destPos += Vector3Int.right;
-                    break;
-                case MoveDir.None:
-                    destPos += Vector3Int.zero;
-                    break;
-            }
-            
-            if (GameManager.Map.CanGo(destPos))
-            {
-                GameObject go = GameManager.Obj.Find(destPos);
-                if (go == null)
-                {
-                    CellPos = destPos;
-                    State = CreatureState.Moving;
-                }
-                else
-                {
-                    Debug.Log(go.name);
-                    GameManager.Resouce.Destroy(gameObject);
-                }
+        switch (_dir)
+        {
+            case MoveDir.Up:
+                destPos += Vector3Int.up;
+                break;
+            case MoveDir.Down:
+                destPos += Vector3Int.down;
+                break;
+            case MoveDir.Left:
+                destPos += Vector3Int.left;
+                break;
+            case MoveDir.Right:
+                destPos += Vector3Int.right;
+                break;
+            case MoveDir.None:
+                destPos += Vector3Int.zero;
+                break;
+        }
 
+        if (GameManager.Map.CanGo(destPos))
+        {
+            GameObject go = GameManager.Obj.Find(destPos);
+            if (go == null)
+            {
+                CellPos = destPos;
+                State = CreatureState.Moving;
             }
             else
             {
+                Debug.Log(go.name);
                 GameManager.Resouce.Destroy(gameObject);
             }
-        
+
+        }
+        else
+        {
+            GameManager.Resouce.Destroy(gameObject);
+        }
+
 
     }
 

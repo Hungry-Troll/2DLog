@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.EventSystems;
 
 public class UI_Skill_01 : MonoBehaviour, IPointerClickHandler
@@ -12,12 +10,12 @@ public class UI_Skill_01 : MonoBehaviour, IPointerClickHandler
 
     void Start()
     {
-        
+
     }
 
-   
+
     void Update()
     {
-        
+
     }
 }

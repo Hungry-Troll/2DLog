@@ -1,13 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
-using System;
 
-public class SceneManagerEx 
+public class SceneManagerEx
 {
     //public Action _SceneChangeAction;
-    public BaseScene CurrentScene { get { return GameObject.FindObjectOfType<BaseScene>();} }
+    public BaseScene CurrentScene { get { return GameObject.FindObjectOfType<BaseScene>(); } }
 
     public void LoadScene(Define.Scene type)
     {

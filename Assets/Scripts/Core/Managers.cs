@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Managers : MonoBehaviour
 {
@@ -11,7 +9,7 @@ public class Managers : MonoBehaviour
     InputManager _input = new InputManager();
     //ResourceManager _resouce = new ResourceManager();
 
-    
+
     public static InputManager Input { get { return Instance._input; } }
     //public static ResourceManager Resouce { get { return Instance._resouce; } }
 
@@ -20,7 +18,7 @@ public class Managers : MonoBehaviour
         init();
     }
 
-   
+
     static void init()
     {
         if (s_instance == null)

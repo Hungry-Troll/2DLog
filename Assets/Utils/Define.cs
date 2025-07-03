@@ -1,10 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Define 
+﻿public class Define
 {
-    
+
     public int Max100 = 100;
 
     public enum ItemGrade
@@ -86,7 +82,7 @@ public class Define
         Game,
         DungeonSelect,
     }
-    
+
     public enum UIEvent
     {
         Click,

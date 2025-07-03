@@ -1,6 +1,5 @@
 ﻿
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
@@ -232,7 +231,7 @@ public class MapManager
     int[] _deltaY = new int[] { 1, -1, 0, 0 };
     int[] _deltaX = new int[] { 0, 0, -1, 1 };
     int[] _cost = new int[] { 10, 10, 10, 10 };
-    
+
 
     public List<Vector3Int> FindPath(Vector3Int startCellPos, Vector3Int destCellPos, bool ignoreDestCollision = false)
     {

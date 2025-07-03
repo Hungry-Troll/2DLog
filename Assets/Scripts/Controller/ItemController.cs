@@ -1,11 +1,10 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using static Define;
 
 public class ItemController : CreatureController
 {
-    
+
     Vector3Int destPos;
     Vector3Int position;
 

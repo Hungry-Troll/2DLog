@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using static Define;
 
 public class PlayerController : CreatureController
@@ -10,7 +7,7 @@ public class PlayerController : CreatureController
 
     IEnumerator IEStartSkill;
     Coroutine _coStartSkill;
-    
+
 
 
     Coroutine _coSkill;
@@ -130,7 +127,7 @@ public class PlayerController : CreatureController
 
     private void LateUpdate()
     {
-        Camera.main.transform.position = new Vector3(transform.position.x, transform.position.y -1.5f, -10);
+        Camera.main.transform.position = new Vector3(transform.position.x, transform.position.y - 1.5f, -10);
     }
 
     protected override void UpdateIdle()
@@ -143,18 +140,18 @@ public class PlayerController : CreatureController
         }
 
         //스킬 상태로 갈지 확인
-/*
-        switch (skillList)
-        {
-            case SkillList.None:
-                break;
-            case SkillList.Attack:
-                SkillAttack();
-                break;
-            case SkillList.Arrow:
-                ArrowAttack();
-                break;
-        }*/
+        /*
+                switch (skillList)
+                {
+                    case SkillList.None:
+                        break;
+                    case SkillList.Attack:
+                        SkillAttack();
+                        break;
+                    case SkillList.Arrow:
+                        ArrowAttack();
+                        break;
+                }*/
     }
 
     public void GetDirInput()
@@ -305,7 +302,7 @@ public class PlayerController : CreatureController
                 break;
         }
     }
-    public void Up() 
+    public void Up()
     {
         //플레이어 턴인지 체크
         if (GameManager.TurnM.turn != TurnManager.Turn.PlayerTurn)
@@ -313,7 +310,7 @@ public class PlayerController : CreatureController
 
         SkillDir = MoveDir.Up;
         AttackOrMove();
-        
+
     }
     public void Down()
     {
@@ -323,9 +320,9 @@ public class PlayerController : CreatureController
 
         SkillDir = MoveDir.Down;
         AttackOrMove();
-        
+
     }
-    public void Left() 
+    public void Left()
     {
         //플레이어 턴인지 체크
         if (GameManager.TurnM.turn != TurnManager.Turn.PlayerTurn)
@@ -333,7 +330,7 @@ public class PlayerController : CreatureController
 
         SkillDir = MoveDir.Left;
         AttackOrMove();
-        
+
     }
     public void Right()
     {
@@ -343,7 +340,7 @@ public class PlayerController : CreatureController
 
         SkillDir = MoveDir.Right;
         AttackOrMove();
-        
+
     }
 
 

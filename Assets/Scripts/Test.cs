@@ -1,13 +1,11 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class TestExEx : MonoBehaviour
 {
-    
+
     void Start()
     {
-        int i=1;
+        int i = 1;
         int num1 = 1; ;
         switch (i)
         {
@@ -24,9 +22,9 @@ public class TestExEx : MonoBehaviour
         }
     }
 
-   
+
     void Update()
     {
-        
+
     }
 }

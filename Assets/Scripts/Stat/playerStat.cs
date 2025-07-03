@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class playerStat : monsterStat
 {
@@ -63,15 +61,15 @@ public class playerStat : monsterStat
     public int Gold { get { return _gold; } set { _gold = value; } }
     public int NextExp { get { return _next_exp; } set { _next_exp = value; } }
     public int CurrentExp { get { return _current_exp; } set { _current_exp = value; } }
-    public int CurrentMp 
-    { 
-        get 
+    public int CurrentMp
+    {
+        get
         {
             if (_current_mp < 0)
                 return 0;
-            return _current_mp; 
-        } 
-        set { _current_mp = value; } 
+            return _current_mp;
+        }
+        set { _current_mp = value; }
     }
     public int MaxMp
     {

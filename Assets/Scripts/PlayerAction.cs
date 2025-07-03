@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -144,7 +142,7 @@ public class PlayerAction : MonoBehaviour
         {
             StartCoroutine(ButtonOnOffWait());
             return;
-        } 
+        }
         StartCoroutine(MoveObject(test, buttonAction));
         StartCoroutine(EndTurn());
     }
@@ -228,7 +226,7 @@ public class PlayerAction : MonoBehaviour
         }
 
         anim.SetInteger("Run", 0);
-        
+
     }
 
 
