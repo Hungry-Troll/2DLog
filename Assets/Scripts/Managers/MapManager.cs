@@ -3,7 +3,22 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
+using Newtonsoft.Json;
 
+[System.Serializable]
+public class MapData
+{
+    public string name;
+    public BoundsData bounds;
+    public List<string> itemList;
+    public List<string> monsterList;
+}
+
+[System.Serializable]
+public class BoundsData
+{
+    public int xMin, xMax, yMin, yMax;
+}
 
 public class MapManager
 {
@@ -124,7 +139,6 @@ public class MapManager
         // 나중에 일정 층 이상 도달하면 100을 넘겨줘서 마지막층 구현
         return MapId;
     }
-
 
     public void LoadMap()
     {

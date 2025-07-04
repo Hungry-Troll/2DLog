@@ -2,41 +2,26 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
 using System.IO;
-
-#if UNITY_EDITOR
 using UnityEditor;
 using Newtonsoft.Json;
 
-#endif
-
-[System.Serializable]
-public class MapData
-{
-    public string name;
-    public BoundsData bounds;
-    public List<string> itemList;
-    public List<string> monsterList;
-}
-
-[System.Serializable]
-public class BoundsData
-{
-    public int xMin, xMax, yMin, yMax;
-}
-
-public enum TileType
-{
-    collision,
-    stairUp,
-    stairDown,
-    trap,
-    monster,
-    item
-}
-
 public class MapEditor
 {
-#if UNITY_EDITOR
+    // Editor 폴더에 있는 클래스는 Asset 폴더와 어셈블리가 다름
+    [System.Serializable]
+    public class MapData
+    {
+        public string name;
+        public BoundsData bounds;
+        public List<string> itemList;
+        public List<string> monsterList;
+    }
+
+    [System.Serializable]
+    public class BoundsData
+    {
+        public int xMin, xMax, yMin, yMax;
+    }
 
     // 콜라이더 맵 체크
     // %(Ctrl) #(Shift) &(Alt) 단축키 세팅
@@ -257,5 +242,4 @@ public class MapEditor
     //        }
     //    }
     //}
-#endif
 }
