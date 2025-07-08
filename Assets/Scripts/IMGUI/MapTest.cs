@@ -152,7 +152,7 @@ public class MapTest : MonoBehaviour
 
     private GameObject CreateMap(string userInput)
     {
-        var resource = Resources.Load<GameObject>($"Prefab/{userInput}");
+        var resource = Resources.Load<GameObject>($"Prefabs/{userInput}");
         return GameObject.Instantiate(resource);
     }
 
@@ -288,6 +288,7 @@ public class MapTest : MonoBehaviour
                     // 생성된 더미에 해당 스프라이트로 변경
                     // 애니메이션 추가
                     // 데이터 추가
+                   
                     GameObject item = GameObject.Instantiate(dummyItem);
                     SpriteRenderer spriteRenderer = item.GetComponent<SpriteRenderer>();
                     spriteRenderer.sprite = Array.Find(itemSprites, sprite => sprite.name.Equals(mapData.itemList[itemIndex]));
