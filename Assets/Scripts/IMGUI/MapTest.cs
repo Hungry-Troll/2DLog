@@ -139,6 +139,8 @@ public class MapTest : MonoBehaviour
     GameObject dummy;
     MapData mapData;
     Tilemap baseTilemap;
+    Sprite[] itemSprites;
+    Sprite[] monsterSprites;
 
     public void LoadMap(string userInput)
     {
@@ -163,6 +165,8 @@ public class MapTest : MonoBehaviour
         GameObject itemTile = Util.FindChild(map, "Item", true);
         GameObject monsterTile = Util.FindChild(map, "Monster", true);
         Tilemap baseTilemap = Util.FindChild<Tilemap>(map, "BaseMap", true);
+        itemSprites = Resources.LoadAll<Sprite>("Sprite/Item/Item");
+        monsterSprites = Resources.LoadAll<Sprite>("Sprite/Monster/Monster");
 
         if (collisionMap != null)
             collisionMap.SetActive(false);
@@ -286,9 +290,9 @@ public class MapTest : MonoBehaviour
                     // 데이터 추가
                     GameObject item = GameObject.Instantiate(dummyItem);
                     SpriteRenderer spriteRenderer = item.GetComponent<SpriteRenderer>();
-                    spriteRenderer.sprite = Resources.Load<Sprite>($"Sprite/Item/{mapData.itemList[itemIndex]}");
+                    spriteRenderer.sprite = Array.Find(itemSprites, sprite => sprite.name.Equals(mapData.itemList[itemIndex]));
                     Animator animator = item.GetComponent<Animator>();
-                    animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>($"Animations/Item/{mapData.itemList[itemIndex]}");
+                    animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>($"Animations/Item/Controller/{mapData.itemList[itemIndex]}");
                     //
                     // 데이터 추가
                     //
