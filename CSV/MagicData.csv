@@ -1,0 +1,38 @@
+_no,_name,_base_damage,_reach,_range,_type,_mp_consume,_skill_limit,_property,_turn,_effect,_max_hp,_max_mp,_min_attack,_max_attack,_defence,_min_magic_attack,_max_magic_attack,_fire_res,_cold_res,_earth_res,_dark_res,_poison_res,_avoid,_nickName,_icon
+1,화염 폭풍,40,5,25,smite,9,3,fire,,burn,,,,,,,,,,,,,,magic2,fire6
+2,냉기 폭풍,40,5,25,smite,9,3,ice,,freeze,,,,,,,,,,,,,,magic3,ice3
+3,대악마 소환,,1,1,smite,9,3,sum,40,,,,,,,,,,,,,,,magic6,sum6
+4,화염 창,35,4,1,smite,7,3,fire,,,,,,,,,,,,,,,,magic2,fire1
+5,얼음 창,35,4,1,smite,7,3,ice,,,,,,,,,,,,,,,,magic3,ice5
+6,맹독 폭풍,40,5,25,smite,9,3,venom,,poison,,,,,,,,,,,,,,magic1,venom4
+7,대지의 수정창,40,4,1,smite,7,3,earth,,,,,,,,,,,,,,,,magic4,earth4
+8,저주,,4,1,smite,7,3,necro,20,half,,,,,,,,,,,,,,magic5,nec5
+9,악마 변신,,0,1,self,7,3,necro,40,,50,,10,10,8,10,10,,,,10,10,,magic5,nec6
+10,악마 소환,,1,1,smite,7,3,sum,40,,,,,,,,,,,,,,,magic6,sum5
+11,불꽃 발화,5,4,1,missile,1,1,fire,,,,,,,,,,,,,,,,magic2,fire5
+12,화염 화살,10,4,1,missile,3,1,fire,,,,,,,,,,,,,,,,magic2,fire7
+13,화염의 힘,10,0,1,self,2,1,fire,20,,,,,,,,,,,,,,,magic2,fire3
+14,화염구,20,4,9,missile,5,2,fire,,,,,,,,,,,,,,,,magic2,fire4
+15,화염 벽,20,3,1,smite,4,2,fire,,,,,,,,,,,,,,,,magic2,fire2
+16,냉기 갑옷,10,0,1,self,2,1,ice,20,,,,,,,,,,,,,,,magic3,ice1
+17,냉기의 손길,10,0,1,self,3,1,ice,20,,,,,,,,,,,,,,,magic3,ice2
+18,차가운 회복,10,0,1,self,5,2,ice,,,,,,,,,,,,,,,,magic3,ice6
+19,급속 냉각,,4,1,smite,4,2,ice,4,freeze,,,,,,,,,,,,,,magic3,ice7
+20,얼음 화살,10,4,1,missile,3,1,ice,,,,,,,,,,,,,,,,magic3,ice8
+21,독침,10,4,1,missile,1,1,venom,,poison,,,,,,,,,,,,,,magic1,venom1
+22,맹독의 구,35,4,1,missile,5,2,venom,,poison,,,,,,,,,,,,,,magic1,venom2
+23,독 바르기,15,0,1,self,2,1,venom,,poison,,,,,,,,,,,,,,magic1,venom3
+24,맹독 폭탄,30,4,25,smite,4,2,venom,,poison,,,,,,,,,,,,,,magic1,venom5
+25,맹독 구름,25,4,9,smite,3,1,venom,,poison,,,,,,,,,,,,,,magic1,venom6
+26,모래 바람,5,4,1,missile,1,1,earth,,,,,,,,,,,,,,,,magic4,earth5
+27,암석 화살,15,4,1,missile,3,1,earth,,,,,,,,,,,,,,,,magic4,earth1
+28,마비의 눈,,4,1,smite,4,2,earth,5,paralysis,,,,,,,,,,,,,,magic4,earth2
+29,석상의 형상,10,0,1,self,2,1,earth,40,,30,,10,10,4,,,,,10,,,,magic4,earth3
+30,해골 소환,,1,1,smite,1,1,necro,40,,,,,,,,,,,,,,,magic5,nec1
+31,고통,10,4,1,missile,3,1,necro,,,,,,,,,,,,,,,,magic5,nec2
+32,좀비 소환,,1,1,smite,5,2,necro,40,,,,,,,,,,,,,,,magic5,nec3
+33,언데드 말살,35,4,1,missile,4,2,necro,,,,,,,,,,,,,,,,magic5,nec4
+34,작은 동물 소환,,1,1,smite,1,1,sum,40,,,,,,,,,,,,,,,magic6,sum1
+35,늑대 소환,,1,1,smite,3,1,sum,40,,,,,,,,,,,,,,,magic6,sum2
+36,코끼리 소환,,1,1,smite,5,2,sum,40,,,,,,,,,,,,,,,magic6,sum3
+37,요정 소환,,1,1,smite,4,2,sum,40,,,,,,,,,,,,,,,magic6,sum4

@@ -1,0 +1,9 @@
+_no,_name,_max_hp,_max_mp,_min_attack,_max_attack,_defence,_min_magic_attack,_max_magic_attack,_fire_res,_cold_res,_earth_res,_dark_res,_poison_res,_avoid,_type,_hand,_enhance_limit,_skill_limit,_nickName
+1,가죽 신발,,,,,3,,,,,,,,,,,2,0,boot1
+2,마법사 신발,,,,,3,10,10,,,,,,,,,2,0,boot2
+3,사냥꾼 신발,,,,,3,,,,,,,10,,,,2,0,boot3
+4,화염의 신발,,,,,3,,,10,,,,,,,,2,0,boot4
+5,닌자 신발,,,,,3,,,,,,,,10,,,2,0,boot5
+6,냉기의 신발,,,,,3,,,,10,,,,,,,2,0,boot6
+7,대지의 신발,,,,,3,,,,,10,,,,,,2,0,boot7
+8,매력의 신발,10,10,,,3,,,,,,,,,,,2,0,boot8

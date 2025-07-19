@@ -1,0 +1,7 @@
+_no,_name,_max_hp,_max_mp,_min_attack,_max_attack,_defence,_min_magic_attack,_max_magic_attack,_fire_res,_cold_res,_earth_res,_dark_res,_poison_res,_avoid,_type,_hand,_enhance_limit,_skill_limit,_nickName
+1,검은 상자,,,,,,,,,,,,,,,,,,Black box
+2,카드 뭉치,,,,,,,,,,,,,,,,,,deck1
+3,마법 카드 뭉치,,,,,,,,,,,,,,,,,,deck2
+4,전설 카드 뭉치,,,,,,,,,,,,,,,,,,deck3
+5,골드,,,,,,,,,,,,,,,,,,gold1
+6,골드 뭉치,,,,,,,,,,,,,,,,,,gold2

@@ -1,0 +1,92 @@
+﻿[
+  {
+    "_level": "1",
+    "_max_hp": "15",
+    "_max_mp": "5",
+    "_next_exp": "50"
+  },
+  {
+    "_level": "2",
+    "_max_hp": "20",
+    "_max_mp": "7",
+    "_next_exp": "80"
+  },
+  {
+    "_level": "3",
+    "_max_hp": "25",
+    "_max_mp": "9",
+    "_next_exp": "120"
+  },
+  {
+    "_level": "4",
+    "_max_hp": "30",
+    "_max_mp": "11",
+    "_next_exp": "200"
+  },
+  {
+    "_level": "5",
+    "_max_hp": "35",
+    "_max_mp": "13",
+    "_next_exp": "350"
+  },
+  {
+    "_level": "6",
+    "_max_hp": "40",
+    "_max_mp": "15",
+    "_next_exp": "500"
+  },
+  {
+    "_level": "7",
+    "_max_hp": "45",
+    "_max_mp": "17",
+    "_next_exp": "650"
+  },
+  {
+    "_level": "8",
+    "_max_hp": "50",
+    "_max_mp": "19",
+    "_next_exp": "800"
+  },
+  {
+    "_level": "9",
+    "_max_hp": "55",
+    "_max_mp": "21",
+    "_next_exp": "1000"
+  },
+  {
+    "_level": "10",
+    "_max_hp": "60",
+    "_max_mp": "23",
+    "_next_exp": "2000"
+  },
+  {
+    "_level": "11",
+    "_max_hp": "65",
+    "_max_mp": "25",
+    "_next_exp": "4000"
+  },
+  {
+    "_level": "12",
+    "_max_hp": "70",
+    "_max_mp": "27",
+    "_next_exp": "8000"
+  },
+  {
+    "_level": "13",
+    "_max_hp": "75",
+    "_max_mp": "29",
+    "_next_exp": "16000"
+  },
+  {
+    "_level": "14",
+    "_max_hp": "80",
+    "_max_mp": "31",
+    "_next_exp": "32000"
+  },
+  {
+    "_level": "15",
+    "_max_hp": "85",
+    "_max_mp": "33",
+    "_next_exp": "64000"
+  }
+]

@@ -1,0 +1,114 @@
+﻿[
+  {
+    "_no": "1",
+    "_name": "랜덤 순간이동 주문서",
+    "_avoid": "",
+    "_enhance": "",
+    "_turn": "3",
+    "_nickName": "scroll7"
+  },
+  {
+    "_no": "2",
+    "_name": "무기 강화 주문서",
+    "_avoid": "",
+    "_enhance": "1",
+    "_turn": "",
+    "_nickName": "scroll1"
+  },
+  {
+    "_no": "3",
+    "_name": "방어구 강화 주문서",
+    "_avoid": "",
+    "_enhance": "1",
+    "_turn": "",
+    "_nickName": "scroll3"
+  },
+  {
+    "_no": "4",
+    "_name": "제어 순간이동 주문서",
+    "_avoid": "",
+    "_enhance": "",
+    "_turn": "",
+    "_nickName": "scroll6"
+  },
+  {
+    "_no": "5",
+    "_name": "축복받은 강화 주문서",
+    "_avoid": "",
+    "_enhance": "3",
+    "_turn": "",
+    "_nickName": "scroll2"
+  },
+  {
+    "_no": "6",
+    "_name": "소환 주문서",
+    "_avoid": "",
+    "_enhance": "",
+    "_turn": "40",
+    "_nickName": "scroll5"
+  },
+  {
+    "_no": "7",
+    "_name": "공포 주문서",
+    "_avoid": "",
+    "_enhance": "",
+    "_turn": "10",
+    "_nickName": "scroll8"
+  },
+  {
+    "_no": "8",
+    "_name": "안개 주문서",
+    "_avoid": "",
+    "_enhance": "",
+    "_turn": "15",
+    "_nickName": "scroll9"
+  },
+  {
+    "_no": "9",
+    "_name": "화염 주문서",
+    "_avoid": "",
+    "_enhance": "",
+    "_turn": "",
+    "_nickName": "scroll10"
+  },
+  {
+    "_no": "10",
+    "_name": "침묵 주문서",
+    "_avoid": "",
+    "_enhance": "",
+    "_turn": "20",
+    "_nickName": "scroll11"
+  },
+  {
+    "_no": "11",
+    "_name": "회피 주문서",
+    "_avoid": "20",
+    "_enhance": "",
+    "_turn": "20",
+    "_nickName": "scroll12"
+  },
+  {
+    "_no": "12",
+    "_name": "망각 주문서",
+    "_avoid": "",
+    "_enhance": "",
+    "_turn": "",
+    "_nickName": "scroll14"
+  },
+  {
+    "_no": "13",
+    "_name": "부활 주문서",
+    "_avoid": "",
+    "_enhance": "",
+    "_turn": "",
+    "_nickName": "scroll13"
+  },
+  {
+    "_no": "14",
+    "_name": "획득 주문서",
+    "_avoid": "",
+    "_enhance": "",
+    "_turn": "",
+    "_nickName": "scroll4"
+  }
+]

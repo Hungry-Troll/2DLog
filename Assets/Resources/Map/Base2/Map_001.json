@@ -7,12 +7,25 @@
     "yMax": 23
   },
   "itemList": [
-    "Item_0000",
-    "Item_0055",
-    "Item_0089"
+    "sword1",
+    "sword2",
+    "sword7",
+    "sword8",
+    "sword3",
+    "sword5",
+    "sword6",
+    "sword4",
+    "sword9",
+    "sword10"
   ],
   "monsterList": [
-    "Monster_0017",
-    "Monster_0012"
+    "Ork Mage",
+    "Ork",
+    "Ork Warrier",
+    "Ork Named",
+    "Ork Rider",
+    "Ork Knight",
+    "Ork King",
+    "Ork HighMage"
   ]
 }

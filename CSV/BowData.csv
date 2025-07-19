@@ -1,0 +1,7 @@
+_no,_name,_max_hp,_max_mp,_min_attack,_max_attack,_defence,_min_magic_attack,_max_magic_attack,_fire_res,_cold_res,_earth_res,_dark_res,_poison_res,_avoid,_type,_hand,_enhance_limit,_skill_limit,_nickName
+1,작은 활,,,5,15,,,,,,,,,,,2,3,1,bow1
+2,큰 활,,,20,25,,,,,,,,,,,2,3,2,bow2
+3,뇌신의 활,,,35,40,,,,,,,,,20,,2,3,3,bow5
+4,얼음 귀신의 활,,,30,35,,,,,20,,,,,ICE,2,3,3,bow4
+5,사냥꾼의 활,,,30,35,,,,,,10,,10,,EARTH,2,3,3,bow6
+6,큰 활,,,20,25,,,,,,,,,,,2,3,2,bow3

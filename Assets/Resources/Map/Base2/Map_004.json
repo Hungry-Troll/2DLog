@@ -1,0 +1,53 @@
+﻿{
+  "name": "Map_004",
+  "bounds": {
+    "xMin": 0,
+    "xMax": 30,
+    "yMin": -1,
+    "yMax": 23
+  },
+  "itemList": [
+    "mace1",
+    "mace2",
+    "mace3",
+    "axe1",
+    "axe2",
+    "axe3",
+    "mace4",
+    "mace5",
+    "mace6",
+    "mace7",
+    "mace8",
+    "mace9",
+    "axe4",
+    "axe5",
+    "axe6",
+    "axe10",
+    "axe11",
+    "axe12",
+    "mace10",
+    "mace11",
+    "axe7",
+    "axe8",
+    "axe9"
+  ],
+  "monsterList": [
+    "Troll",
+    "Troll Magision",
+    "Korea Gomiho",
+    "Korea Jangsug",
+    "Korea Harubang",
+    "Troll Deep",
+    "Troll Deep Assasin",
+    "Troll Deep Shaman",
+    "Sprite Light",
+    "Korea Woman Ghost",
+    "Korea Man Ghost",
+    "Korea Bridal Mask",
+    "Korea Hong_gil_dong",
+    "Korea Dokkebi",
+    "Sprite Fire",
+    "Sprite Ice",
+    "Sprite Earth"
+  ]
+}

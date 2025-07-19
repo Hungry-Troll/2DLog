@@ -116,7 +116,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Monster_0
+      name: Ork
       rect:
         serializedVersion: 2
         x: 0
@@ -124,7 +124,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -137,7 +137,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_1
+      name: Ork Warrier
       rect:
         serializedVersion: 2
         x: 80
@@ -145,7 +145,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -158,7 +158,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_2
+      name: Ork Named
       rect:
         serializedVersion: 2
         x: 160
@@ -166,7 +166,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -179,7 +179,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_3
+      name: Ork Rider
       rect:
         serializedVersion: 2
         x: 240
@@ -187,7 +187,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -200,7 +200,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_4
+      name: Ork Knight
       rect:
         serializedVersion: 2
         x: 320
@@ -208,7 +208,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -221,7 +221,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_5
+      name: Ork King
       rect:
         serializedVersion: 2
         x: 400
@@ -229,7 +229,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -242,7 +242,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_6
+      name: Ork Mage
       rect:
         serializedVersion: 2
         x: 480
@@ -250,7 +250,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -263,7 +263,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_7
+      name: Ork HighMage
       rect:
         serializedVersion: 2
         x: 560
@@ -271,7 +271,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -284,49 +284,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1760
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 836af882bdb97c142aa3de7967b12a17
-      internalID: 146148279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monster_9
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 1760
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb3d2592b92bf154ab1df49edb13f10c
-      internalID: -745146261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monster_10
+      name: Reaper
       rect:
         serializedVersion: 2
         x: 0
@@ -334,7 +292,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -347,7 +305,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_11
+      name: Rich
       rect:
         serializedVersion: 2
         x: 80
@@ -355,7 +313,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -368,7 +326,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_12
+      name: Ancient Rich
       rect:
         serializedVersion: 2
         x: 160
@@ -376,7 +334,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -389,7 +347,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_13
+      name: Skeleton
       rect:
         serializedVersion: 2
         x: 240
@@ -397,7 +355,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -410,7 +368,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_14
+      name: Skeleton Axe
       rect:
         serializedVersion: 2
         x: 320
@@ -418,7 +376,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -431,7 +389,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_15
+      name: Skeleton Archer
       rect:
         serializedVersion: 2
         x: 400
@@ -439,7 +397,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -452,7 +410,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_16
+      name: Zombie1
       rect:
         serializedVersion: 2
         x: 0
@@ -460,7 +418,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -473,7 +431,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_17
+      name: Zombie3
       rect:
         serializedVersion: 2
         x: 80
@@ -481,7 +439,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -494,7 +452,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_18
+      name: Zombie Knight
       rect:
         serializedVersion: 2
         x: 160
@@ -502,7 +460,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -515,7 +473,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_19
+      name: Zombie Miner
       rect:
         serializedVersion: 2
         x: 240
@@ -523,7 +481,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -536,7 +494,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_20
+      name: Zombie Giant
       rect:
         serializedVersion: 2
         x: 320
@@ -544,7 +502,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -557,7 +515,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_21
+      name: Zombie Magi
       rect:
         serializedVersion: 2
         x: 400
@@ -565,7 +523,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -578,7 +536,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_22
+      name: Jiangshi
       rect:
         serializedVersion: 2
         x: 0
@@ -586,7 +544,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -599,7 +557,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_23
+      name: Jiangshi2
       rect:
         serializedVersion: 2
         x: 80
@@ -607,7 +565,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -620,7 +578,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_24
+      name: JangshMaster
       rect:
         serializedVersion: 2
         x: 160
@@ -628,7 +586,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -641,7 +599,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_25
+      name: Son
       rect:
         serializedVersion: 2
         x: 0
@@ -649,7 +607,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -662,7 +620,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_26
+      name: Sa
       rect:
         serializedVersion: 2
         x: 80
@@ -670,7 +628,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -683,7 +641,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_27
+      name: Jio
       rect:
         serializedVersion: 2
         x: 160
@@ -691,7 +649,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -704,7 +662,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_28
+      name: Ogre
       rect:
         serializedVersion: 2
         x: 0
@@ -712,7 +670,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -725,7 +683,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_29
+      name: Ogre Red
       rect:
         serializedVersion: 2
         x: 80
@@ -733,7 +691,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -746,7 +704,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_30
+      name: Ettin
       rect:
         serializedVersion: 2
         x: 160
@@ -754,7 +712,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -767,7 +725,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_31
+      name: Cyclops
       rect:
         serializedVersion: 2
         x: 240
@@ -775,7 +733,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -788,7 +746,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_32
+      name: Cyclops Named
       rect:
         serializedVersion: 2
         x: 320
@@ -796,7 +754,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -809,7 +767,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_33
+      name: Giant
       rect:
         serializedVersion: 2
         x: 400
@@ -817,7 +775,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -830,7 +788,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_34
+      name: Giant Magi
       rect:
         serializedVersion: 2
         x: 480
@@ -838,7 +796,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -851,7 +809,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_35
+      name: Troll
       rect:
         serializedVersion: 2
         x: 0
@@ -859,7 +817,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -872,7 +830,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_36
+      name: Troll Magision
       rect:
         serializedVersion: 2
         x: 80
@@ -880,7 +838,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -893,7 +851,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_37
+      name: Troll Deep
       rect:
         serializedVersion: 2
         x: 160
@@ -901,7 +859,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -914,7 +872,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_38
+      name: Troll Deep Assasin
       rect:
         serializedVersion: 2
         x: 240
@@ -922,7 +880,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -935,15 +893,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_39
+      name: Troll Deep Shaman
       rect:
         serializedVersion: 2
         x: 320
-        y: 1280
+        y: 1282
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -956,15 +914,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_40
+      name: Sprite Fire
       rect:
         serializedVersion: 2
         x: 0
-        y: 1200
+        y: 1203
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -977,7 +935,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_41
+      name: Sprite Ice
       rect:
         serializedVersion: 2
         x: 80
@@ -985,7 +943,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -998,7 +956,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_42
+      name: Sprite Earth
       rect:
         serializedVersion: 2
         x: 160
@@ -1006,7 +964,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1019,7 +977,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_43
+      name: Sprite Light
       rect:
         serializedVersion: 2
         x: 240
@@ -1027,7 +985,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1040,7 +998,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_44
+      name: Korea Woman Ghost
       rect:
         serializedVersion: 2
         x: 0
@@ -1048,7 +1006,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1061,7 +1019,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_45
+      name: Korea Man Ghost
       rect:
         serializedVersion: 2
         x: 80
@@ -1069,7 +1027,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1082,7 +1040,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_46
+      name: Korea Gomiho
       rect:
         serializedVersion: 2
         x: 160
@@ -1090,7 +1048,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1103,7 +1061,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_47
+      name: Korea Jangsug
       rect:
         serializedVersion: 2
         x: 240
@@ -1111,7 +1069,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1124,7 +1082,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_48
+      name: Korea Harubang
       rect:
         serializedVersion: 2
         x: 320
@@ -1132,7 +1090,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1145,7 +1103,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_49
+      name: Korea Bridal Mask
       rect:
         serializedVersion: 2
         x: 400
@@ -1153,7 +1111,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1166,7 +1124,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_50
+      name: Korea Hong_gil_dong
       rect:
         serializedVersion: 2
         x: 480
@@ -1174,7 +1132,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1187,7 +1145,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_51
+      name: Korea Dokkebi
       rect:
         serializedVersion: 2
         x: 560
@@ -1195,7 +1153,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1208,91 +1166,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_52
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1040
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a3fd61cbc384ec4c8f5b4fed031b3c5
-      internalID: 2006937143
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monster_53
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 1040
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1720489e10c86bb4899606981187ae59
-      internalID: 1541687445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monster_54
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 1040
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27507168bea290b43a3af36e04866535
-      internalID: 1549857142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monster_55
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 1040
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2c0fc871a3a07f40b1c177fd816b092
-      internalID: -1085769928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monster_56
+      name: Kobold Archer
       rect:
         serializedVersion: 2
         x: 0
@@ -1300,7 +1174,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1313,7 +1187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_57
+      name: Kobold Chief
       rect:
         serializedVersion: 2
         x: 80
@@ -1321,7 +1195,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1334,7 +1208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_58
+      name: Koblod
       rect:
         serializedVersion: 2
         x: 160
@@ -1342,7 +1216,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1355,7 +1229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_59
+      name: Koblod Crown
       rect:
         serializedVersion: 2
         x: 240
@@ -1363,7 +1237,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1376,7 +1250,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_60
+      name: Kobold King
       rect:
         serializedVersion: 2
         x: 320
@@ -1384,7 +1258,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1397,15 +1271,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_61
+      name: Kobold Mage
       rect:
         serializedVersion: 2
         x: 400
-        y: 960
+        y: 962
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1418,7 +1292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_62
+      name: Rat
       rect:
         serializedVersion: 2
         x: 0
@@ -1426,7 +1300,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1439,7 +1313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_63
+      name: Mana Viper
       rect:
         serializedVersion: 2
         x: 80
@@ -1447,7 +1321,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1460,7 +1334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_64
+      name: Adder
       rect:
         serializedVersion: 2
         x: 160
@@ -1468,7 +1342,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1481,7 +1355,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_65
+      name: Naga Medusa
       rect:
         serializedVersion: 2
         x: 0
@@ -1489,7 +1363,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1502,15 +1376,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_66
+      name: Naga
       rect:
         serializedVersion: 2
         x: 80
-        y: 800
+        y: 801
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1523,7 +1397,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_67
+      name: Naga Azura
       rect:
         serializedVersion: 2
         x: 160
@@ -1531,7 +1405,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1544,7 +1418,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_68
+      name: Naga Warrier
       rect:
         serializedVersion: 2
         x: 240
@@ -1552,7 +1426,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1565,7 +1439,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_69
+      name: Naga SharpShooter
       rect:
         serializedVersion: 2
         x: 320
@@ -1573,7 +1447,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1586,7 +1460,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_70
+      name: Naga Magi
       rect:
         serializedVersion: 2
         x: 400
@@ -1594,7 +1468,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1607,7 +1481,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_71
+      name: Naga Master
       rect:
         serializedVersion: 2
         x: 480
@@ -1615,7 +1489,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1628,28 +1502,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_72
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 720
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e1b1d703edfe6e4889ed7412de80fbc
-      internalID: 1009900713
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monster_73
+      name: Merfork
       rect:
         serializedVersion: 2
         x: 80
@@ -1657,7 +1510,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1670,7 +1523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_74
+      name: Merfork Javelineer
       rect:
         serializedVersion: 2
         x: 160
@@ -1678,7 +1531,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1691,15 +1544,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_75
+      name: Merfork Warrier
       rect:
         serializedVersion: 2
         x: 240
-        y: 720
+        y: 721
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1712,7 +1565,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_76
+      name: Merfork Baker
       rect:
         serializedVersion: 2
         x: 320
@@ -1720,7 +1573,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1733,7 +1586,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_77
+      name: Human Named
       rect:
         serializedVersion: 2
         x: 0
@@ -1741,7 +1594,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1754,7 +1607,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_78
+      name: Mummy
       rect:
         serializedVersion: 2
         x: 80
@@ -1762,7 +1615,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1775,7 +1628,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_79
+      name: Mummy Warrier
       rect:
         serializedVersion: 2
         x: 160
@@ -1783,7 +1636,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1796,7 +1649,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_80
+      name: Mummy Pharaoh
       rect:
         serializedVersion: 2
         x: 240
@@ -1804,7 +1657,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1817,7 +1670,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_81
+      name: Mummy Anubis
       rect:
         serializedVersion: 2
         x: 320
@@ -1825,7 +1678,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1838,7 +1691,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_82
+      name: Elf
       rect:
         serializedVersion: 2
         x: 0
@@ -1846,7 +1699,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1859,7 +1712,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_83
+      name: Elf Bow Master
       rect:
         serializedVersion: 2
         x: 80
@@ -1867,7 +1720,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1880,7 +1733,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_84
+      name: Elf Demonologist
       rect:
         serializedVersion: 2
         x: 160
@@ -1888,7 +1741,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1901,7 +1754,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_85
+      name: Elf Magi
       rect:
         serializedVersion: 2
         x: 240
@@ -1909,7 +1762,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1922,7 +1775,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_86
+      name: Elf DeathMage
       rect:
         serializedVersion: 2
         x: 320
@@ -1930,7 +1783,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1943,7 +1796,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_87
+      name: Elf Knight
       rect:
         serializedVersion: 2
         x: 400
@@ -1951,7 +1804,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1964,7 +1817,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_88
+      name: Elf Blade Master
       rect:
         serializedVersion: 2
         x: 480
@@ -1972,7 +1825,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1985,7 +1838,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_89
+      name: Dwarf
       rect:
         serializedVersion: 2
         x: 0
@@ -1993,7 +1846,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2006,7 +1859,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_90
+      name: Dwarf Carpenter
       rect:
         serializedVersion: 2
         x: 80
@@ -2014,7 +1867,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2027,7 +1880,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_91
+      name: Dwarf Gimli
       rect:
         serializedVersion: 2
         x: 160
@@ -2035,7 +1888,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2048,7 +1901,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_92
+      name: Bat
       rect:
         serializedVersion: 2
         x: 240
@@ -2056,7 +1909,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2069,7 +1922,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_93
+      name: Little Devi Dark
       rect:
         serializedVersion: 2
         x: 320
@@ -2077,7 +1930,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2090,7 +1943,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_94
+      name: Little Devi Fire
       rect:
         serializedVersion: 2
         x: 400
@@ -2098,7 +1951,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2111,7 +1964,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_95
+      name: Little Devi Ice
       rect:
         serializedVersion: 2
         x: 480
@@ -2119,7 +1972,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2132,7 +1985,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_96
+      name: Little Devi Green
       rect:
         serializedVersion: 2
         x: 560
@@ -2140,7 +1993,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2153,7 +2006,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_97
+      name: Little Devi Iron
       rect:
         serializedVersion: 2
         x: 640
@@ -2161,7 +2014,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2174,7 +2027,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_98
+      name: Minota
       rect:
         serializedVersion: 2
         x: 0
@@ -2182,7 +2035,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2195,28 +2048,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_99
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 400
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ff6e3a3d2dd3ba448c4e66b38f90e60
-      internalID: -26262606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monster_100
+      name: Balrug
       rect:
         serializedVersion: 2
         x: 160
@@ -2224,7 +2056,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2237,7 +2069,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_101
+      name: Ice Fiend
       rect:
         serializedVersion: 2
         x: 240
@@ -2245,7 +2077,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2258,7 +2090,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_102
+      name: Green Fiend
       rect:
         serializedVersion: 2
         x: 320
@@ -2266,7 +2098,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2279,7 +2111,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_103
+      name: Golem
       rect:
         serializedVersion: 2
         x: 400
@@ -2287,7 +2119,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2300,7 +2132,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_104
+      name: Iron Fiend
       rect:
         serializedVersion: 2
         x: 480
@@ -2308,7 +2140,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2321,7 +2153,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_105
+      name: Dark Fiend
       rect:
         serializedVersion: 2
         x: 560
@@ -2329,7 +2161,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2342,15 +2174,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_106
+      name: Beholder
       rect:
         serializedVersion: 2
         x: 0
-        y: 320
+        y: 327
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2363,15 +2195,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_107
+      name: Eye Of Walk
       rect:
         serializedVersion: 2
         x: 80
-        y: 320
+        y: 322
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2384,7 +2216,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_108
+      name: Eye Of Floating
       rect:
         serializedVersion: 2
         x: 160
@@ -2392,7 +2224,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2405,7 +2237,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_109
+      name: Eye Of Green
       rect:
         serializedVersion: 2
         x: 240
@@ -2413,7 +2245,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2426,15 +2258,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_110
+      name: Eye Of Gold
       rect:
         serializedVersion: 2
         x: 320
-        y: 320
+        y: 321
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2447,15 +2279,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_111
+      name: Baphomet
       rect:
         serializedVersion: 2
         x: 0
-        y: 240
+        y: 242
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2468,7 +2300,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_112
+      name: Imp Fire
       rect:
         serializedVersion: 2
         x: 80
@@ -2476,7 +2308,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2489,7 +2321,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_113
+      name: Imp Ice
       rect:
         serializedVersion: 2
         x: 160
@@ -2497,7 +2329,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2510,7 +2342,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_114
+      name: Imp Iron
       rect:
         serializedVersion: 2
         x: 240
@@ -2518,7 +2350,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2531,7 +2363,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_115
+      name: Imp Poision
       rect:
         serializedVersion: 2
         x: 320
@@ -2539,7 +2371,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2552,7 +2384,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_116
+      name: wolf
       rect:
         serializedVersion: 2
         x: 0
@@ -2560,7 +2392,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2573,15 +2405,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_117
+      name: wolf Ware
       rect:
         serializedVersion: 2
         x: 80
-        y: 160
+        y: 162
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2594,15 +2426,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_118
+      name: Dog
       rect:
         serializedVersion: 2
-        x: 160
-        y: 160
+        x: 159
+        y: 157
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2615,7 +2447,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_119
+      name: Plant
       rect:
         serializedVersion: 2
         x: 0
@@ -2623,7 +2455,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2636,7 +2468,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_120
+      name: Ba
       rect:
         serializedVersion: 2
         x: 0
@@ -2644,7 +2476,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2657,15 +2489,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_121
+      name: Bear
       rect:
         serializedVersion: 2
         x: 80
-        y: 0
+        y: 1
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2678,7 +2510,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_122
+      name: Black Bear
       rect:
         serializedVersion: 2
         x: 160
@@ -2686,7 +2518,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2699,7 +2531,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_123
+      name: Manticore
       rect:
         serializedVersion: 2
         x: 240
@@ -2707,7 +2539,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2720,15 +2552,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_124
+      name: Elephant
       rect:
         serializedVersion: 2
         x: 320
-        y: 0
+        y: 1
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2741,15 +2573,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_125
+      name: Elephant Dire
       rect:
         serializedVersion: 2
         x: 400
-        y: 0
+        y: 1
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2762,7 +2594,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_126
+      name: Elephant Hell
       rect:
         serializedVersion: 2
         x: 480
@@ -2770,7 +2602,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2783,7 +2615,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_127
+      name: Slug
       rect:
         serializedVersion: 2
         x: 560
@@ -2791,7 +2623,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2804,7 +2636,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monster_128
+      name: Slug Named
       rect:
         serializedVersion: 2
         x: 640
@@ -2812,7 +2644,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2835,135 +2667,135 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Monster_82: 1714843948
-      Monster_36: 1755301360
-      Monster_42: -1823613060
+      Dark Fiend: -1686542061
+      Baphomet: 1867798405
+      Kobold Archer: 581829215
+      Dog: 1004818201
+      Zombie3: 889445513
       Monster_99: -26262606
-      Monster_21: 1708145900
-      Monster_28: 340421171
-      Monster_1: 1873464013
-      Monster_94: 2094551829
-      Monster_7: -575263922
-      Monster_87: 1781783524
-      Monster_19: 450365891
-      Monster_27: -1911676597
-      Monster_60: 875729161
-      Monster_56: 581829215
-      Monster_128: 22131623
-      Monster_59: -2092143412
-      Monster_31: 809391113
-      Monster_29: -587320013
-      Monster_63: 353538033
-      Monster_61: -1653673664
-      Monster_126: -623984165
-      Monster_104: -688347216
-      Monster_84: 1377355429
-      Monster_108: 1515835561
-      Monster_119: -1780714280
-      Monster_96: -1771499395
-      Monster_123: -682821086
-      Monster_14: 86867396
-      Monster_116: 596921761
-      Monster_35: -466645487
-      Monster_38: 965768799
-      Monster_45: 1513850625
-      Monster_16: 1940243255
-      Monster_0: -738540284
-      Monster_65: 1762147608
+      Korea Hong_gil_dong: 1136080066
+      Ork HighMage: -575263922
+      Korea Gomiho: -1696395516
+      Human Named: -1435962675
+      Dwarf: -831280728
+      Skeleton Axe: 86867396
+      Sprite Fire: 121950807
+      Zombie Giant: -567326187
+      Zombie Knight: 955545511
+      Jiangshi2: -550512320
+      Kobold Mage: -1653673664
+      Naga Azura: 849292459
+      Ettin: -1138736318
+      Korea Bridal Mask: -2093550604
+      Elf DeathMage: -350813019
+      Troll Deep Assasin: 965768799
+      wolf Ware: -1421101409
+      Dwarf Gimli: 1895497812
+      Mummy Pharaoh: -2128606590
+      Ork Rider: -58706455
+      Skeleton Archer: 527838321
+      Giant: 1061797049
+      Little Devi Iron: 1697205299
+      Imp Fire: -55455956
+      Troll Magision: 1755301360
+      Son: 1582386992
+      Ogre Red: -587320013
+      Minota: -30302455
+      Sa: 1508546675
+      Naga: 1734329043
+      Ork Mage: 897611309
+      Korea Jangsug: 1830793263
+      Korea Dokkebi: 659994829
       Monster_8: 146148279
-      Monster_103: -1249353317
-      Monster_32: -1675691944
-      Monster_6: 897611309
-      Monster_79: -122956353
-      Monster_24: -566576037
-      Monster_37: -1128645408
-      Monster_67: 849292459
-      Monster_50: 1136080066
-      Monster_110: -850826692
+      Korea Woman Ghost: 666509659
+      Naga Master: 1252269903
+      Bear: -1837114530
+      Adder: 1612341683
+      Koblod: -371200097
+      Elf Magi: 335496154
+      Black Bear: 1707891547
+      Ork Named: 1781620454
       Monster_55: -1085769928
-      Monster_124: 1146789836
-      Monster_66: 1734329043
-      Monster_10: 159291231
-      Monster_101: -557053048
-      Monster_78: -1392660127
-      Monster_95: -255657340
-      Monster_102: 1369485053
-      Monster_97: 1697205299
-      Monster_13: -136350890
-      Monster_33: 1061797049
-      Monster_76: -583457213
-      Monster_48: 165434276
-      Monster_17: 889445513
-      Monster_47: 1830793263
-      Monster_75: 95095954
-      Monster_109: -691380377
-      Monster_127: -110297397
-      Monster_22: 9185650
-      Monster_58: -371200097
-      Monster_68: -270704912
-      Monster_5: 1709658170
-      Monster_40: 121950807
-      Monster_62: 2144605349
-      Monster_23: -550512320
-      Monster_43: 1890410096
-      Monster_91: 1895497812
+      Naga Warrier: -270704912
+      Sprite Light: 1890410096
+      Iron Fiend: -688347216
+      Zombie Magi: 1708145900
+      Elf Blade Master: -1898046202
+      Imp Ice: 281240283
+      Ork Warrier: 1873464013
+      Elephant: 1146789836
+      Little Devi Dark: -614998880
+      JangshMaster: -566576037
+      Manticore: -682821086
+      Jio: -1911676597
+      Mummy: -1392660127
+      Kobold Chief: 710262171
+      Naga Medusa: 1762147608
+      Rich: 1760797169
+      Merfork: 139628872
+      Mummy Warrier: -122956353
+      Ork King: 1709658170
+      Ogre: 340421171
+      wolf: 596921761
+      Green Fiend: 1369485053
+      Ancient Rich: -837965080
+      Koblod Crown: -2092143412
+      Mummy Anubis: -811117796
+      Beholder: 1413725144
       Monster_53: 1541687445
-      Monster_11: 1760797169
-      Monster_114: -1480929876
-      Monster_115: -1816125188
-      Monster_77: -1435962675
-      Monster_49: -2093550604
-      Monster_34: 1728584889
-      Monster_90: 2070219547
-      Monster_25: 1582386992
-      Monster_30: -1138736318
-      Monster_120: -748905662
-      Monster_83: -1965845878
-      Monster_41: 531212508
-      Monster_111: 1867798405
-      Monster_118: 1004818201
-      Monster_18: 955545511
-      Monster_98: -30302455
-      Monster_15: 527838321
-      Monster_106: 1413725144
+      Sprite Ice: 531212508
+      Eye Of Floating: 1515835561
+      Elf: 1714843948
+      Little Devi Fire: 2094551829
+      Reaper: 159291231
+      Little Devi Ice: -255657340
+      Jiangshi: 9185650
+      Merfork Javelineer: 1884886613
+      Eye Of Green: -691380377
+      Imp Poision: -1816125188
+      Elephant Dire: -853517196
+      Kobold King: 875729161
+      Sprite Earth: -1823613060
+      Eye Of Walk: -1220350042
+      Naga SharpShooter: -1744052683
+      Ice Fiend: -557053048
+      Troll Deep Shaman: -502297722
       Monster_9: -745146261
-      Monster_73: 139628872
-      Monster_81: -811117796
-      Monster_122: 1707891547
-      Monster_88: -1898046202
-      Monster_113: 281240283
+      Ork: -738540284
+      Elf Knight: 1781783524
       Monster_72: 1009900713
-      Monster_100: -1731429860
-      Monster_3: -58706455
-      Monster_4: 77399940
+      Cyclops Named: -1675691944
+      Merfork Baker: -583457213
+      Ba: -748905662
+      Cyclops: 809391113
+      Balrug: -1731429860
       Monster_54: 1549857142
-      Monster_2: 1781620454
-      Monster_39: -502297722
-      Monster_46: -1696395516
+      Golem: -1249353317
+      Mana Viper: 353538033
       Monster_52: 2006937143
-      Monster_89: -831280728
-      Monster_64: 1612341683
-      Monster_69: -1744052683
-      Monster_26: 1508546675
-      Monster_121: -1837114530
-      Monster_74: 1884886613
-      Monster_57: 710262171
-      Monster_85: 335496154
-      Monster_12: -837965080
-      Monster_44: 666509659
-      Monster_117: -1421101409
-      Monster_125: -853517196
-      Monster_71: 1252269903
-      Monster_80: -2128606590
-      Monster_92: -746684289
-      Monster_70: 840412999
-      Monster_105: -1686542061
-      Monster_112: -55455956
-      Monster_86: -350813019
-      Monster_107: -1220350042
-      Monster_51: 659994829
-      Monster_93: -614998880
-      Monster_20: -567326187
+      Giant Magi: 1728584889
+      Slug Named: 22131623
+      Troll Deep: -1128645408
+      Rat: 2144605349
+      Dwarf Carpenter: 2070219547
+      Korea Man Ghost: 1513850625
+      Imp Iron: -1480929876
+      Eye Of Gold: -850826692
+      Skeleton: -136350890
+      Korea Harubang: 165434276
+      Merfork Warrier: 95095954
+      Zombie Miner: 450365891
+      Naga Magi: 840412999
+      Zombie1: 1940243255
+      Bat: -746684289
+      Ork Knight: 77399940
+      Elephant Hell: -623984165
+      Slug: -110297397
+      Plant: -1780714280
+      Elf Bow Master: -1965845878
+      Troll: -466645487
+      Elf Demonologist: 1377355429
+      Little Devi Green: -1771499395
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

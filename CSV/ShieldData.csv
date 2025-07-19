@@ -1,0 +1,11 @@
+_no,_name,_max_hp,_max_mp,_min_attack,_max_attack,_defence,_min_magic_attack,_max_magic_attack,_fire_res,_cold_res,_earth_res,_dark_res,_poison_res,_avoid,_type,_hand,_enhance_limit,_skill_limit,_nickName
+1,소형 방패,,,,,2,,,,,,,,,,1,2,1,shield3
+2,강화된 소형 방패,,,,,4,,,,,,,,,,1,2,1,shield1
+3,대형 방패,,,,,8,,,,,,,,,,1,2,2,shield6
+4,엘프의 소형 방패,,,,,4,,,,,,,10,10,,1,2,1,shield2
+5,중형 방패,,,,,6,,,,,,,,,,1,2,1,shield4
+6,내성의 방패,,,,,6,,,10,10,,,,,,1,2,1,shield5
+7,무지의 방패,,,,,12,,,,,,,,,,1,2,2,shield7
+8,해골 방패,,,,,8,,,,,,20,,,,1,2,2,shield8
+9,기사의 방패,20,,,,8,,,,,,,10,,,1,2,2,shield9
+10,왕가의 방패,20,,,,8,,,,,10,10,,,,1,2,2,shield10

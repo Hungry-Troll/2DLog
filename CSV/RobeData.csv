@@ -1,0 +1,8 @@
+_no,_name,_max_hp,_max_mp,_min_attack,_max_attack,_defence,_min_magic_attack,_max_magic_attack,_fire_res,_cold_res,_earth_res,_dark_res,_poison_res,_avoid,_type,_hand,_enhance_limit,_skill_limit,_nickName
+1,로브,,,,,4,,,,,,,,,,,2,0,robe1
+2,로브,,,,,4,,,,,,,,,,,2,0,robe2
+3,마법사 로브,,20,,,4,10,10,,,,,,,,,2,0,robe4
+4,도사의 의복,20,,,,10,,,,,,,,10,,,2,0,robe5
+5,빛의 로브,,20,,,4,10,10,10,10,,,,,,,2,0,robe6
+6,어둠의 로브,,20,,,4,10,10,,,10,10,,,,,2,0,robe7
+7,로브,,,,,4,,,,,,,,,,,2,0,robe3

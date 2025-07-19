@@ -1,0 +1,11 @@
+_no,_name,_max_hp,_current_hp,_max_mp,_current_mp,_min_attack,_max_attack,_defence,_min_magic_attack,_max_magic_attack,_fire_res,_cold_res,_earth_res,_dark_res,_poison_res,_avoid,_turn,_nickName
+1,상태이상 회복 물약,,10,,,,,,,,,,,,,,1,curePotion
+2,체력 회복 물약,,50,,,,,,,,,,,,,,1,healingPotion
+3,마력 회복 물약,,,,50,,,,,,,,,,,,1,manaPotion
+4,투명화 물약,,,,,,,,,,,,,,,10,15,invisibilityPotion
+5,광폭화 물약,50,50,,,20,20,,,,,,,,,,20,powPotion
+6,저항력 증가 물약,,,,,,,,,,30,30,30,30,30,,20,resPotion
+7,속도 증가 물약,,,,,,,,,,,,,,,,15,speedPotion
+8,나무 변신 물약,50,50,,,10,10,,,,,,,,,,20,treePotion
+9,마법 공격력 증가 물약,,,,,,,,20,20,,,,,,,1,intPotion
+10,레벨 업 물약,,,,,,,,,,,,,,,,1,lvUpPotion

@@ -1,0 +1,771 @@
+_key,_ko,_en
+sword2,단검,Dagger
+sword1,강철 단검,Steel Dagger
+sword5,장검,Longsword
+sword4,강철 장검,Steel Longsword
+sword8,수호자의 검,Guardian's Blade
+sword13,투사의 검,Warrior's Blade
+sword11,대검,Greatsword
+sword14,강철 대검,Steel Greatsword
+sword7,식칼,chef Knife
+sword9,냉기의 검,Blade of Frost
+sword10,불꽃의 검,Blade of Flame
+sword15,기사의 대검,Knight's Greatsword
+sword17,얼음의 대검,Greatsword of Ice
+sword18,화염의 대검,Greatsword of Fire
+sword19,톱날검,Serrated Sword
+sword20,저주받은 마검,Cursed Demonblade
+sword21,마왕의 검,Overlord's Blade
+sword22,암살자의 검,Assassin's Blade
+sword23,서리칼날,Frostfang
+sword3,단검,Dagger
+sword6,장검,Longsword
+sword12,요도,Blade of the Yokai
+sword16,대검,Greatsword
+sword2_comment,작은 단검,A small dagger
+sword1_comment,강철로 강화한 단검,A dagger reinforced with steel
+sword5_comment,길다란 검,A long sword
+sword4_comment,강철로 강화한 장검,A longsword reinforced with steel
+sword8_comment,날이 살짝 휘어진 장검,A slightly curved longsword
+sword13_comment,투지가 상승하는 검,A sword that boosts morale
+sword11_comment,큰 양손검,A large two-handed sword
+sword14_comment,강철로 강화한 양손검,A two-handed sword reinforced with steel
+sword7_comment,요리사가 사용하는 검,A sword used by chefs
+sword9_comment,냉기의 기운이 깃든 검,A sword imbued with the power of frost
+sword10_comment,불꽃의 기운이 깃든 검,A sword imbued with the power of flame
+sword15_comment,기사가 사용하는 양손검,A two-handed sword used by knights
+sword17_comment,얼음의 힘을 가진 양손검,A two-handed sword with the power of ice
+sword18_comment,화염의 힘을 가진 양손검,A two-handed sword with the power of fire
+sword19_comment,날카로운 톱날을 가진 양손검,A two-handed sword with a sharp saw blade
+sword20_comment,악마의 저주를 받은 양손검,A cursed two-handed sword of the demon
+sword21_comment,마왕이 사용하는 양손검,A two-handed sword used by the Demon King
+sword22_comment,암살자가 사용하는 검,A sword used by assassins
+sword23_comment,차가운 서리로 만든 양손검,A two-handed sword made of cold frost
+sword3_comment,작은 단검,A small dagger
+sword6_comment,길다란 검,A long sword
+sword12_comment,이상하게 생긴 요괴의 검,The Yokai's Distorted Saber
+sword16_comment,큰 양손검,A large two-handed sword
+staff1,초록 지팡이,Green Staff
+staff2,붉은 지팡이,Red Staff
+staff3,검은 지팡이,Black Staff
+staff4,파란 지팡이,Blue Staff
+staff7,마법사의 지팡이,Wizard's Staff
+staff5,대지의 지팡이,Staff of Earth
+staff6,불꽃의 지팡이,Staff of Flame
+staff8,어둠의 지팡이,Staff of Darkness
+staff12,냉기의 지팡이,Staff of Frost
+staff9,요정의 지팡이,Fairy Staff 
+staff10,정의의 지팡이,Staff of Justice
+staff11,파초선,Leaf Fan
+staff13,저주받은 지팡이,Cursed Staff
+staff1_comment,초록색 지팡이,Green Staff
+staff2_comment,붉은색 지팡이,Red Staff
+staff3_comment,검은색 지팡이,Black Staff
+staff4_comment,파란색 지팡이,Blue Staff
+staff7_comment,마력이 깃든 지팡이,Enchanted Staff
+staff5_comment,대지의 힘이 깃든 지팡이,Staff of Earth Power
+staff6_comment,불꽃의 기운이 깃든 지팡이,Staff imbued with the Power of Flame
+staff8_comment,어두운 힘이 깃든 지팡이,Staff imbued with Dark Power
+staff12_comment,냉기의 기운이 깃든 지팡이,Staff imbued with the Chill of Frost
+staff9_comment,요정의 힘이 깃든 지팡이,Staff imbued with Fairy Power
+staff10_comment,정의로운 능력을 가진 지팡이,Staff of Righteous Power
+staff11_comment,파초잎으로 만들어진 도구,Tool Made from Banana Leaves
+staff13_comment,악의 저주를 받은 지팡이,Cursed Staff of Evil
+spear2,나뭇가지,Tree Branch
+spear1,곤봉,Club
+spear3,강화된 곤봉,Reinforced Club
+spear4,창,Spear
+spear7,파르티잔,Partisan
+spear11,할버드,Halberd
+spear14,글레이브,Glaive
+spear15,폴암,Polearm
+spear12,기사의 창,Knight's Spear
+spear9,붉은 악마의 삼지창,Trident of the Red Demon
+spear13,여의봉,Ruyi Staff
+spear10,삼지창,Trident
+spear5,파란창,Blue Trident
+spear6,녹색창,Green Trident)
+spear8,파르티잔,Partisan
+spear2_comment,작은 나뭇가지,Small Twig
+spear1_comment,나무를 깎아서 만든 무기,A Weapon Carved from Wood
+spear3_comment,곤봉 양끝에 철을 덧댄 무기,A Club Reinforced with Iron at Both Ends
+spear4_comment,평범한 창,Ordinary Spear
+spear7_comment,작은 칼날이 달린 창,Spear with a Small Blade
+spear11_comment,도끼날이 달린 창,Spear with an Axe Blade
+spear14_comment,긴 칼날이 달린 창,Spear with a Long Blad
+spear15_comment,날카로운 칼날이 달린 창,Spear with a Sharp Blade
+spear12_comment,기사가 사용하는 창,Knight's Spear
+spear9_comment,악마의 힘이 깃든 삼지창,Trident Imbued with Demonic Power
+spear13_comment,금빛의 기다란 장대,Long Golden Pole
+spear10_comment,이상한 힘이 깃든 삼지창,Trident Imbued with Strange Power
+spear5_comment,푸르게 빛나는 창,Spear that Glows Blue
+spear6_comment,푸르게 빛나는 창,Spear that Glows Blue
+spear8_comment,작은 칼날이 달린 창,Spear with a Small Blade
+shield3,소형 방패,Small Shield
+shield1,강화된 소형 방패,Reinforced Small Shield
+shield6,대형 방패,Large Shield
+shield2,엘프의 소형 방패,Elf's Small Shield
+shield4,중형 방패,Medium Shield
+shield5,내성의 방패,Shield of Resistance
+shield7,무지의 방패,Shield of Ignorance
+shield8,해골 방패,Skull Shield
+shield9,기사의 방패,Knight's Shield
+shield10,왕가의 방패,Royal Shield
+shield3_comment,나무에 금속을 덧댄 작은 방패,Small Shield Reinforced with Metal over Wood
+shield1_comment,금속을 개량한 작은 방패,Enhanced Small Metal Shield
+shield6_comment,커다란 방패,Massive Shield
+shield2_comment,엘프가 사용하는 작은 방패,Small Shield Used by Elves
+shield4_comment,나무와 금속으로 만든 방패,Shield Crafted from Wood and Metal
+shield5_comment,저항력이 높은 방패,High-Resistance Shield
+shield7_comment,무지막지하게 큰 방패,Colossally Large Shield
+shield8_comment,죽음의 기운이 깃든 방패,Shield Imbued with the Aura of Death
+shield9_comment,기사가 사용하는 방패,Shield Used by Knights
+shield10_comment,왕가의 문양이 새겨진 방패,Shield Engraved with the Royal Emblem
+Robe1,로브,Robe
+Robe2,로브,Robe
+Robe4,마법사 로브,Wizard's Robe
+Robe5,도사의 의복,Sage's Garment
+Robe6,빛의 로브,Robe of Light
+Robe7,어둠의 로브,Robe of Darkness
+Robe3,로브,Robe
+Robe1_comment,가벼운 천으로 만든 옷.,A garment made of light fabric
+Robe2_comment,가벼운 천으로 만든 옷.,A garment made of light fabric
+Robe4_comment,마법사가 사용하는 로브.,A robe worn by wizards
+Robe5_comment,도사가 사용하는 옷.,A garment worn by sages
+Robe6_comment,빛의 기운을 간직한 로브.,A robe imbued with the essence of light
+Robe7_comment,어둠의 기운을 간직한 로브.,A robe imbued with the essence of darknes
+Robe3_comment,가벼운 천으로 만든 옷.,A garment made of light fabric
+mace5,메이스,Mace
+mace3,플레일,Flail
+mace1,모닝스타,Morning Star
+mace2,강철 모닝스타,Steel Morning Star
+mace6,대형 메이스,Large Mace
+mace7,거대 몽둥이,Giant Club
+mace10,푸른빛의 모닝스타,Azure Morning Star
+mace9,가시박힌 거대 몽둥이,Spiked Giant Club
+mace11,강철 거대 몽둥이,Steel Giant Club
+mace4,플레일,Flail
+mace8,거대 몽둥이,Giant Club
+mace5_comment,작은 둔기,A small blunt weapon
+mace3_comment,사슬로 연결한 둔기,A blunt weapon connected with chain
+mace1_comment,가시가 박힌 둔기,A blunt weapon embedded with spikes
+mace2_comment,가시가 박힌 강철 둔기,A steel blunt weapon embedded with spikes
+mace6_comment,거대한 둔기,A massive blunt weapon
+mace7_comment,오우거가 사용하는 거대한 몽둥이,A giant club wielded by an ogre
+mace10_comment,가시가 박힌 푸른빛의 둔기,A spiked blunt weapon that glows with a bluish light
+mace9_comment,오우거가 사용하는 가시가 박힌 거대한 몽둥이,A massive spiked club used by an ogre
+mace11_comment,오우거가 사용하는 거대한 강철 몽둥이,A huge steel club wielded by an ogre
+mace4_comment,사슬로 연결한 둔기,A flail-like weapon with chained segments
+mace8_comment,오우거가 사용하는 거대한 몽둥이,A gigantic club used by an ogre
+helmet1,철 투구,Iron Helmet
+helmet2,기사 투구,Knight’s Helmet
+helmet4,기사단장 투구,Paladin’s Helmet
+helmet5,황금 투구,Golden Helmet
+helmet6,돌가면,Stone Mask
+helmet7,금고아,Golden Circlet
+helmet11,투사의 투구,Warrior’s Helmet
+helmet13,코볼트 왕관,Kobold Crown
+helmet8,마술사 모자,Magician’s Hat
+helmet9,요리사 모자,Chef’s Hat
+helmet12,광대 모자,Jester’s Hat
+helmet14,마법사 모자,Wizard’s Hat
+helmet16,사냥꾼 모자,Hunter’s Hat
+helmet17,탐험가 모자,Explorer’s Hat
+helmet18,대마도사 모자,Archmage’s Hat
+helmet3,투구,Helmet
+helmet10,투구,Helmet
+helmet15,모자,Hat
+helmet1_comment,철로 만든 투구,Iron Helmet
+helmet2_comment,기사가 사용하는 투구,Knight’s Helmet
+helmet4_comment,기사단장이 사용하는 투구,Commander’s Helmet
+helmet5_comment,황금으로 만든 투구,Golden Helmet
+helmet6_comment,돌로 만든 고대의 가면,Ancient Stone Mask
+helmet7_comment,이상한 모양의 금테,Strange Golden Circlet
+helmet11_comment,투지가 상승하는 투구,Helmet of Valor
+helmet13_comment,코볼트킹이 사용하는 왕관,Crown of the Kobold King
+helmet8_comment,마술사가 사용하는 모자,Magician’s Hat
+helmet9_comment,요리사가 사용하는 모자,Chef’s Hat
+helmet12_comment,광대가 사용하는 모자,Jester’s Hat
+helmet14_comment,마법사가 사용하는 모자,Wizard’s Hat
+helmet16_comment,사냥꾼이 사용하는 모자,Hunter’s Cap
+helmet17_comment,탐험가가 사용하는 모자,Explorer’s Hat
+helmet18_comment,대마도사가 사용하는 모자,Archmage’s Hat
+helmet3_comment,기사가 사용하는 투구,Knight’s Helmet
+helmet10_comment,기사단장이 사용하는 투구,Commander’s Helmet
+helmet15_comment,마법사가 사용하는 모자,Wizard’s Hat
+glove1,가죽 장갑,Leather Gloves
+glove2,철 장갑,Iron Gauntlets
+glove3,기사도 장갑,Knight's Gauntlets
+glove4,벙어리 장갑,Mittens
+glove5,투사의 장갑,Warrior's Gloves
+glove6,닌자의 장갑,Ninja Gloves
+glove1_comment,가죽으로 만든 장갑,Gloves made of leather
+glove2_comment,철을 덧댄 만든 장갑,Gloves reinforced with iron
+glove3_comment,기사가 사용하는 장갑,Gloves used by knights
+glove4_comment,따뜻한 장갑,Warm gloves
+glove5_comment,투지가 상승하는 장갑,Gloves that boost fighting spirit
+glove6_comment,닌자가 사용하는 장갑,Gloves used by ninjas
+bow1,작은 활,Short Bow
+bow2,큰 활,Long Bow
+bow5,뇌신의 활,Thunder God's Bow
+bow4,얼음 귀신의 활,Ice Wraith Bow
+bow6,사냥꾼의 활,Hunter’s Bow
+bow3,큰 활,Long Bow
+bow1_comment,크기가 작은 활,A small-sized bow
+bow2_comment,크기가 큰 활,A large-sized bow
+bow5_comment,뇌신의 기운이 깃든 활,A bow imbued with the energy of the Thunder God
+bow4_comment,얼음 귀신의 힘이 깃든 활,A bow imbued with the power of the Ice Spirit
+bow6_comment,사냥꾼이 사용하는 활,A bow used by hunters
+bow3_comment,크기가 큰 활,A large-sized bow
+boot1,가죽 신발,Leather Shoes
+boot2,마법사 신발,Wizard's Shoes
+boot3,사냥꾼 신발,Hunter's Shoes
+boot4,화염의 신발,Shoes of Flame
+boot5,닌자 신발,Ninja Shoes
+boot6,냉기의 신발,Shoes of Frost
+boot7,대지의 신발,Shoes of Earth
+boot8,매력의 신발,Shoes of Charm
+boot1_comment,가죽으로 만든 신발,Shoes made of leather
+boot2_comment,마법사가 사용하는 신발,Shoes worn by wizards
+boot3_comment,사냥꾼이 사용하는 신발,Shoes worn by hunters
+boot4_comment,화염이 깃든 신발,Shoes imbued with flames
+boot5_comment,닌자가 사용하는 신발,Shoes worn by ninjas
+boot6_comment,냉기가 깃든 신발,Shoes imbued with frost
+boot7_comment,대지의 기운을 지닌 신발,Shoes infused with the power of the earth
+boot8_comment,매력적인 디자인의 신발,Shoes with a charming design
+axe1,돌도끼,Stone Axe
+axe4,손도끼,Hand Axe
+axe2,전투도끼,Battle Axe
+axe3,넓적날 도끼,Broad Axe
+axe5,양날 도끼,Double Axe
+axe8,대형 양날 도끼,Great Double Axe
+axe12,처형인의 도끼,Executioner's Axe
+axe6,푸른빛의 넓적날 도끼,Azure Broad Axe
+axe10,푸른빛의 대형 양날 도끼,Azure Great Double Axe
+axe11,붉은빛의 대형 양날 도끼,Crimson Great Double Axe
+axe7,넓적날 도끼,Broad Axe
+axe9,대형 양날 도끼,Great Double Axe
+axe1_comment,돌로 만든 도끼,A stone axe
+axe4_comment,평범한 작은 도끼,A plain small axe
+axe2_comment,군인들이 사용하는 도끼,An axe used by soldiers
+axe3_comment,전투도끼를 강화한 도끼,An enhanced battle axe
+axe5_comment,양날이 달린 도끼,A double-edged axe
+axe8_comment,커다란 양날이 달린 도끼,A large double-edged axe
+axe12_comment,처형인이 사용하는 거대한 도끼,A massive axe used by executioners
+axe6_comment,전투도끼를 강화한 푸른빛의 도끼,An enhanced battle axe with a blue glow
+axe10_comment,커다란 양날이 달린 푸른빛의 도끼,A large double-edged axe with a blue glow
+axe11_comment,커다란 양날이 달린 붉은빛의 도끼,A large double-edged axe with a red glow
+axe7_comment,전투도끼를 강화한 도끼,An enhanced battle axe
+axe9_comment,커다란 양날이 달린 도끼,A large double-edged axe
+leader armour1,가죽 갑옷,Leather Armor
+ringmail1,고리 갑옷,Ringmail Armor
+scalemail1,미늘 갑옷,Scale Armor
+chainmail1,사슬 갑옷,Chainmail Armor
+platemail1,판금 갑옷,Plate Armor
+crystalplatemail1,수정 판금 갑옷,Crystal Plate Armor
+troll leader armour1,트롤 가죽 갑옷,Troll Leather Armor
+dragon armour1,회색 용 갑옷,Gray Dragon Armor
+dragon armour2,붉은 용 갑옷,Red Dragon Armor
+dragon armour3,푸른 용 갑옷,Blue Dragon Armor
+dragon armour4,황금 용 갑옷,Golden Dragon Armor
+ringmail3,마력의 고리 갑옷,Enchanted Ringmail Armor
+chainmail2,대장군의 사슬 갑옷,Warlord's Chainmail Armor
+platemail2,황금 판금 갑옷,Golden Plate Armor
+dragon armour5,고대 용 갑옷,Ancient Dragon Armor
+leader armour2,가죽 갑옷,Leather Armor
+ringmail2,고리 갑옷,Ringmail Armor
+scalemail2,미늘 갑옷,Scale Armor
+chainmail3,사슬 갑옷,Chainmail Armor
+crystalplatemail2,수정  판금 갑옷,Crystal Plate Armor
+troll leader armour2,트롤 가죽 갑옷,Troll Leather Armor
+leader armour1_comment,가죽으로 만든 갑옷,Armor made of leather
+ringmail1_comment,가죽에 금속 링으로 보강한 갑옷,Leather armor reinforced with metal rings
+scalemail1_comment,가죽에 금속판을 덧댄 갑옷,Leather armor reinforced with metal plates
+chainmail1_comment,금속 고리로 만들어진 갑옷,Armor made of interlocking metal rings
+platemail1_comment,강철로 만들어진 갑옷,Armor made of steel
+crystalplatemail1_comment,수정 판금으로 만들어진 갑옷,Plate armor crafted from crystal
+troll leader armour1_comment,트롤 가죽으로 만든 갑옷,Armor made from troll leather
+dragon armour1_comment,회색 용의 비늘로 만든 갑옷,Armor crafted from the scales of a gray dragon
+dragon armour2_comment,붉은 용의 비늘로 만든 갑옷,Armor crafted from the scales of a red dragon
+dragon armour3_comment,푸른 용의 비늘로 만든 갑옷,Armor crafted from the scales of a blue dragon
+dragon armour4_comment,황금 용의 비늘로 만든 갑옷,Armor crafted from the scales of a golden dragon
+ringmail3_comment,마력을 지닌 고리 갑옷,Ringmail armor imbued with magical power
+chainmail2_comment,대장군의 기운을 가진 사슬 갑옷,Chainmail armor infused with the spirit of a warlord
+platemail2_comment,황금 용의 비늘로 만든 판금 갑옷,Plate armor made from golden dragon scales
+dragon armour5_comment,고대 용의 비늘로 만든 갑옷,Armor made from the scales of an ancient dragon
+leader armour2_comment,가죽으로 만든 갑옷,Armor made of leather
+ringmail2_comment,가죽에 금속 링으로 보강한 갑옷,Leather armor reinforced with metal rings
+scalemail2_comment,가죽에 금속판을 덧댄 갑옷,Leather armor reinforced with metal plates
+chainmail3_comment,금속 고리로 만들어진 갑옷,Armor made of interlocking metal rings
+crystalplatemail2_comment,수정 판금으로 만들어진 갑옷,Plate armor crafted from crystal
+troll leader armour2_comment,트롤 가죽으로 만든 갑옷,Armor made from troll leather
+black box,검은 상자,Black Box
+deck1,카드 뭉치,Card Pack
+deck2,마법 카드 뭉치,Magic Card Pack
+deck3,전설 카드 뭉치,Legendary Card Pack
+gold1,골드,Gold
+gold2,골드 뭉치,Gold Pouch
+black box_comment,사용하면 무엇인가 나올 것 같다.,It feels like something will come out when used
+deck1_comment,사용하면 무슨 일이 생길 것 같다.,It feels like something will happen when used
+deck2_comment,사용하면 무슨 일이 생길 것 같다.,It feels like something will happen when used
+deck3_comment,사용하면 좋은 일이 생길 것 같다.,It feels like something will happen when used
+gold1_comment,많으면 많을수록 좋다.,"The more, the better"
+gold2_comment,많으면 많을수록 좋다.,"The more, the better"
+ring4,불의 기운이 깃든 반지,Ring of Fiery Aura
+ring8,죽음을 간직한 반지,Ring of Death’s Embrace
+ring11,땅의 힘을 모은 반지,Ring of Earth’s Might
+ring12,얼음과 불의 반지,Ring of Ice and Fire
+ring13,여신의 반지,Ring of the Goddess
+ring14,냉기를 머금은 반지,Ring of Chill
+ring15,그림자 반지,Ring of Shadows
+ring16,대마도사의 반지,Archmage’s Ring
+ring4_comment,화염에서 만들어진 반지,A ring forged from flame
+ring8_comment,어두운 힘으로 만들어진 반지,A ring crafted with dark power
+ring11_comment,대지의 힘으로 만들어진 반지,A ring infused with the power of the earth
+ring12_comment,모순적인 힘을 보여주는 반지,A ring that embodies contradictory forces
+ring13_comment,여신이 사용하는 반지,A ring used by a goddess
+ring14_comment,냉기에서 만들어진 반지,A ring formed from frost
+ring15_comment,그림자처럼 움직일 수 있는 반지,A ring that grants shadow-like movement
+ring16_comment,대마도사의 마력이 깃든 반지,A ring imbued with the magic of a grand sorcerer
+Ring of Life,생명의 반지,Ring of Life
+Ring of Mana,마나의 반지,Ring of Mana
+Ring of Attack,공격의 반지,Ring of Attack
+Ring of Defense,방어의 반지,Ring of Defense
+Ring of Magic Attack,마법 공격의 반지,Ring of Magic Attack
+Ring of Fire Resistance,화염 저항 반지,Ring of Fire Resistance
+Ring of Frost Resistance,냉기 저항 반지,Ring of Frost Resistance
+Ring of Earth Resistance,대지 저항 반지,Ring of Earth Resistance
+Ring of Darkness Resistance,암흑 저항 반지,Ring of Darkness Resistance
+Ring of Poison Resistance,독 저항 반지,Ring of Poison Resistance
+Ring of Evasion,회피 반지,Ring of Evasion
+Ring of Life_comment,체력이 상승하는 반지,Ring that increases HP
+Ring of Mana_comment,마력이 상승하는 반지,Ring that increases MP
+Ring of Attack_comment,공격력이 상승하는 반지,Ring that increases Attack Power
+Ring of Defense_comment,방어력이 상승하는 반지,Ring that increases Defense
+Ring of Magic Attack_comment,마법 공격력이 상승하는 반지,Ring that increases Magic Attack Power
+Ring of Fire Resistance_comment,화염 저항력이 상승하는 반지,Ring that increases Fire Resistance
+Ring of Frost Resistance_comment,냉기 저항력이 상승하는 반지,Ring that increases Ice Resistance
+Ring of Earth Resistance_comment,대지 저항력이 상승하는 반지,Ring that increases Earth Resistance
+Ring of Darkness Resistance_comment,암흑 저항력이 상승하는 반지,Ring that increases Dark Resistance
+Ring of Poison Resistance_comment,독 저항력이 상승하는 반지,Ring that increases Poison Resistance
+Ring of Evasion_comment,회피률이 상승하는 반지,Ring that increases Evasion Rate
+amulet10,저주받은 악령의 목걸이,Cursed Spirit Amulet
+amulet11,숲의 활력을 지닌 목걸이,Amulet of Forest Vitality
+amulet12,붉은 고리 목걸이,Red Ring Amule
+amulet13,해골 목걸이,Skull Amulet
+amulet14,바다를 품은 목걸이,Amulet of the Sea
+amulet15,철의 십자 목걸이,Iron Cross Amulet
+amulet16,파란 마녀의 목걸이,Blue Witch's Amulet
+amulet10_comment,저주받은 악령이 사용했던 목걸이,An amulet once worn by a cursed wraith
+amulet11_comment,숲속 엘프 전사가 사용하는 목걸이,An amulet worn by a forest elf warrior
+amulet12_comment,뜨거운 힘이 깃든 고리 목걸이,A ring-shaped amulet imbued with fiery power
+amulet13_comment,어두운 힘을 지닌 해골 목걸이,A skull amulet infused with dark power
+amulet14_comment,인어의 눈물로 만든 목걸이,An amulet crafted from a mermaid's tears
+amulet15_comment,다른 세계의 금속으로 만든 십자 목걸이,A cross amulet made from metal of another world
+amulet16_comment,파란 마녀의 마력을 모아서 만든 목걸이,An amulet infused with the magic of the Blue Witch
+Amulet of Life,생명의 목걸이,Amulet of Life
+Amulet of Mana,마나의 목걸이,Amulet of Mana
+Amulet of Attack,공격의 목걸이,Amulet of Attack
+Amulet of Defense,방어의 목걸이,Amulet of Defense
+Amulet of Magic Attack,마법 공격의 목걸이,Amulet of Magic Attack
+Amulet of Fire Resistance,화염 저항 목걸이,Amulet of Fire Resistance
+Amulet of Frost Resistance,냉기 저항 목걸이,Amulet of Frost Resistance
+Amulet of Earth Resistance,대지 저항 목걸이,Amulet of Earth Resistance
+Amulet of Darkness Resistance,암흑 저항 목걸이,Amulet of Darkness Resistance
+Amulet of Poison Resistance,독 저항 목걸이,Amulet of Poison Resistance
+Amulet of Evasion,회피 목걸이,Amulet of Evasion
+Amulet of Life_comment,체력이 상승하는 목걸이,Amulet that increases HP
+Amulet of Mana_comment,마력이 상승하는 목걸이,Amulet that increases MP
+Amulet of Attack_comment,공격력이 상승하는 목걸이,Amulet that increases Attack Power
+Amulet of Defense_comment,방어력이 상승하는 목걸이,Amulet that increases Defense
+Amulet of Magic Attack_comment,마법 공격력이 상승하는 목걸이,Amulet that increases Magic Attack Power
+Amulet of Fire Resistance_comment,화염 저항력이 상승하는 목걸이,Amulet that increases Fire Resistance
+Amulet of Frost Resistance_comment,냉기 저항력이 상승하는 목걸이,Amulet that increases Ice Resistance
+Amulet of Earth Resistance_comment,대지 저항력이 상승하는 목걸이,Amulet that increases Earth Resistance
+Amulet of Darkness Resistance_comment,암흑 저항력이 상승하는 목걸이,Amulet that increases Dark Resistance
+Amulet of Poison Resistance_comment,독 저항력이 상승하는 목걸이,Amulet that increases Poison Resistance
+Amulet of Evasion_comment,회피률이 상승하는 목걸이,Amulet that increases Evasion Rate
+suffix_option1,튼튼한,Strong
+suffix_option2,똑똑한,Clever
+suffix_option3,강력한,Mighty
+suffix_option4,수동적인,Passive
+suffix_option5,화려한,Ornate
+suffix_option6,뜨거운,Hot
+suffix_option7,차가운,Cold
+suffix_option8,단단한,Solid
+suffix_option9,어두운,Dark
+suffix_option10,위험한,Dangerous
+suffix_option11,날렵한,Sharp
+prefix_option1,피의,Of Blood
+prefix_option2,마력의,Of Magic
+prefix_option3,공격의,Of Attack
+prefix_option4,수비의,Of Defense
+prefix_option5,마법 공격의,Of Magic Attack
+prefix_option6,불의,Of Fire
+prefix_option7,얼음의,Of Ice
+prefix_option8,바위의,Of Rock
+prefix_option9,암흑 저항의,Of Dark Resistance
+prefix_option10,맹독의,Of Poison
+prefix_option11,회피의,Of Evasion
+curePotion,상태이상 회복 물약,Cure Potion
+healingPotion,체력 회복 물약,HealingPotion
+manaPotion,마력 회복 물약,Mana Potion
+invisibilityPotion,투명화 물약,Invisibility Potion
+powPotion,광폭화 물약,Power Potion
+resPotion,저항력 증가 물약,Resistance Potion
+speedPotion,속도 증가 물약,Speed Potion
+treePotion,나무 변신 물약,Tree Potion
+intPotion,마법 공격력 증가 물약,Intelligence Potion
+lvUpPotion,레벨 업 물약,LV-Up Potion
+curePotion_comment,상태이상을 회복한다,Cures abnormal status effects
+healingPotion_comment,체력을 회복한다,Restores health
+manaPotion_comment,마력을 회복한다,Restores mana
+invisibilityPotion_comment,투명하게 변신한다,Transforms into an invisible state
+powPotion_comment,분노에 휩싸여 순간적으로 강해진다,Temporarily empowered by rage
+resPotion_comment,마법저항력이 높아진다,Increases magic resistance
+speedPotion_comment,속도가 증가한다,Increases speed
+treePotion_comment,나무로 변신한다,Transforms into a tree
+intPotion_comment,마법 공격력이 증가한다,Increases magic attack power
+lvUpPotion_comment,레벨이 오른다,Levels up
+scroll7,랜덤 순간이동 주문서,Scroll of Random Teleportation
+scroll1,무기 강화 주문서,Scroll of Weapon Enhancement
+scroll3,방어구 강화 주문서,Scroll of Armor Enhancement
+scroll6,제어 순간이동 주문서,Scroll of Controlled Teleportation
+scroll2,축복받은 강화 주문서,Scroll of Blessed Enhancement
+scroll5,소환 주문서,Scroll of Summoning
+scroll8,공포 주문서,Scroll of Fear
+scroll9,안개 주문서,Scroll of Fog
+scroll10,화염 주문서,Scroll of Flame
+scroll11,침묵 주문서,Scroll of Silence
+scroll12,회피 주문서,Scroll of Evasion
+scroll14,망각 주문서,Scroll of Forgetfulness
+scroll13,부활 주문서,Scroll of Resurrection
+scroll4,획득 주문서,Scroll of Acquisition
+scroll7_comment,무작위로 공간을 이동한다.,Teleports to a random location
+scroll1_comment,무기를 강화한다.,Enhances a weapon
+scroll3_comment,방어구를 강화한다.,Enhances armor
+scroll6_comment,선택한 공간으로 이동한다.,Teleports to a selected location
+scroll2_comment,무기나 방어구를 더욱 강화한다.,Further enhances a weapon or armor
+scroll5_comment,무작위로 아군 몬스터를 소환한다.,Summons a random ally monster
+scroll8_comment,주변 적에게 공포 효과를 준다.,Inflicts fear on nearby enemies
+scroll9_comment,주변에 안개를 발생시킨다.,Creates a fog around the area
+scroll10_comment,화염으로 적을 공격한다.,Attacks enemies with flames
+scroll11_comment,주변을 침묵하게 만든다.,Silences the surrounding area
+scroll12_comment,회피력이 상승한다.,Increases evasion
+scroll14_comment,습득한 마법을 망각한다.,Forgets a learned spell
+scroll13_comment,죽음에서 한번 부활한다.,Revives once upon death
+scroll4_comment,좋은 아이템을 얻을 수 있다.,Can obtain a valuable item
+fire6,화염 폭풍,Flame Storm
+ice3,냉기 폭풍,Frost Storm
+sum6,대악마 소환,Summon Archdemon
+fire1,화염 창,Flame Spear
+ice5,얼음 창,Ice Spear
+venom4,맹독 폭풍,Poison Storm
+earth4,대지의 수정창,Crystal Spear of Earth
+nec5,저주,Curse
+nec6,악마 변신,Demonic Transformation
+sum5,악마 소환,Summon Demon
+fire5,불꽃 발화,Ignite
+fire7,화염 화살,Fire Arrow
+fire3,화염의 힘,Power of Flame
+fire4,화염구,Fireball
+fire2,화염 벽,Wall of Fire
+ice1,냉기 갑옷,Frost Armor
+ice2,냉기의 손길,Touch of Frost
+ice6,차가운 회복,Cold Recovery
+ice7,급속 냉각,Rapid Chill
+ice8,얼음 화살,Ice Arrow
+venom1,독침,Poison Sting
+venom2,맹독의 구,Orb of Venom
+venom3,독 바르기,Apply Poison
+venom5,맹독 폭탄,Poison Bomb
+venom6,맹독 구름,Poison Cloud
+earth5,모래 바람,Sandstorm
+earth1,암석 화살,Stone Arrow
+earth2,마비의 눈,Eye of Paralysis
+earth3,석상의 형상,Form of a Statue
+nec1,해골 소환,Summon Skeleton
+nec2,고통,Agony
+nec3,좀비 소환,Summon Zombie
+nec4,언데드 말살,Undead Annihilation
+sum1,작은 동물 소환,Summon Small Animal
+sum2,늑대 소환,Summon Wolf
+sum3,코끼리 소환,Summon Elephant
+sum4,요정 소환,Summon Fairy
+fire6_comment,거대한 화염 폭풍을 일으킨다,Summons a massive flame storm
+ice3_comment,거대한 냉기 폭풍을 일으킨다,Summons a massive frost storm
+sum6_comment,대악마를 소환한다,Summons an archdemon
+fire1_comment,화염창을 적에게 발사한다,Launches a flame spear at the enemy
+ice5_comment,얼음창을 적에게 발사한다,Launches an ice spear at the enemy
+venom4_comment,거대한 맹독 폭풍을 일으킨다,Unleashes a massive poison storm
+earth4_comment,수정창을 적에게 발사한다,Fires a crystal spear at the enemy
+nec5_comment,적에게 저주를 건다,Casts a curse on the enemy
+nec6_comment,강력한 악마로 변신을 한다,Transforms into a powerful demon
+sum5_comment,악마를 소환한다,Summons a demon
+fire5_comment,작은 불꽃으로 적을 공격한다,Attacks the enemy with a small flame
+fire7_comment,화염 화살로 적을 공격한다,Attacks the enemy with a fire arrow
+fire3_comment,무기에 화염의 힘을 더한다,Empowers the weapon with the power of flame
+fire4_comment,화염구로 적을 공격한다,Attacks the enemy with a fireball
+fire2_comment,화염 벽을 만든다,Creates a wall of fire
+ice1_comment,갑옷에 냉기를 더한다,Infuses armor with frost
+ice2_comment,냉기를 이용해서 적을 공격한다,Attacks the enemy using frost
+ice6_comment,냉기의 힘으로 체력을 회복한다,Recovers health using the power of frost
+ice7_comment,차가운 냉기로 적을 얼린다,Freezes the enemy with chilling cold
+ice8_comment,얼음 화살로 적을 공격한다,Attacks the enemy with an ice arrow
+venom1_comment,독침으로 적을 공격한다,Attacks the enemy with a poison sting
+venom2_comment,둥그런 맹독으로 적을 공격한다,Attacks the enemy with a venomous orb
+venom3_comment,무기에 맹독을 바른다,Coats the weapon with poison
+venom5_comment,맹독으로 만든 폭탄을 터트려서 공격한다,Detonates a poison bomb to attack
+venom6_comment,넓은 범위에 맹독 구름을 소환한다,Summons a poison cloud over a wide area
+earth5_comment,작은 모래 바람으로 적을 공격한다,Attacks the enemy with a small sandstorm
+earth1_comment,암석 화살로 적을 공격한다,Attacks the enemy with a stone arrow
+earth2_comment,적을 마비 시킨다,Paralyzes the enemy
+earth3_comment,단단한 석상으로 변신한다,Transforms into a solid statue
+nec1_comment,해골을 소환한다,Summons a skeleton
+nec2_comment,사악한 기운으로 적을 공격한다,Attacks the enemy with evil energy
+nec3_comment,좀비를 소환한다,Summons a zombie
+nec4_comment,언데드에게 강력한 공격을 한다,Deals a powerful blow to undead
+sum1_comment,작은 동물을 소환한다,Summons a small animal
+sum2_comment,늑대를 소환한다,Summons a wolf
+sum3_comment,코끼리를 소환한다,Summons an elephant
+sum4_comment,요정을 소환한다,Summons a fairy
+Adder,살무사,Adder
+Ancient Rich,고대 리치,Ancient Lich
+Balrug,발록,Balrug
+Baphomet,바포메트,Baphomet
+Bat,박쥐,Bat
+Bear,곰,Bear
+Beholder,비홀더,Beholder
+Black Bear,흑곰,Black Bear
+Cyclops named,외눈파괴자 모르그,One-Eyed Destroyer Morg
+Cyclops,싸이클롭스,Cyclops
+Dark Fiend,어둠의 옵스큐러,Dark Fiend
+Dog,강아지,Dog
+Dwarf Carpenter,드워프 나무꾼,Dwarf Carpenter
+Dwarf Gimli,작은 거인 김리,Dwarf Gimli
+Dwarf,드워프,Dwarf
+Elephant Dire,광폭의 코끼리,Elephant Dire
+Elephant Hell,지옥의 코끼리,Elephant Hell
+Elephant ,코끼리,Elephant 
+Elf Blade Master,엘프 검술사,Elf Blade Master
+Elf Bow Master,엘프 궁술사,Elf Bow Master
+Elf DeathMage,엘프 사령술사,Elf Necromancer
+Elf Demonologist,엘프 악마술사,Elf Demonologist
+Elf Knight,엘프 기사,Elf Knight
+Elf Magi,엘프 마법사,Elf Mage
+Elf,엘프,Elf
+Ettin,에틴,Ettin
+Eye Of Floating,떠다니는 불안정안 눈,Eye Of Floating
+Eye Of Gold,탐욕스러운 황금의 눈,Eye Of Gold
+Eye Of Green,초록 독기,Eye Of Green
+Eye Of Walk,걸어다디는 감시자,Eye Of Walk
+Giant Magi,거인 마법사,Giant Magi
+Giant,거인,Giant
+Golem,골렘,Golem
+Green Fiend,녹염의 에버그린,Green Fiend
+Human Named,마녀 제시카,Witch Jessica
+Ice Fiend,빙결의 크라이오,Ice Fiend
+Imp Fire,파이어 임프,Imp Fire
+Imp Ice,아이스 임프,Imp Ice
+Imp Iron,아이언 임프,Imp Iron
+Imp Poision,포이즌 임프,Imp Poison
+Iron Fiend,무쇠의 스틸드라,Iron Fiend
+JangshMaster,강시 마스터,Jiangshi Master
+Jiangshi,강시 대장,Jiangshi General
+Jiangshi2,강시,Jiangshi
+Jio,저팔계,Pigsy
+Koblod Crown,코볼트 광대,Kobold Crown
+Koblod,코볼트,Kobold
+Kobold Archer,코볼트 궁수,Kobold Archer
+Kobold Chief,코볼트 대장,Kobold Chief
+Kobold King,코볼트 킹,Kobold King
+Kobold Mage,코볼트 마법사,Kobold Mage
+Korea Bridal Mask,각시탈,Bridal Mask
+Korea Dokkebi,도깨비,Dokkebi
+Korea Gomiho,구미호,Gumiho
+Korea Harubang,돌하루방,Harubang
+Korea Hong_gil_dong,홍길동,Hong Gil-dong
+Korea Jangsug,장승,Jangseung
+Korea Man Ghost,저승사자,Death Messenger
+Korea Woman Ghost,처녀귀신,Female Ghost
+Little Devi Dark,다크 데빌,Little Dark Devi 
+Little Devi Fire,파이어 데빌,Little Fire Devi 
+Little Devi Green,포이즌 데빌,Little Poison Devi 
+Little Devi Ice,아이스 데빌,Little Ice Devi 
+Little Devi Iron,아이언 데빌,Little Iron Devi 
+Mana Viper,마나 바이퍼,Mana Viper
+Manticore,만티코어,Manticore
+Merfork Baker,머포크 요리사,Merfolk Chef
+Merfork Javelineer,머포크 재벌리너,Merfolk Javelineer
+Merfork Warrier,머포크 워리어,Merfolk Warrior
+Merfork,머포크,Merfolk
+Minota,미노타우르스,Minotaur
+Mummy Anubis,아누비스,Mummy Anubis
+Mummy Pharaoh,미라 파라오,Mummy Pharaoh
+Mummy Warrier,미라 워리어,Mummy Warrior
+Mummy,미라,Mummy
+Naga Azura,붉은 시선 아주라,Naga Azura
+Naga Magi,나가 마법사,Naga Magi
+Naga Master,나가 마스터,Naga Master
+Naga Medusa,메두사,Naga Medusa
+Naga SharpShooter,나가 슈터,Naga SharpShooter
+Naga Warrier,나가 워리어,Naga Warrior
+Naga,나가,Naga
+Ogre Red,레드 오우거,Red Ogre
+Ogre,오우거,Ogre
+Ork HighMage,오크 하이메이지,Ork HighMage
+Ork King,오크 킹,Ork King
+Ork Knight,오크 나이트,Ork Knight
+Ork Mage,오크 메이지,Ork Mage
+Ork Named,외눈박이 크룩,One-Eyed Crook
+Ork Rider,오크 라이더,Ork Rider
+Ork Warrier,오크 워리어,Ork Warrior
+Ork,오크,Ork
+Plant,식인 식물,Man-eating Plant
+Rat,쥐,Rat
+Reaper,리퍼,Reaper
+Rich,리치,Lich
+Sa,사오정,Sandy
+Skeleton Archer,스켈레톤 궁수,Skeleton Archer
+Skeleton Axe,스켈레톤 워리어,Skeleton Warrior
+Skeleton,스켈레톤,Skeleton
+Slug Named,느림의 에스카르고스,Escargoss the Slow
+Slug,달팽이,Slug
+Son,손오공,Monkey King
+Sprite Earth,땅의 정령,Sprite Earth
+Sprite Fire,불의 정령,Sprite Fire
+Sprite Ice,냉기의 정령,Sprite Ice
+Sprite Light,빛의 정령,Sprite Light
+Troll Deep Assasin,딥 트롤 어쌔신,Deep Troll Assassin
+Troll Deep Shaman,딥 트롤 샤먼,Deep Troll Shaman
+Troll Deep,딥 트롤,Deep Troll 
+Troll Magision,트롤 매지션,Troll Magician
+Troll,트롤,Troll
+Wolf Ware,웨어울프,Wolf Ware
+Wolf,울프,Wolf
+Zombie Giant,좀비 거인,Zombie Giant
+Zombie Knight,좀비 기사,Zombie Knight
+Zombie Magi,좀비 마법사,Zombie Mage
+Zombie Miner,좀비 광부,Zombie Miner
+Zombie1,좀비,Zombie
+Zombie3,좀비,Zombie
+Adder_comment,독을 가진 작은 뱀,A small venomous snake
+Ancient Rich_comment,고대의 강력한 마법사 언데드,An ancient undead sorcerer
+Balrug_comment,불타는 지옥의 악마,A fiery demon from the underworld
+Baphomet_comment,염소 머리의 마왕,A demon lord with a goat’s head
+Bat_comment,어둠 속을 나는 박쥐,A bat flying through darkness
+Bear_comment,야생의 강력한 곰,A powerful wild bear
+Beholder_comment,커다란 눈으로 떠다니는 괴물,A floating monster with a large eye
+Black Bear_comment,검고 더 사나운 곰,"A fiercer, black-colored bear"
+Cyclops named_comment,사나운 외눈 파괴자 모르그,"Morg, the Ferocious One-Eyed Destroyer"
+Cyclops_comment,외눈을 가진 거대한 괴물,A giant monster with a single eye
+Dark Fiend_comment,어둠에서 태어난 악마,A fiend born from darkness
+Dog_comment,평범한 사냥개,A common hunting dog
+Dwarf Carpenter_comment,도끼를 든 드워프 목수,A dwarf carpenter wielding an axe
+Dwarf Gimli_comment,용감한 전사 김리 드워프,Brave dwarf warrior named Gimli
+Dwarf_comment,작지만 강인한 드워프,A small but sturdy dwarf
+Elephant Dire_comment,흉포한 야생 코끼리,A ferocious wild elephant
+Elephant Hell_comment,지옥에서 온 코끼리,An elephant from the depths of hell
+Elephant_comment,평범한 대형 코끼리,A regular large elephant
+Elf Blade Master_comment,검술에 능한 엘프,An elf master of swordsmanship
+Elf Bow Master_comment,활을 다루는 엘프 명사수,An elf expert in archery
+Elf DeathMage_comment,죽음을 다루는 엘프 마법사,An elf necromancer
+Elf Demonologist_comment,악마를 연구하는 엘프,An elf who studies demons
+Elf Knight_comment,중무장한 엘프 기사,A heavily armored elf knight
+Elf Magi_comment,마법을 다루는 엘프,An elf proficient in magic
+Elf_comment,민첩하고 지혜로운 종족,An agile and wise race
+Ettin_comment,두 개의 머리를 가진 오우거,A two-headed ogre
+Eye Of Floating_comment,떠다니는 괴기한 눈,A bizarre floating eye
+Eye Of Gold_comment,황금빛의 떠다니는 눈,A golden floating eye
+Eye Of Green_comment,초록색 기운의 눈,A floating eye of green energy
+Eye Of Walk_comment,걸어다니는 눈 괴물,A walking eye creature
+Giant Magi_comment,마법을 쓰는 거대한 거인,A giant who wields powerful magic
+Giant_comment,산처럼 큰 거인,A colossal humanoid creature
+Golem_comment,생명이 깃든 돌덩이,A living construct made of stone
+Green Fiend_comment,초록색 악마,A green-skinned demonic creature
+Human Named_comment,강력한 마법을 구사하는 아름답고 위험한 마녀,A beautiful yet dangerous witch who wields powerful magic
+Ice Fiend_comment,얼음의 힘을 지닌 악마,A fiend empowered by ice
+Imp Fire_comment,불의 기운을 지닌 임프,A fire-aligned imp
+Imp Ice_comment,얼음 속성의 임프,An imp with ice powers
+Imp Iron_comment,단단한 피부의 금속 임프,"A tough, iron-skinned imp"
+Imp Poision_comment,독을 사용하는 임프,A poisonous imp
+Iron Fiend_comment,금속으로 된 악마,A fiend with an iron body
+JangshMaster_comment,강한 기운의 강시 주술사,A powerful jiangshi master
+Jiangshi_comment,점프하며 움직이는 강시 대장,A hopping jiangshi general
+Jiangshi2_comment,점프하며 움직이는 강시,A hopping jiangshi
+Jio_comment,욕심 많고 장난기 넘치는 돼지 요괴,A greedy and mischievous pig demon
+Koblod Crown_comment,왕관을 쓴 코볼드,A kobold wearing a crown
+Koblod_comment,소형 도적형 몬스터,A small goblin-like creature
+Kobold Archer_comment,활을 쏘는 코볼드,A kobold skilled in archery
+Kobold Chief_comment,코볼드 부족장,The chief of the kobold tribe
+Kobold King_comment,코볼드의 왕,The ruling king of kobolds
+Kobold Mage_comment,마법을 사용하는 코볼드,A kobold who casts magic
+Korea Bridal Mask_comment,하얀 탈을 쓴 전사,A warrior wearing a white bridal mask
+Korea Dokkebi_comment,장난기 많은 도깨비,A mischievous Dokkebi
+Korea Gomiho_comment,꼬리가 아홉 개인 여우,A nine-tailed fox Gumiho
+Korea Harubang_comment,제주의 돌신상 전사,A warrior resembling the Dol Hareubang
+Korea Hong_gil_dong_comment,의적 홍길동,"The heroic outlaw, Hong Gil-dong"
+Korea Jangsug_comment,마을을 수호하는 나무로 만든 수호신,A wooden guardian deity that protects villages
+Korea Man Ghost_comment,원혼이 된 저승 사자,A vengeful death messenger
+Korea Woman Ghost_comment,한을 품은 처녀 귀신,A sorrowful female ghost
+Little Devi Dark_comment,어둠의 힘을 지닌 작은 악마,A small demon with dark powers
+Little Devi Fire_comment,불의 힘을 지닌 작은 악마,A small demon infused with fire
+Little Devi Green_comment,자연의 힘을 지닌 작은 악마,A small demon empowered by nature
+Little Devi Ice_comment,얼음 마법을 쓰는 작은 악마,A small demon who wields ice magic
+Little Devi Iron_comment,강철처럼 단단한 작은 악마,A small demon with an iron body
+Mana Viper_comment,마력을 지닌 독사,A venomous snake charged with mana
+Manticore_comment,날개 달린 전갈 꼬리의 괴수,A winged beast with a scorpion tail
+Merfork Baker_comment,요리를 잘하는 인어족 요리사,A skilled merfolk chef
+Merfork Javelineer_comment,작살을 던지는 인어족 전사,A merfolk warrior who throws javelins
+Merfork Warrier_comment,전투에 능한 인어족,A skilled merfolk warrior
+Merfork_comment,바다를 지키는 인어족,A sea-dwelling merfolk creature
+Minota_comment,미궁에 사는 반인반수 괴물,"A half-man, half-beast of the labyrinth"
+Mummy Anubis_comment,아누비스의 힘을 지닌 미라,A mummy blessed by the power of Anubis
+Mummy Pharaoh_comment,파라오의 저주받은 미라,A cursed mummy of a pharaoh
+Mummy Warrier_comment,무장한 전사 미라,A mummified warrior equipped for battle
+Mummy_comment,무덤에서 깨어난 미라,An undead awakened from an ancient tomb
+Naga Azura_comment,불길한 붉은 비늘을 지닌 전설의 나가 전사,A legendary naga warrior with ominous crimson scales
+Naga Magi_comment,마법을 사용하는 나가,A naga spellcaster
+Naga Master_comment,나가 군단을 지휘하는 여왕이자 최고 지도자,The queen and supreme commander of the Naga army
+Naga Medusa_comment,적을 돌로 만드는 메두사 나가,A naga Medusa who turns foes to stone
+Naga SharpShooter_comment,저격 능력이 뛰어난 나가 궁수,A naga sharpshooter with deadly aim
+Naga Warrier_comment,강력한 전사형 나가,A strong warrior of the naga race
+Naga_comment,인간과 뱀의 혼종 나가,A snake-human hybrid creature
+Ogre Red_comment,붉은 피부의 흉폭한 오우거,A ferocious red-skinned ogre
+Ogre_comment,거대한 덩치의 난폭한 오우거,A brutal giant brute
+Ork HighMage_comment,상급 마법을 쓰는 오크,An orc who commands powerful magic
+Ork King_comment,오크들의 왕,The mighty king of the orcs
+Ork Knight_comment,무장을 갖춘 오크 기사,A fully armored orc knight
+Ork Mage_comment,마법을 쓰는 오크,An orc magic user
+Ork Named_comment,이름을 지닌 특별한 오크,A uniquely named orc
+Ork Rider_comment,짐승을 타고 다니는 오크,An orc riding a beast
+Ork Warrier_comment,전투에 특화된 오크 전사,A battle-hardened orc warrior
+Ork_comment,힘과 숫자를 앞세운 야만족,Brutish warriors who rely on strength and numbers
+Plant_comment,먹이를 기다리는 육식 식물,A carnivorous plant waiting to devour prey
+Rat_comment,어두운 곳에 사는 작은 해충,A small pest dwelling in the dark
+Reaper_comment,죽음을 수확하는 사신,A harbinger of death who reaps souls
+Rich_comment,영혼을 봉인한 불사의 마법사,An undead sorcerer bound to a phylactery
+Sa_comment,모래와 힘을 다루는 요괴,A powerful companion who wields sand and strength
+Skeleton Archer_comment,원거리 공격을 하는 언데드,An undead archer with deadly aim
+Skeleton Axe_comment,무장한 해골 전사,An armored skeletal warrior
+Skeleton_comment,기본적인 언데드 전투원,A basic undead fighter made of bones
+Slug Named_comment,매우 느리지만 단단한 거대 달팽이,A giant snail that's slow but heavily armored
+Slug_comment,미끄러지며 이동하는 약한 생물,"A weak, slimy creature that slides slowly"
+Son_comment,재치와 무공을 겸비한 원숭이 왕,A monkey king skilled in martial arts and trickery
+Sprite Earth_comment,대지의 힘을 지닌 작은 정령,A small spirit empowered by the earth
+Sprite Fire_comment,불꽃처럼 활발한 정령,A fiery spirit full of energy
+Sprite Ice_comment,냉기를 내뿜는 차가운 정령,A cold spirit that emanates frost
+Sprite Light_comment,치유와 보호의 힘을 지닌 정령,A spirit of light that heals and protects
+Troll Deep Assasin_comment,그림자 속에서 암살하는 트롤,A troll assassin who strikes from the shadows
+Troll Deep Shaman_comment,주술과 자연을 다루는 트롤,A troll shaman who commands spirits and nature
+Troll Deep_comment,깊은 동굴에 사는 강인한 트롤,A sturdy troll dwelling in deep caves
+Troll Magision_comment,마법을 쓰는 희귀한 트롤,A rare troll capable of using magic
+Troll_comment,강력한 체력의 거대 몬스터,A large monster with incredible stamina
+Wolf Ware_comment,인간의 형상을 한 늑대인간,A fearsome werewolf that walks on two legs
+Wolf_comment,집단으로 사냥하는 야생 늑대,A wild wolf that hunts in packs
+Zombie Giant_comment,거대한 시체가 되살아난 언데드,A massive undead risen from a corpse
+Zombie Knight_comment,부패한 갑옷을 입은 기사형 좀비,A decaying knight risen from the grave
+Zombie Magi_comment,죽음 속에서도 마법을 쓰는 좀비,A zombie who retains dark magical powers
+Zombie Miner_comment,탄광에서 되살아난 좀비,A reanimated miner who once dug deep
+Zombie1_comment,느리지만 끈질긴 언데드,A slow but relentless undead
+Zombie3_comment,살아있는 자를 집요하게 쫓는 시체,A corpse that persistently hunts the living

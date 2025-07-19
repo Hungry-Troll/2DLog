@@ -1,0 +1,7 @@
+_no,_name,_max_hp,_max_mp,_min_attack,_max_attack,_defence,_min_magic_attack,_max_magic_attack,_fire_res,_cold_res,_earth_res,_dark_res,_poison_res,_avoid,_type,_hand,_enhance_limit,_skill_limit,_nickName
+1,가죽 장갑,,,,,3,,,,,,,,,,,2,0,glove1
+2,철 장갑,,,,,5,,,,,,,,,,,2,0,glove2
+3,기사도 장갑,20,,,,3,,,,,,,,,,,2,0,glove3
+4,벙어리 장갑,,,,,3,,,10,10,,,,,,,2,0,glove4
+5,투사의 장갑,,,10,10,3,,,,,,,,,,,2,0,glove5
+6,닌자의 장갑,,,,,3,,,,,,,,10,,,2,0,glove6

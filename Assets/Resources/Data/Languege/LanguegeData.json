@@ -1,0 +1,3852 @@
+﻿[
+  {
+    "_key": "sword2",
+    "_ko": "단검",
+    "_en": "Dagger"
+  },
+  {
+    "_key": "sword1",
+    "_ko": "강철 단검",
+    "_en": "Steel Dagger"
+  },
+  {
+    "_key": "sword5",
+    "_ko": "장검",
+    "_en": "Longsword"
+  },
+  {
+    "_key": "sword4",
+    "_ko": "강철 장검",
+    "_en": "Steel Longsword"
+  },
+  {
+    "_key": "sword8",
+    "_ko": "수호자의 검",
+    "_en": "Guardian's Blade"
+  },
+  {
+    "_key": "sword13",
+    "_ko": "투사의 검",
+    "_en": "Warrior's Blade"
+  },
+  {
+    "_key": "sword11",
+    "_ko": "대검",
+    "_en": "Greatsword"
+  },
+  {
+    "_key": "sword14",
+    "_ko": "강철 대검",
+    "_en": "Steel Greatsword"
+  },
+  {
+    "_key": "sword7",
+    "_ko": "식칼",
+    "_en": "chef Knife"
+  },
+  {
+    "_key": "sword9",
+    "_ko": "냉기의 검",
+    "_en": "Blade of Frost"
+  },
+  {
+    "_key": "sword10",
+    "_ko": "불꽃의 검",
+    "_en": "Blade of Flame"
+  },
+  {
+    "_key": "sword15",
+    "_ko": "기사의 대검",
+    "_en": "Knight's Greatsword"
+  },
+  {
+    "_key": "sword17",
+    "_ko": "얼음의 대검",
+    "_en": "Greatsword of Ice"
+  },
+  {
+    "_key": "sword18",
+    "_ko": "화염의 대검",
+    "_en": "Greatsword of Fire"
+  },
+  {
+    "_key": "sword19",
+    "_ko": "톱날검",
+    "_en": "Serrated Sword"
+  },
+  {
+    "_key": "sword20",
+    "_ko": "저주받은 마검",
+    "_en": "Cursed Demonblade"
+  },
+  {
+    "_key": "sword21",
+    "_ko": "마왕의 검",
+    "_en": "Overlord's Blade"
+  },
+  {
+    "_key": "sword22",
+    "_ko": "암살자의 검",
+    "_en": "Assassin's Blade"
+  },
+  {
+    "_key": "sword23",
+    "_ko": "서리칼날",
+    "_en": "Frostfang"
+  },
+  {
+    "_key": "sword3",
+    "_ko": "단검",
+    "_en": "Dagger"
+  },
+  {
+    "_key": "sword6",
+    "_ko": "장검",
+    "_en": "Longsword"
+  },
+  {
+    "_key": "sword12",
+    "_ko": "요도",
+    "_en": "Blade of the Yokai"
+  },
+  {
+    "_key": "sword16",
+    "_ko": "대검",
+    "_en": "Greatsword"
+  },
+  {
+    "_key": "sword2_comment",
+    "_ko": "작은 단검",
+    "_en": "A small dagger"
+  },
+  {
+    "_key": "sword1_comment",
+    "_ko": "강철로 강화한 단검",
+    "_en": "A dagger reinforced with steel"
+  },
+  {
+    "_key": "sword5_comment",
+    "_ko": "길다란 검",
+    "_en": "A long sword"
+  },
+  {
+    "_key": "sword4_comment",
+    "_ko": "강철로 강화한 장검",
+    "_en": "A longsword reinforced with steel"
+  },
+  {
+    "_key": "sword8_comment",
+    "_ko": "날이 살짝 휘어진 장검",
+    "_en": "A slightly curved longsword"
+  },
+  {
+    "_key": "sword13_comment",
+    "_ko": "투지가 상승하는 검",
+    "_en": "A sword that boosts morale"
+  },
+  {
+    "_key": "sword11_comment",
+    "_ko": "큰 양손검",
+    "_en": "A large two-handed sword"
+  },
+  {
+    "_key": "sword14_comment",
+    "_ko": "강철로 강화한 양손검",
+    "_en": "A two-handed sword reinforced with steel"
+  },
+  {
+    "_key": "sword7_comment",
+    "_ko": "요리사가 사용하는 검",
+    "_en": "A sword used by chefs"
+  },
+  {
+    "_key": "sword9_comment",
+    "_ko": "냉기의 기운이 깃든 검",
+    "_en": "A sword imbued with the power of frost"
+  },
+  {
+    "_key": "sword10_comment",
+    "_ko": "불꽃의 기운이 깃든 검",
+    "_en": "A sword imbued with the power of flame"
+  },
+  {
+    "_key": "sword15_comment",
+    "_ko": "기사가 사용하는 양손검",
+    "_en": "A two-handed sword used by knights"
+  },
+  {
+    "_key": "sword17_comment",
+    "_ko": "얼음의 힘을 가진 양손검",
+    "_en": "A two-handed sword with the power of ice"
+  },
+  {
+    "_key": "sword18_comment",
+    "_ko": "화염의 힘을 가진 양손검",
+    "_en": "A two-handed sword with the power of fire"
+  },
+  {
+    "_key": "sword19_comment",
+    "_ko": "날카로운 톱날을 가진 양손검",
+    "_en": "A two-handed sword with a sharp saw blade"
+  },
+  {
+    "_key": "sword20_comment",
+    "_ko": "악마의 저주를 받은 양손검",
+    "_en": "A cursed two-handed sword of the demon"
+  },
+  {
+    "_key": "sword21_comment",
+    "_ko": "마왕이 사용하는 양손검",
+    "_en": "A two-handed sword used by the Demon King"
+  },
+  {
+    "_key": "sword22_comment",
+    "_ko": "암살자가 사용하는 검",
+    "_en": "A sword used by assassins"
+  },
+  {
+    "_key": "sword23_comment",
+    "_ko": "차가운 서리로 만든 양손검",
+    "_en": "A two-handed sword made of cold frost"
+  },
+  {
+    "_key": "sword3_comment",
+    "_ko": "작은 단검",
+    "_en": "A small dagger"
+  },
+  {
+    "_key": "sword6_comment",
+    "_ko": "길다란 검",
+    "_en": "A long sword"
+  },
+  {
+    "_key": "sword12_comment",
+    "_ko": "이상하게 생긴 요괴의 검",
+    "_en": "The Yokai's Distorted Saber"
+  },
+  {
+    "_key": "sword16_comment",
+    "_ko": "큰 양손검",
+    "_en": "A large two-handed sword"
+  },
+  {
+    "_key": "staff1",
+    "_ko": "초록 지팡이",
+    "_en": "Green Staff"
+  },
+  {
+    "_key": "staff2",
+    "_ko": "붉은 지팡이",
+    "_en": "Red Staff"
+  },
+  {
+    "_key": "staff3",
+    "_ko": "검은 지팡이",
+    "_en": "Black Staff"
+  },
+  {
+    "_key": "staff4",
+    "_ko": "파란 지팡이",
+    "_en": "Blue Staff"
+  },
+  {
+    "_key": "staff7",
+    "_ko": "마법사의 지팡이",
+    "_en": "Wizard's Staff"
+  },
+  {
+    "_key": "staff5",
+    "_ko": "대지의 지팡이",
+    "_en": "Staff of Earth"
+  },
+  {
+    "_key": "staff6",
+    "_ko": "불꽃의 지팡이",
+    "_en": "Staff of Flame"
+  },
+  {
+    "_key": "staff8",
+    "_ko": "어둠의 지팡이",
+    "_en": "Staff of Darkness"
+  },
+  {
+    "_key": "staff12",
+    "_ko": "냉기의 지팡이",
+    "_en": "Staff of Frost"
+  },
+  {
+    "_key": "staff9",
+    "_ko": "요정의 지팡이",
+    "_en": "Fairy Staff "
+  },
+  {
+    "_key": "staff10",
+    "_ko": "정의의 지팡이",
+    "_en": "Staff of Justice"
+  },
+  {
+    "_key": "staff11",
+    "_ko": "파초선",
+    "_en": "Leaf Fan"
+  },
+  {
+    "_key": "staff13",
+    "_ko": "저주받은 지팡이",
+    "_en": "Cursed Staff"
+  },
+  {
+    "_key": "staff1_comment",
+    "_ko": "초록색 지팡이",
+    "_en": "Green Staff"
+  },
+  {
+    "_key": "staff2_comment",
+    "_ko": "붉은색 지팡이",
+    "_en": "Red Staff"
+  },
+  {
+    "_key": "staff3_comment",
+    "_ko": "검은색 지팡이",
+    "_en": "Black Staff"
+  },
+  {
+    "_key": "staff4_comment",
+    "_ko": "파란색 지팡이",
+    "_en": "Blue Staff"
+  },
+  {
+    "_key": "staff7_comment",
+    "_ko": "마력이 깃든 지팡이",
+    "_en": "Enchanted Staff"
+  },
+  {
+    "_key": "staff5_comment",
+    "_ko": "대지의 힘이 깃든 지팡이",
+    "_en": "Staff of Earth Power"
+  },
+  {
+    "_key": "staff6_comment",
+    "_ko": "불꽃의 기운이 깃든 지팡이",
+    "_en": "Staff imbued with the Power of Flame"
+  },
+  {
+    "_key": "staff8_comment",
+    "_ko": "어두운 힘이 깃든 지팡이",
+    "_en": "Staff imbued with Dark Power"
+  },
+  {
+    "_key": "staff12_comment",
+    "_ko": "냉기의 기운이 깃든 지팡이",
+    "_en": "Staff imbued with the Chill of Frost"
+  },
+  {
+    "_key": "staff9_comment",
+    "_ko": "요정의 힘이 깃든 지팡이",
+    "_en": "Staff imbued with Fairy Power"
+  },
+  {
+    "_key": "staff10_comment",
+    "_ko": "정의로운 능력을 가진 지팡이",
+    "_en": "Staff of Righteous Power"
+  },
+  {
+    "_key": "staff11_comment",
+    "_ko": "파초잎으로 만들어진 도구",
+    "_en": "Tool Made from Banana Leaves"
+  },
+  {
+    "_key": "staff13_comment",
+    "_ko": "악의 저주를 받은 지팡이",
+    "_en": "Cursed Staff of Evil"
+  },
+  {
+    "_key": "spear2",
+    "_ko": "나뭇가지",
+    "_en": "Tree Branch"
+  },
+  {
+    "_key": "spear1",
+    "_ko": "곤봉",
+    "_en": "Club"
+  },
+  {
+    "_key": "spear3",
+    "_ko": "강화된 곤봉",
+    "_en": "Reinforced Club"
+  },
+  {
+    "_key": "spear4",
+    "_ko": "창",
+    "_en": "Spear"
+  },
+  {
+    "_key": "spear7",
+    "_ko": "파르티잔",
+    "_en": "Partisan"
+  },
+  {
+    "_key": "spear11",
+    "_ko": "할버드",
+    "_en": "Halberd"
+  },
+  {
+    "_key": "spear14",
+    "_ko": "글레이브",
+    "_en": "Glaive"
+  },
+  {
+    "_key": "spear15",
+    "_ko": "폴암",
+    "_en": "Polearm"
+  },
+  {
+    "_key": "spear12",
+    "_ko": "기사의 창",
+    "_en": "Knight's Spear"
+  },
+  {
+    "_key": "spear9",
+    "_ko": "붉은 악마의 삼지창",
+    "_en": "Trident of the Red Demon"
+  },
+  {
+    "_key": "spear13",
+    "_ko": "여의봉",
+    "_en": "Ruyi Staff"
+  },
+  {
+    "_key": "spear10",
+    "_ko": "삼지창",
+    "_en": "Trident"
+  },
+  {
+    "_key": "spear5",
+    "_ko": "파란창",
+    "_en": "Blue Trident"
+  },
+  {
+    "_key": "spear6",
+    "_ko": "녹색창",
+    "_en": "Green Trident)"
+  },
+  {
+    "_key": "spear8",
+    "_ko": "파르티잔",
+    "_en": "Partisan"
+  },
+  {
+    "_key": "spear2_comment",
+    "_ko": "작은 나뭇가지",
+    "_en": "Small Twig"
+  },
+  {
+    "_key": "spear1_comment",
+    "_ko": "나무를 깎아서 만든 무기",
+    "_en": "A Weapon Carved from Wood"
+  },
+  {
+    "_key": "spear3_comment",
+    "_ko": "곤봉 양끝에 철을 덧댄 무기",
+    "_en": "A Club Reinforced with Iron at Both Ends"
+  },
+  {
+    "_key": "spear4_comment",
+    "_ko": "평범한 창",
+    "_en": "Ordinary Spear"
+  },
+  {
+    "_key": "spear7_comment",
+    "_ko": "작은 칼날이 달린 창",
+    "_en": "Spear with a Small Blade"
+  },
+  {
+    "_key": "spear11_comment",
+    "_ko": "도끼날이 달린 창",
+    "_en": "Spear with an Axe Blade"
+  },
+  {
+    "_key": "spear14_comment",
+    "_ko": "긴 칼날이 달린 창",
+    "_en": "Spear with a Long Blad"
+  },
+  {
+    "_key": "spear15_comment",
+    "_ko": "날카로운 칼날이 달린 창",
+    "_en": "Spear with a Sharp Blade"
+  },
+  {
+    "_key": "spear12_comment",
+    "_ko": "기사가 사용하는 창",
+    "_en": "Knight's Spear"
+  },
+  {
+    "_key": "spear9_comment",
+    "_ko": "악마의 힘이 깃든 삼지창",
+    "_en": "Trident Imbued with Demonic Power"
+  },
+  {
+    "_key": "spear13_comment",
+    "_ko": "금빛의 기다란 장대",
+    "_en": "Long Golden Pole"
+  },
+  {
+    "_key": "spear10_comment",
+    "_ko": "이상한 힘이 깃든 삼지창",
+    "_en": "Trident Imbued with Strange Power"
+  },
+  {
+    "_key": "spear5_comment",
+    "_ko": "푸르게 빛나는 창",
+    "_en": "Spear that Glows Blue"
+  },
+  {
+    "_key": "spear6_comment",
+    "_ko": "푸르게 빛나는 창",
+    "_en": "Spear that Glows Blue"
+  },
+  {
+    "_key": "spear8_comment",
+    "_ko": "작은 칼날이 달린 창",
+    "_en": "Spear with a Small Blade"
+  },
+  {
+    "_key": "shield3",
+    "_ko": "소형 방패",
+    "_en": "Small Shield"
+  },
+  {
+    "_key": "shield1",
+    "_ko": "강화된 소형 방패",
+    "_en": "Reinforced Small Shield"
+  },
+  {
+    "_key": "shield6",
+    "_ko": "대형 방패",
+    "_en": "Large Shield"
+  },
+  {
+    "_key": "shield2",
+    "_ko": "엘프의 소형 방패",
+    "_en": "Elf's Small Shield"
+  },
+  {
+    "_key": "shield4",
+    "_ko": "중형 방패",
+    "_en": "Medium Shield"
+  },
+  {
+    "_key": "shield5",
+    "_ko": "내성의 방패",
+    "_en": "Shield of Resistance"
+  },
+  {
+    "_key": "shield7",
+    "_ko": "무지의 방패",
+    "_en": "Shield of Ignorance"
+  },
+  {
+    "_key": "shield8",
+    "_ko": "해골 방패",
+    "_en": "Skull Shield"
+  },
+  {
+    "_key": "shield9",
+    "_ko": "기사의 방패",
+    "_en": "Knight's Shield"
+  },
+  {
+    "_key": "shield10",
+    "_ko": "왕가의 방패",
+    "_en": "Royal Shield"
+  },
+  {
+    "_key": "shield3_comment",
+    "_ko": "나무에 금속을 덧댄 작은 방패",
+    "_en": "Small Shield Reinforced with Metal over Wood"
+  },
+  {
+    "_key": "shield1_comment",
+    "_ko": "금속을 개량한 작은 방패",
+    "_en": "Enhanced Small Metal Shield"
+  },
+  {
+    "_key": "shield6_comment",
+    "_ko": "커다란 방패",
+    "_en": "Massive Shield"
+  },
+  {
+    "_key": "shield2_comment",
+    "_ko": "엘프가 사용하는 작은 방패",
+    "_en": "Small Shield Used by Elves"
+  },
+  {
+    "_key": "shield4_comment",
+    "_ko": "나무와 금속으로 만든 방패",
+    "_en": "Shield Crafted from Wood and Metal"
+  },
+  {
+    "_key": "shield5_comment",
+    "_ko": "저항력이 높은 방패",
+    "_en": "High-Resistance Shield"
+  },
+  {
+    "_key": "shield7_comment",
+    "_ko": "무지막지하게 큰 방패",
+    "_en": "Colossally Large Shield"
+  },
+  {
+    "_key": "shield8_comment",
+    "_ko": "죽음의 기운이 깃든 방패",
+    "_en": "Shield Imbued with the Aura of Death"
+  },
+  {
+    "_key": "shield9_comment",
+    "_ko": "기사가 사용하는 방패",
+    "_en": "Shield Used by Knights"
+  },
+  {
+    "_key": "shield10_comment",
+    "_ko": "왕가의 문양이 새겨진 방패",
+    "_en": "Shield Engraved with the Royal Emblem"
+  },
+  {
+    "_key": "Robe1",
+    "_ko": "로브",
+    "_en": "Robe"
+  },
+  {
+    "_key": "Robe2",
+    "_ko": "로브",
+    "_en": "Robe"
+  },
+  {
+    "_key": "Robe4",
+    "_ko": "마법사 로브",
+    "_en": "Wizard's Robe"
+  },
+  {
+    "_key": "Robe5",
+    "_ko": "도사의 의복",
+    "_en": "Sage's Garment"
+  },
+  {
+    "_key": "Robe6",
+    "_ko": "빛의 로브",
+    "_en": "Robe of Light"
+  },
+  {
+    "_key": "Robe7",
+    "_ko": "어둠의 로브",
+    "_en": "Robe of Darkness"
+  },
+  {
+    "_key": "Robe3",
+    "_ko": "로브",
+    "_en": "Robe"
+  },
+  {
+    "_key": "Robe1_comment",
+    "_ko": "가벼운 천으로 만든 옷.",
+    "_en": "A garment made of light fabric"
+  },
+  {
+    "_key": "Robe2_comment",
+    "_ko": "가벼운 천으로 만든 옷.",
+    "_en": "A garment made of light fabric"
+  },
+  {
+    "_key": "Robe4_comment",
+    "_ko": "마법사가 사용하는 로브.",
+    "_en": "A robe worn by wizards"
+  },
+  {
+    "_key": "Robe5_comment",
+    "_ko": "도사가 사용하는 옷.",
+    "_en": "A garment worn by sages"
+  },
+  {
+    "_key": "Robe6_comment",
+    "_ko": "빛의 기운을 간직한 로브.",
+    "_en": "A robe imbued with the essence of light"
+  },
+  {
+    "_key": "Robe7_comment",
+    "_ko": "어둠의 기운을 간직한 로브.",
+    "_en": "A robe imbued with the essence of darknes"
+  },
+  {
+    "_key": "Robe3_comment",
+    "_ko": "가벼운 천으로 만든 옷.",
+    "_en": "A garment made of light fabric"
+  },
+  {
+    "_key": "mace5",
+    "_ko": "메이스",
+    "_en": "Mace"
+  },
+  {
+    "_key": "mace3",
+    "_ko": "플레일",
+    "_en": "Flail"
+  },
+  {
+    "_key": "mace1",
+    "_ko": "모닝스타",
+    "_en": "Morning Star"
+  },
+  {
+    "_key": "mace2",
+    "_ko": "강철 모닝스타",
+    "_en": "Steel Morning Star"
+  },
+  {
+    "_key": "mace6",
+    "_ko": "대형 메이스",
+    "_en": "Large Mace"
+  },
+  {
+    "_key": "mace7",
+    "_ko": "거대 몽둥이",
+    "_en": "Giant Club"
+  },
+  {
+    "_key": "mace10",
+    "_ko": "푸른빛의 모닝스타",
+    "_en": "Azure Morning Star"
+  },
+  {
+    "_key": "mace9",
+    "_ko": "가시박힌 거대 몽둥이",
+    "_en": "Spiked Giant Club"
+  },
+  {
+    "_key": "mace11",
+    "_ko": "강철 거대 몽둥이",
+    "_en": "Steel Giant Club"
+  },
+  {
+    "_key": "mace4",
+    "_ko": "플레일",
+    "_en": "Flail"
+  },
+  {
+    "_key": "mace8",
+    "_ko": "거대 몽둥이",
+    "_en": "Giant Club"
+  },
+  {
+    "_key": "mace5_comment",
+    "_ko": "작은 둔기",
+    "_en": "A small blunt weapon"
+  },
+  {
+    "_key": "mace3_comment",
+    "_ko": "사슬로 연결한 둔기",
+    "_en": "A blunt weapon connected with chain"
+  },
+  {
+    "_key": "mace1_comment",
+    "_ko": "가시가 박힌 둔기",
+    "_en": "A blunt weapon embedded with spikes"
+  },
+  {
+    "_key": "mace2_comment",
+    "_ko": "가시가 박힌 강철 둔기",
+    "_en": "A steel blunt weapon embedded with spikes"
+  },
+  {
+    "_key": "mace6_comment",
+    "_ko": "거대한 둔기",
+    "_en": "A massive blunt weapon"
+  },
+  {
+    "_key": "mace7_comment",
+    "_ko": "오우거가 사용하는 거대한 몽둥이",
+    "_en": "A giant club wielded by an ogre"
+  },
+  {
+    "_key": "mace10_comment",
+    "_ko": "가시가 박힌 푸른빛의 둔기",
+    "_en": "A spiked blunt weapon that glows with a bluish light"
+  },
+  {
+    "_key": "mace9_comment",
+    "_ko": "오우거가 사용하는 가시가 박힌 거대한 몽둥이",
+    "_en": "A massive spiked club used by an ogre"
+  },
+  {
+    "_key": "mace11_comment",
+    "_ko": "오우거가 사용하는 거대한 강철 몽둥이",
+    "_en": "A huge steel club wielded by an ogre"
+  },
+  {
+    "_key": "mace4_comment",
+    "_ko": "사슬로 연결한 둔기",
+    "_en": "A flail-like weapon with chained segments"
+  },
+  {
+    "_key": "mace8_comment",
+    "_ko": "오우거가 사용하는 거대한 몽둥이",
+    "_en": "A gigantic club used by an ogre"
+  },
+  {
+    "_key": "helmet1",
+    "_ko": "철 투구",
+    "_en": "Iron Helmet"
+  },
+  {
+    "_key": "helmet2",
+    "_ko": "기사 투구",
+    "_en": "Knight’s Helmet"
+  },
+  {
+    "_key": "helmet4",
+    "_ko": "기사단장 투구",
+    "_en": "Paladin’s Helmet"
+  },
+  {
+    "_key": "helmet5",
+    "_ko": "황금 투구",
+    "_en": "Golden Helmet"
+  },
+  {
+    "_key": "helmet6",
+    "_ko": "돌가면",
+    "_en": "Stone Mask"
+  },
+  {
+    "_key": "helmet7",
+    "_ko": "금고아",
+    "_en": "Golden Circlet"
+  },
+  {
+    "_key": "helmet11",
+    "_ko": "투사의 투구",
+    "_en": "Warrior’s Helmet"
+  },
+  {
+    "_key": "helmet13",
+    "_ko": "코볼트 왕관",
+    "_en": "Kobold Crown"
+  },
+  {
+    "_key": "helmet8",
+    "_ko": "마술사 모자",
+    "_en": "Magician’s Hat"
+  },
+  {
+    "_key": "helmet9",
+    "_ko": "요리사 모자",
+    "_en": "Chef’s Hat"
+  },
+  {
+    "_key": "helmet12",
+    "_ko": "광대 모자",
+    "_en": "Jester’s Hat"
+  },
+  {
+    "_key": "helmet14",
+    "_ko": "마법사 모자",
+    "_en": "Wizard’s Hat"
+  },
+  {
+    "_key": "helmet16",
+    "_ko": "사냥꾼 모자",
+    "_en": "Hunter’s Hat"
+  },
+  {
+    "_key": "helmet17",
+    "_ko": "탐험가 모자",
+    "_en": "Explorer’s Hat"
+  },
+  {
+    "_key": "helmet18",
+    "_ko": "대마도사 모자",
+    "_en": "Archmage’s Hat"
+  },
+  {
+    "_key": "helmet3",
+    "_ko": "투구",
+    "_en": "Helmet"
+  },
+  {
+    "_key": "helmet10",
+    "_ko": "투구",
+    "_en": "Helmet"
+  },
+  {
+    "_key": "helmet15",
+    "_ko": "모자",
+    "_en": "Hat"
+  },
+  {
+    "_key": "helmet1_comment",
+    "_ko": "철로 만든 투구",
+    "_en": "Iron Helmet"
+  },
+  {
+    "_key": "helmet2_comment",
+    "_ko": "기사가 사용하는 투구",
+    "_en": "Knight’s Helmet"
+  },
+  {
+    "_key": "helmet4_comment",
+    "_ko": "기사단장이 사용하는 투구",
+    "_en": "Commander’s Helmet"
+  },
+  {
+    "_key": "helmet5_comment",
+    "_ko": "황금으로 만든 투구",
+    "_en": "Golden Helmet"
+  },
+  {
+    "_key": "helmet6_comment",
+    "_ko": "돌로 만든 고대의 가면",
+    "_en": "Ancient Stone Mask"
+  },
+  {
+    "_key": "helmet7_comment",
+    "_ko": "이상한 모양의 금테",
+    "_en": "Strange Golden Circlet"
+  },
+  {
+    "_key": "helmet11_comment",
+    "_ko": "투지가 상승하는 투구",
+    "_en": "Helmet of Valor"
+  },
+  {
+    "_key": "helmet13_comment",
+    "_ko": "코볼트킹이 사용하는 왕관",
+    "_en": "Crown of the Kobold King"
+  },
+  {
+    "_key": "helmet8_comment",
+    "_ko": "마술사가 사용하는 모자",
+    "_en": "Magician’s Hat"
+  },
+  {
+    "_key": "helmet9_comment",
+    "_ko": "요리사가 사용하는 모자",
+    "_en": "Chef’s Hat"
+  },
+  {
+    "_key": "helmet12_comment",
+    "_ko": "광대가 사용하는 모자",
+    "_en": "Jester’s Hat"
+  },
+  {
+    "_key": "helmet14_comment",
+    "_ko": "마법사가 사용하는 모자",
+    "_en": "Wizard’s Hat"
+  },
+  {
+    "_key": "helmet16_comment",
+    "_ko": "사냥꾼이 사용하는 모자",
+    "_en": "Hunter’s Cap"
+  },
+  {
+    "_key": "helmet17_comment",
+    "_ko": "탐험가가 사용하는 모자",
+    "_en": "Explorer’s Hat"
+  },
+  {
+    "_key": "helmet18_comment",
+    "_ko": "대마도사가 사용하는 모자",
+    "_en": "Archmage’s Hat"
+  },
+  {
+    "_key": "helmet3_comment",
+    "_ko": "기사가 사용하는 투구",
+    "_en": "Knight’s Helmet"
+  },
+  {
+    "_key": "helmet10_comment",
+    "_ko": "기사단장이 사용하는 투구",
+    "_en": "Commander’s Helmet"
+  },
+  {
+    "_key": "helmet15_comment",
+    "_ko": "마법사가 사용하는 모자",
+    "_en": "Wizard’s Hat"
+  },
+  {
+    "_key": "glove1",
+    "_ko": "가죽 장갑",
+    "_en": "Leather Gloves"
+  },
+  {
+    "_key": "glove2",
+    "_ko": "철 장갑",
+    "_en": "Iron Gauntlets"
+  },
+  {
+    "_key": "glove3",
+    "_ko": "기사도 장갑",
+    "_en": "Knight's Gauntlets"
+  },
+  {
+    "_key": "glove4",
+    "_ko": "벙어리 장갑",
+    "_en": "Mittens"
+  },
+  {
+    "_key": "glove5",
+    "_ko": "투사의 장갑",
+    "_en": "Warrior's Gloves"
+  },
+  {
+    "_key": "glove6",
+    "_ko": "닌자의 장갑",
+    "_en": "Ninja Gloves"
+  },
+  {
+    "_key": "glove1_comment",
+    "_ko": "가죽으로 만든 장갑",
+    "_en": "Gloves made of leather"
+  },
+  {
+    "_key": "glove2_comment",
+    "_ko": "철을 덧댄 만든 장갑",
+    "_en": "Gloves reinforced with iron"
+  },
+  {
+    "_key": "glove3_comment",
+    "_ko": "기사가 사용하는 장갑",
+    "_en": "Gloves used by knights"
+  },
+  {
+    "_key": "glove4_comment",
+    "_ko": "따뜻한 장갑",
+    "_en": "Warm gloves"
+  },
+  {
+    "_key": "glove5_comment",
+    "_ko": "투지가 상승하는 장갑",
+    "_en": "Gloves that boost fighting spirit"
+  },
+  {
+    "_key": "glove6_comment",
+    "_ko": "닌자가 사용하는 장갑",
+    "_en": "Gloves used by ninjas"
+  },
+  {
+    "_key": "bow1",
+    "_ko": "작은 활",
+    "_en": "Short Bow"
+  },
+  {
+    "_key": "bow2",
+    "_ko": "큰 활",
+    "_en": "Long Bow"
+  },
+  {
+    "_key": "bow5",
+    "_ko": "뇌신의 활",
+    "_en": "Thunder God's Bow"
+  },
+  {
+    "_key": "bow4",
+    "_ko": "얼음 귀신의 활",
+    "_en": "Ice Wraith Bow"
+  },
+  {
+    "_key": "bow6",
+    "_ko": "사냥꾼의 활",
+    "_en": "Hunter’s Bow"
+  },
+  {
+    "_key": "bow3",
+    "_ko": "큰 활",
+    "_en": "Long Bow"
+  },
+  {
+    "_key": "bow1_comment",
+    "_ko": "크기가 작은 활",
+    "_en": "A small-sized bow"
+  },
+  {
+    "_key": "bow2_comment",
+    "_ko": "크기가 큰 활",
+    "_en": "A large-sized bow"
+  },
+  {
+    "_key": "bow5_comment",
+    "_ko": "뇌신의 기운이 깃든 활",
+    "_en": "A bow imbued with the energy of the Thunder God"
+  },
+  {
+    "_key": "bow4_comment",
+    "_ko": "얼음 귀신의 힘이 깃든 활",
+    "_en": "A bow imbued with the power of the Ice Spirit"
+  },
+  {
+    "_key": "bow6_comment",
+    "_ko": "사냥꾼이 사용하는 활",
+    "_en": "A bow used by hunters"
+  },
+  {
+    "_key": "bow3_comment",
+    "_ko": "크기가 큰 활",
+    "_en": "A large-sized bow"
+  },
+  {
+    "_key": "boot1",
+    "_ko": "가죽 신발",
+    "_en": "Leather Shoes"
+  },
+  {
+    "_key": "boot2",
+    "_ko": "마법사 신발",
+    "_en": "Wizard's Shoes"
+  },
+  {
+    "_key": "boot3",
+    "_ko": "사냥꾼 신발",
+    "_en": "Hunter's Shoes"
+  },
+  {
+    "_key": "boot4",
+    "_ko": "화염의 신발",
+    "_en": "Shoes of Flame"
+  },
+  {
+    "_key": "boot5",
+    "_ko": "닌자 신발",
+    "_en": "Ninja Shoes"
+  },
+  {
+    "_key": "boot6",
+    "_ko": "냉기의 신발",
+    "_en": "Shoes of Frost"
+  },
+  {
+    "_key": "boot7",
+    "_ko": "대지의 신발",
+    "_en": "Shoes of Earth"
+  },
+  {
+    "_key": "boot8",
+    "_ko": "매력의 신발",
+    "_en": "Shoes of Charm"
+  },
+  {
+    "_key": "boot1_comment",
+    "_ko": "가죽으로 만든 신발",
+    "_en": "Shoes made of leather"
+  },
+  {
+    "_key": "boot2_comment",
+    "_ko": "마법사가 사용하는 신발",
+    "_en": "Shoes worn by wizards"
+  },
+  {
+    "_key": "boot3_comment",
+    "_ko": "사냥꾼이 사용하는 신발",
+    "_en": "Shoes worn by hunters"
+  },
+  {
+    "_key": "boot4_comment",
+    "_ko": "화염이 깃든 신발",
+    "_en": "Shoes imbued with flames"
+  },
+  {
+    "_key": "boot5_comment",
+    "_ko": "닌자가 사용하는 신발",
+    "_en": "Shoes worn by ninjas"
+  },
+  {
+    "_key": "boot6_comment",
+    "_ko": "냉기가 깃든 신발",
+    "_en": "Shoes imbued with frost"
+  },
+  {
+    "_key": "boot7_comment",
+    "_ko": "대지의 기운을 지닌 신발",
+    "_en": "Shoes infused with the power of the earth"
+  },
+  {
+    "_key": "boot8_comment",
+    "_ko": "매력적인 디자인의 신발",
+    "_en": "Shoes with a charming design"
+  },
+  {
+    "_key": "axe1",
+    "_ko": "돌도끼",
+    "_en": "Stone Axe"
+  },
+  {
+    "_key": "axe4",
+    "_ko": "손도끼",
+    "_en": "Hand Axe"
+  },
+  {
+    "_key": "axe2",
+    "_ko": "전투도끼",
+    "_en": "Battle Axe"
+  },
+  {
+    "_key": "axe3",
+    "_ko": "넓적날 도끼",
+    "_en": "Broad Axe"
+  },
+  {
+    "_key": "axe5",
+    "_ko": "양날 도끼",
+    "_en": "Double Axe"
+  },
+  {
+    "_key": "axe8",
+    "_ko": "대형 양날 도끼",
+    "_en": "Great Double Axe"
+  },
+  {
+    "_key": "axe12",
+    "_ko": "처형인의 도끼",
+    "_en": "Executioner's Axe"
+  },
+  {
+    "_key": "axe6",
+    "_ko": "푸른빛의 넓적날 도끼",
+    "_en": "Azure Broad Axe"
+  },
+  {
+    "_key": "axe10",
+    "_ko": "푸른빛의 대형 양날 도끼",
+    "_en": "Azure Great Double Axe"
+  },
+  {
+    "_key": "axe11",
+    "_ko": "붉은빛의 대형 양날 도끼",
+    "_en": "Crimson Great Double Axe"
+  },
+  {
+    "_key": "axe7",
+    "_ko": "넓적날 도끼",
+    "_en": "Broad Axe"
+  },
+  {
+    "_key": "axe9",
+    "_ko": "대형 양날 도끼",
+    "_en": "Great Double Axe"
+  },
+  {
+    "_key": "axe1_comment",
+    "_ko": "돌로 만든 도끼",
+    "_en": "A stone axe"
+  },
+  {
+    "_key": "axe4_comment",
+    "_ko": "평범한 작은 도끼",
+    "_en": "A plain small axe"
+  },
+  {
+    "_key": "axe2_comment",
+    "_ko": "군인들이 사용하는 도끼",
+    "_en": "An axe used by soldiers"
+  },
+  {
+    "_key": "axe3_comment",
+    "_ko": "전투도끼를 강화한 도끼",
+    "_en": "An enhanced battle axe"
+  },
+  {
+    "_key": "axe5_comment",
+    "_ko": "양날이 달린 도끼",
+    "_en": "A double-edged axe"
+  },
+  {
+    "_key": "axe8_comment",
+    "_ko": "커다란 양날이 달린 도끼",
+    "_en": "A large double-edged axe"
+  },
+  {
+    "_key": "axe12_comment",
+    "_ko": "처형인이 사용하는 거대한 도끼",
+    "_en": "A massive axe used by executioners"
+  },
+  {
+    "_key": "axe6_comment",
+    "_ko": "전투도끼를 강화한 푸른빛의 도끼",
+    "_en": "An enhanced battle axe with a blue glow"
+  },
+  {
+    "_key": "axe10_comment",
+    "_ko": "커다란 양날이 달린 푸른빛의 도끼",
+    "_en": "A large double-edged axe with a blue glow"
+  },
+  {
+    "_key": "axe11_comment",
+    "_ko": "커다란 양날이 달린 붉은빛의 도끼",
+    "_en": "A large double-edged axe with a red glow"
+  },
+  {
+    "_key": "axe7_comment",
+    "_ko": "전투도끼를 강화한 도끼",
+    "_en": "An enhanced battle axe"
+  },
+  {
+    "_key": "axe9_comment",
+    "_ko": "커다란 양날이 달린 도끼",
+    "_en": "A large double-edged axe"
+  },
+  {
+    "_key": "leader armour1",
+    "_ko": "가죽 갑옷",
+    "_en": "Leather Armor"
+  },
+  {
+    "_key": "ringmail1",
+    "_ko": "고리 갑옷",
+    "_en": "Ringmail Armor"
+  },
+  {
+    "_key": "scalemail1",
+    "_ko": "미늘 갑옷",
+    "_en": "Scale Armor"
+  },
+  {
+    "_key": "chainmail1",
+    "_ko": "사슬 갑옷",
+    "_en": "Chainmail Armor"
+  },
+  {
+    "_key": "platemail1",
+    "_ko": "판금 갑옷",
+    "_en": "Plate Armor"
+  },
+  {
+    "_key": "crystalplatemail1",
+    "_ko": "수정 판금 갑옷",
+    "_en": "Crystal Plate Armor"
+  },
+  {
+    "_key": "troll leader armour1",
+    "_ko": "트롤 가죽 갑옷",
+    "_en": "Troll Leather Armor"
+  },
+  {
+    "_key": "dragon armour1",
+    "_ko": "회색 용 갑옷",
+    "_en": "Gray Dragon Armor"
+  },
+  {
+    "_key": "dragon armour2",
+    "_ko": "붉은 용 갑옷",
+    "_en": "Red Dragon Armor"
+  },
+  {
+    "_key": "dragon armour3",
+    "_ko": "푸른 용 갑옷",
+    "_en": "Blue Dragon Armor"
+  },
+  {
+    "_key": "dragon armour4",
+    "_ko": "황금 용 갑옷",
+    "_en": "Golden Dragon Armor"
+  },
+  {
+    "_key": "ringmail3",
+    "_ko": "마력의 고리 갑옷",
+    "_en": "Enchanted Ringmail Armor"
+  },
+  {
+    "_key": "chainmail2",
+    "_ko": "대장군의 사슬 갑옷",
+    "_en": "Warlord's Chainmail Armor"
+  },
+  {
+    "_key": "platemail2",
+    "_ko": "황금 판금 갑옷",
+    "_en": "Golden Plate Armor"
+  },
+  {
+    "_key": "dragon armour5",
+    "_ko": "고대 용 갑옷",
+    "_en": "Ancient Dragon Armor"
+  },
+  {
+    "_key": "leader armour2",
+    "_ko": "가죽 갑옷",
+    "_en": "Leather Armor"
+  },
+  {
+    "_key": "ringmail2",
+    "_ko": "고리 갑옷",
+    "_en": "Ringmail Armor"
+  },
+  {
+    "_key": "scalemail2",
+    "_ko": "미늘 갑옷",
+    "_en": "Scale Armor"
+  },
+  {
+    "_key": "chainmail3",
+    "_ko": "사슬 갑옷",
+    "_en": "Chainmail Armor"
+  },
+  {
+    "_key": "crystalplatemail2",
+    "_ko": "수정  판금 갑옷",
+    "_en": "Crystal Plate Armor"
+  },
+  {
+    "_key": "troll leader armour2",
+    "_ko": "트롤 가죽 갑옷",
+    "_en": "Troll Leather Armor"
+  },
+  {
+    "_key": "leader armour1_comment",
+    "_ko": "가죽으로 만든 갑옷",
+    "_en": "Armor made of leather"
+  },
+  {
+    "_key": "ringmail1_comment",
+    "_ko": "가죽에 금속 링으로 보강한 갑옷",
+    "_en": "Leather armor reinforced with metal rings"
+  },
+  {
+    "_key": "scalemail1_comment",
+    "_ko": "가죽에 금속판을 덧댄 갑옷",
+    "_en": "Leather armor reinforced with metal plates"
+  },
+  {
+    "_key": "chainmail1_comment",
+    "_ko": "금속 고리로 만들어진 갑옷",
+    "_en": "Armor made of interlocking metal rings"
+  },
+  {
+    "_key": "platemail1_comment",
+    "_ko": "강철로 만들어진 갑옷",
+    "_en": "Armor made of steel"
+  },
+  {
+    "_key": "crystalplatemail1_comment",
+    "_ko": "수정 판금으로 만들어진 갑옷",
+    "_en": "Plate armor crafted from crystal"
+  },
+  {
+    "_key": "troll leader armour1_comment",
+    "_ko": "트롤 가죽으로 만든 갑옷",
+    "_en": "Armor made from troll leather"
+  },
+  {
+    "_key": "dragon armour1_comment",
+    "_ko": "회색 용의 비늘로 만든 갑옷",
+    "_en": "Armor crafted from the scales of a gray dragon"
+  },
+  {
+    "_key": "dragon armour2_comment",
+    "_ko": "붉은 용의 비늘로 만든 갑옷",
+    "_en": "Armor crafted from the scales of a red dragon"
+  },
+  {
+    "_key": "dragon armour3_comment",
+    "_ko": "푸른 용의 비늘로 만든 갑옷",
+    "_en": "Armor crafted from the scales of a blue dragon"
+  },
+  {
+    "_key": "dragon armour4_comment",
+    "_ko": "황금 용의 비늘로 만든 갑옷",
+    "_en": "Armor crafted from the scales of a golden dragon"
+  },
+  {
+    "_key": "ringmail3_comment",
+    "_ko": "마력을 지닌 고리 갑옷",
+    "_en": "Ringmail armor imbued with magical power"
+  },
+  {
+    "_key": "chainmail2_comment",
+    "_ko": "대장군의 기운을 가진 사슬 갑옷",
+    "_en": "Chainmail armor infused with the spirit of a warlord"
+  },
+  {
+    "_key": "platemail2_comment",
+    "_ko": "황금 용의 비늘로 만든 판금 갑옷",
+    "_en": "Plate armor made from golden dragon scales"
+  },
+  {
+    "_key": "dragon armour5_comment",
+    "_ko": "고대 용의 비늘로 만든 갑옷",
+    "_en": "Armor made from the scales of an ancient dragon"
+  },
+  {
+    "_key": "leader armour2_comment",
+    "_ko": "가죽으로 만든 갑옷",
+    "_en": "Armor made of leather"
+  },
+  {
+    "_key": "ringmail2_comment",
+    "_ko": "가죽에 금속 링으로 보강한 갑옷",
+    "_en": "Leather armor reinforced with metal rings"
+  },
+  {
+    "_key": "scalemail2_comment",
+    "_ko": "가죽에 금속판을 덧댄 갑옷",
+    "_en": "Leather armor reinforced with metal plates"
+  },
+  {
+    "_key": "chainmail3_comment",
+    "_ko": "금속 고리로 만들어진 갑옷",
+    "_en": "Armor made of interlocking metal rings"
+  },
+  {
+    "_key": "crystalplatemail2_comment",
+    "_ko": "수정 판금으로 만들어진 갑옷",
+    "_en": "Plate armor crafted from crystal"
+  },
+  {
+    "_key": "troll leader armour2_comment",
+    "_ko": "트롤 가죽으로 만든 갑옷",
+    "_en": "Armor made from troll leather"
+  },
+  {
+    "_key": "black box",
+    "_ko": "검은 상자",
+    "_en": "Black Box"
+  },
+  {
+    "_key": "deck1",
+    "_ko": "카드 뭉치",
+    "_en": "Card Pack"
+  },
+  {
+    "_key": "deck2",
+    "_ko": "마법 카드 뭉치",
+    "_en": "Magic Card Pack"
+  },
+  {
+    "_key": "deck3",
+    "_ko": "전설 카드 뭉치",
+    "_en": "Legendary Card Pack"
+  },
+  {
+    "_key": "gold1",
+    "_ko": "골드",
+    "_en": "Gold"
+  },
+  {
+    "_key": "gold2",
+    "_ko": "골드 뭉치",
+    "_en": "Gold Pouch"
+  },
+  {
+    "_key": "black box_comment",
+    "_ko": "사용하면 무엇인가 나올 것 같다.",
+    "_en": "It feels like something will come out when used"
+  },
+  {
+    "_key": "deck1_comment",
+    "_ko": "사용하면 무슨 일이 생길 것 같다.",
+    "_en": "It feels like something will happen when used"
+  },
+  {
+    "_key": "deck2_comment",
+    "_ko": "사용하면 무슨 일이 생길 것 같다.",
+    "_en": "It feels like something will happen when used"
+  },
+  {
+    "_key": "deck3_comment",
+    "_ko": "사용하면 좋은 일이 생길 것 같다.",
+    "_en": "It feels like something will happen when used"
+  },
+  {
+    "_key": "gold1_comment",
+    "_ko": "많으면 많을수록 좋다.",
+    "_en": "\"The more"
+  },
+  {
+    "_key": "gold2_comment",
+    "_ko": "많으면 많을수록 좋다.",
+    "_en": "\"The more"
+  },
+  {
+    "_key": "ring4",
+    "_ko": "불의 기운이 깃든 반지",
+    "_en": "Ring of Fiery Aura"
+  },
+  {
+    "_key": "ring8",
+    "_ko": "죽음을 간직한 반지",
+    "_en": "Ring of Death’s Embrace"
+  },
+  {
+    "_key": "ring11",
+    "_ko": "땅의 힘을 모은 반지",
+    "_en": "Ring of Earth’s Might"
+  },
+  {
+    "_key": "ring12",
+    "_ko": "얼음과 불의 반지",
+    "_en": "Ring of Ice and Fire"
+  },
+  {
+    "_key": "ring13",
+    "_ko": "여신의 반지",
+    "_en": "Ring of the Goddess"
+  },
+  {
+    "_key": "ring14",
+    "_ko": "냉기를 머금은 반지",
+    "_en": "Ring of Chill"
+  },
+  {
+    "_key": "ring15",
+    "_ko": "그림자 반지",
+    "_en": "Ring of Shadows"
+  },
+  {
+    "_key": "ring16",
+    "_ko": "대마도사의 반지",
+    "_en": "Archmage’s Ring"
+  },
+  {
+    "_key": "ring4_comment",
+    "_ko": "화염에서 만들어진 반지",
+    "_en": "A ring forged from flame"
+  },
+  {
+    "_key": "ring8_comment",
+    "_ko": "어두운 힘으로 만들어진 반지",
+    "_en": "A ring crafted with dark power"
+  },
+  {
+    "_key": "ring11_comment",
+    "_ko": "대지의 힘으로 만들어진 반지",
+    "_en": "A ring infused with the power of the earth"
+  },
+  {
+    "_key": "ring12_comment",
+    "_ko": "모순적인 힘을 보여주는 반지",
+    "_en": "A ring that embodies contradictory forces"
+  },
+  {
+    "_key": "ring13_comment",
+    "_ko": "여신이 사용하는 반지",
+    "_en": "A ring used by a goddess"
+  },
+  {
+    "_key": "ring14_comment",
+    "_ko": "냉기에서 만들어진 반지",
+    "_en": "A ring formed from frost"
+  },
+  {
+    "_key": "ring15_comment",
+    "_ko": "그림자처럼 움직일 수 있는 반지",
+    "_en": "A ring that grants shadow-like movement"
+  },
+  {
+    "_key": "ring16_comment",
+    "_ko": "대마도사의 마력이 깃든 반지",
+    "_en": "A ring imbued with the magic of a grand sorcerer"
+  },
+  {
+    "_key": "Ring of Life",
+    "_ko": "생명의 반지",
+    "_en": "Ring of Life"
+  },
+  {
+    "_key": "Ring of Mana",
+    "_ko": "마나의 반지",
+    "_en": "Ring of Mana"
+  },
+  {
+    "_key": "Ring of Attack",
+    "_ko": "공격의 반지",
+    "_en": "Ring of Attack"
+  },
+  {
+    "_key": "Ring of Defense",
+    "_ko": "방어의 반지",
+    "_en": "Ring of Defense"
+  },
+  {
+    "_key": "Ring of Magic Attack",
+    "_ko": "마법 공격의 반지",
+    "_en": "Ring of Magic Attack"
+  },
+  {
+    "_key": "Ring of Fire Resistance",
+    "_ko": "화염 저항 반지",
+    "_en": "Ring of Fire Resistance"
+  },
+  {
+    "_key": "Ring of Frost Resistance",
+    "_ko": "냉기 저항 반지",
+    "_en": "Ring of Frost Resistance"
+  },
+  {
+    "_key": "Ring of Earth Resistance",
+    "_ko": "대지 저항 반지",
+    "_en": "Ring of Earth Resistance"
+  },
+  {
+    "_key": "Ring of Darkness Resistance",
+    "_ko": "암흑 저항 반지",
+    "_en": "Ring of Darkness Resistance"
+  },
+  {
+    "_key": "Ring of Poison Resistance",
+    "_ko": "독 저항 반지",
+    "_en": "Ring of Poison Resistance"
+  },
+  {
+    "_key": "Ring of Evasion",
+    "_ko": "회피 반지",
+    "_en": "Ring of Evasion"
+  },
+  {
+    "_key": "Ring of Life_comment",
+    "_ko": "체력이 상승하는 반지",
+    "_en": "Ring that increases HP"
+  },
+  {
+    "_key": "Ring of Mana_comment",
+    "_ko": "마력이 상승하는 반지",
+    "_en": "Ring that increases MP"
+  },
+  {
+    "_key": "Ring of Attack_comment",
+    "_ko": "공격력이 상승하는 반지",
+    "_en": "Ring that increases Attack Power"
+  },
+  {
+    "_key": "Ring of Defense_comment",
+    "_ko": "방어력이 상승하는 반지",
+    "_en": "Ring that increases Defense"
+  },
+  {
+    "_key": "Ring of Magic Attack_comment",
+    "_ko": "마법 공격력이 상승하는 반지",
+    "_en": "Ring that increases Magic Attack Power"
+  },
+  {
+    "_key": "Ring of Fire Resistance_comment",
+    "_ko": "화염 저항력이 상승하는 반지",
+    "_en": "Ring that increases Fire Resistance"
+  },
+  {
+    "_key": "Ring of Frost Resistance_comment",
+    "_ko": "냉기 저항력이 상승하는 반지",
+    "_en": "Ring that increases Ice Resistance"
+  },
+  {
+    "_key": "Ring of Earth Resistance_comment",
+    "_ko": "대지 저항력이 상승하는 반지",
+    "_en": "Ring that increases Earth Resistance"
+  },
+  {
+    "_key": "Ring of Darkness Resistance_comment",
+    "_ko": "암흑 저항력이 상승하는 반지",
+    "_en": "Ring that increases Dark Resistance"
+  },
+  {
+    "_key": "Ring of Poison Resistance_comment",
+    "_ko": "독 저항력이 상승하는 반지",
+    "_en": "Ring that increases Poison Resistance"
+  },
+  {
+    "_key": "Ring of Evasion_comment",
+    "_ko": "회피률이 상승하는 반지",
+    "_en": "Ring that increases Evasion Rate"
+  },
+  {
+    "_key": "amulet10",
+    "_ko": "저주받은 악령의 목걸이",
+    "_en": "Cursed Spirit Amulet"
+  },
+  {
+    "_key": "amulet11",
+    "_ko": "숲의 활력을 지닌 목걸이",
+    "_en": "Amulet of Forest Vitality"
+  },
+  {
+    "_key": "amulet12",
+    "_ko": "붉은 고리 목걸이",
+    "_en": "Red Ring Amule"
+  },
+  {
+    "_key": "amulet13",
+    "_ko": "해골 목걸이",
+    "_en": "Skull Amulet"
+  },
+  {
+    "_key": "amulet14",
+    "_ko": "바다를 품은 목걸이",
+    "_en": "Amulet of the Sea"
+  },
+  {
+    "_key": "amulet15",
+    "_ko": "철의 십자 목걸이",
+    "_en": "Iron Cross Amulet"
+  },
+  {
+    "_key": "amulet16",
+    "_ko": "파란 마녀의 목걸이",
+    "_en": "Blue Witch's Amulet"
+  },
+  {
+    "_key": "amulet10_comment",
+    "_ko": "저주받은 악령이 사용했던 목걸이",
+    "_en": "An amulet once worn by a cursed wraith"
+  },
+  {
+    "_key": "amulet11_comment",
+    "_ko": "숲속 엘프 전사가 사용하는 목걸이",
+    "_en": "An amulet worn by a forest elf warrior"
+  },
+  {
+    "_key": "amulet12_comment",
+    "_ko": "뜨거운 힘이 깃든 고리 목걸이",
+    "_en": "A ring-shaped amulet imbued with fiery power"
+  },
+  {
+    "_key": "amulet13_comment",
+    "_ko": "어두운 힘을 지닌 해골 목걸이",
+    "_en": "A skull amulet infused with dark power"
+  },
+  {
+    "_key": "amulet14_comment",
+    "_ko": "인어의 눈물로 만든 목걸이",
+    "_en": "An amulet crafted from a mermaid's tears"
+  },
+  {
+    "_key": "amulet15_comment",
+    "_ko": "다른 세계의 금속으로 만든 십자 목걸이",
+    "_en": "A cross amulet made from metal of another world"
+  },
+  {
+    "_key": "amulet16_comment",
+    "_ko": "파란 마녀의 마력을 모아서 만든 목걸이",
+    "_en": "An amulet infused with the magic of the Blue Witch"
+  },
+  {
+    "_key": "Amulet of Life",
+    "_ko": "생명의 목걸이",
+    "_en": "Amulet of Life"
+  },
+  {
+    "_key": "Amulet of Mana",
+    "_ko": "마나의 목걸이",
+    "_en": "Amulet of Mana"
+  },
+  {
+    "_key": "Amulet of Attack",
+    "_ko": "공격의 목걸이",
+    "_en": "Amulet of Attack"
+  },
+  {
+    "_key": "Amulet of Defense",
+    "_ko": "방어의 목걸이",
+    "_en": "Amulet of Defense"
+  },
+  {
+    "_key": "Amulet of Magic Attack",
+    "_ko": "마법 공격의 목걸이",
+    "_en": "Amulet of Magic Attack"
+  },
+  {
+    "_key": "Amulet of Fire Resistance",
+    "_ko": "화염 저항 목걸이",
+    "_en": "Amulet of Fire Resistance"
+  },
+  {
+    "_key": "Amulet of Frost Resistance",
+    "_ko": "냉기 저항 목걸이",
+    "_en": "Amulet of Frost Resistance"
+  },
+  {
+    "_key": "Amulet of Earth Resistance",
+    "_ko": "대지 저항 목걸이",
+    "_en": "Amulet of Earth Resistance"
+  },
+  {
+    "_key": "Amulet of Darkness Resistance",
+    "_ko": "암흑 저항 목걸이",
+    "_en": "Amulet of Darkness Resistance"
+  },
+  {
+    "_key": "Amulet of Poison Resistance",
+    "_ko": "독 저항 목걸이",
+    "_en": "Amulet of Poison Resistance"
+  },
+  {
+    "_key": "Amulet of Evasion",
+    "_ko": "회피 목걸이",
+    "_en": "Amulet of Evasion"
+  },
+  {
+    "_key": "Amulet of Life_comment",
+    "_ko": "체력이 상승하는 목걸이",
+    "_en": "Amulet that increases HP"
+  },
+  {
+    "_key": "Amulet of Mana_comment",
+    "_ko": "마력이 상승하는 목걸이",
+    "_en": "Amulet that increases MP"
+  },
+  {
+    "_key": "Amulet of Attack_comment",
+    "_ko": "공격력이 상승하는 목걸이",
+    "_en": "Amulet that increases Attack Power"
+  },
+  {
+    "_key": "Amulet of Defense_comment",
+    "_ko": "방어력이 상승하는 목걸이",
+    "_en": "Amulet that increases Defense"
+  },
+  {
+    "_key": "Amulet of Magic Attack_comment",
+    "_ko": "마법 공격력이 상승하는 목걸이",
+    "_en": "Amulet that increases Magic Attack Power"
+  },
+  {
+    "_key": "Amulet of Fire Resistance_comment",
+    "_ko": "화염 저항력이 상승하는 목걸이",
+    "_en": "Amulet that increases Fire Resistance"
+  },
+  {
+    "_key": "Amulet of Frost Resistance_comment",
+    "_ko": "냉기 저항력이 상승하는 목걸이",
+    "_en": "Amulet that increases Ice Resistance"
+  },
+  {
+    "_key": "Amulet of Earth Resistance_comment",
+    "_ko": "대지 저항력이 상승하는 목걸이",
+    "_en": "Amulet that increases Earth Resistance"
+  },
+  {
+    "_key": "Amulet of Darkness Resistance_comment",
+    "_ko": "암흑 저항력이 상승하는 목걸이",
+    "_en": "Amulet that increases Dark Resistance"
+  },
+  {
+    "_key": "Amulet of Poison Resistance_comment",
+    "_ko": "독 저항력이 상승하는 목걸이",
+    "_en": "Amulet that increases Poison Resistance"
+  },
+  {
+    "_key": "Amulet of Evasion_comment",
+    "_ko": "회피률이 상승하는 목걸이",
+    "_en": "Amulet that increases Evasion Rate"
+  },
+  {
+    "_key": "suffix_option1",
+    "_ko": "튼튼한",
+    "_en": "Strong"
+  },
+  {
+    "_key": "suffix_option2",
+    "_ko": "똑똑한",
+    "_en": "Clever"
+  },
+  {
+    "_key": "suffix_option3",
+    "_ko": "강력한",
+    "_en": "Mighty"
+  },
+  {
+    "_key": "suffix_option4",
+    "_ko": "수동적인",
+    "_en": "Passive"
+  },
+  {
+    "_key": "suffix_option5",
+    "_ko": "화려한",
+    "_en": "Ornate"
+  },
+  {
+    "_key": "suffix_option6",
+    "_ko": "뜨거운",
+    "_en": "Hot"
+  },
+  {
+    "_key": "suffix_option7",
+    "_ko": "차가운",
+    "_en": "Cold"
+  },
+  {
+    "_key": "suffix_option8",
+    "_ko": "단단한",
+    "_en": "Solid"
+  },
+  {
+    "_key": "suffix_option9",
+    "_ko": "어두운",
+    "_en": "Dark"
+  },
+  {
+    "_key": "suffix_option10",
+    "_ko": "위험한",
+    "_en": "Dangerous"
+  },
+  {
+    "_key": "suffix_option11",
+    "_ko": "날렵한",
+    "_en": "Sharp"
+  },
+  {
+    "_key": "prefix_option1",
+    "_ko": "피의",
+    "_en": "Of Blood"
+  },
+  {
+    "_key": "prefix_option2",
+    "_ko": "마력의",
+    "_en": "Of Magic"
+  },
+  {
+    "_key": "prefix_option3",
+    "_ko": "공격의",
+    "_en": "Of Attack"
+  },
+  {
+    "_key": "prefix_option4",
+    "_ko": "수비의",
+    "_en": "Of Defense"
+  },
+  {
+    "_key": "prefix_option5",
+    "_ko": "마법 공격의",
+    "_en": "Of Magic Attack"
+  },
+  {
+    "_key": "prefix_option6",
+    "_ko": "불의",
+    "_en": "Of Fire"
+  },
+  {
+    "_key": "prefix_option7",
+    "_ko": "얼음의",
+    "_en": "Of Ice"
+  },
+  {
+    "_key": "prefix_option8",
+    "_ko": "바위의",
+    "_en": "Of Rock"
+  },
+  {
+    "_key": "prefix_option9",
+    "_ko": "암흑 저항의",
+    "_en": "Of Dark Resistance"
+  },
+  {
+    "_key": "prefix_option10",
+    "_ko": "맹독의",
+    "_en": "Of Poison"
+  },
+  {
+    "_key": "prefix_option11",
+    "_ko": "회피의",
+    "_en": "Of Evasion"
+  },
+  {
+    "_key": "curePotion",
+    "_ko": "상태이상 회복 물약",
+    "_en": "Cure Potion"
+  },
+  {
+    "_key": "healingPotion",
+    "_ko": "체력 회복 물약",
+    "_en": "HealingPotion"
+  },
+  {
+    "_key": "manaPotion",
+    "_ko": "마력 회복 물약",
+    "_en": "Mana Potion"
+  },
+  {
+    "_key": "invisibilityPotion",
+    "_ko": "투명화 물약",
+    "_en": "Invisibility Potion"
+  },
+  {
+    "_key": "powPotion",
+    "_ko": "광폭화 물약",
+    "_en": "Power Potion"
+  },
+  {
+    "_key": "resPotion",
+    "_ko": "저항력 증가 물약",
+    "_en": "Resistance Potion"
+  },
+  {
+    "_key": "speedPotion",
+    "_ko": "속도 증가 물약",
+    "_en": "Speed Potion"
+  },
+  {
+    "_key": "treePotion",
+    "_ko": "나무 변신 물약",
+    "_en": "Tree Potion"
+  },
+  {
+    "_key": "intPotion",
+    "_ko": "마법 공격력 증가 물약",
+    "_en": "Intelligence Potion"
+  },
+  {
+    "_key": "lvUpPotion",
+    "_ko": "레벨 업 물약",
+    "_en": "LV-Up Potion"
+  },
+  {
+    "_key": "curePotion_comment",
+    "_ko": "상태이상을 회복한다",
+    "_en": "Cures abnormal status effects"
+  },
+  {
+    "_key": "healingPotion_comment",
+    "_ko": "체력을 회복한다",
+    "_en": "Restores health"
+  },
+  {
+    "_key": "manaPotion_comment",
+    "_ko": "마력을 회복한다",
+    "_en": "Restores mana"
+  },
+  {
+    "_key": "invisibilityPotion_comment",
+    "_ko": "투명하게 변신한다",
+    "_en": "Transforms into an invisible state"
+  },
+  {
+    "_key": "powPotion_comment",
+    "_ko": "분노에 휩싸여 순간적으로 강해진다",
+    "_en": "Temporarily empowered by rage"
+  },
+  {
+    "_key": "resPotion_comment",
+    "_ko": "마법저항력이 높아진다",
+    "_en": "Increases magic resistance"
+  },
+  {
+    "_key": "speedPotion_comment",
+    "_ko": "속도가 증가한다",
+    "_en": "Increases speed"
+  },
+  {
+    "_key": "treePotion_comment",
+    "_ko": "나무로 변신한다",
+    "_en": "Transforms into a tree"
+  },
+  {
+    "_key": "intPotion_comment",
+    "_ko": "마법 공격력이 증가한다",
+    "_en": "Increases magic attack power"
+  },
+  {
+    "_key": "lvUpPotion_comment",
+    "_ko": "레벨이 오른다",
+    "_en": "Levels up"
+  },
+  {
+    "_key": "scroll7",
+    "_ko": "랜덤 순간이동 주문서",
+    "_en": "Scroll of Random Teleportation"
+  },
+  {
+    "_key": "scroll1",
+    "_ko": "무기 강화 주문서",
+    "_en": "Scroll of Weapon Enhancement"
+  },
+  {
+    "_key": "scroll3",
+    "_ko": "방어구 강화 주문서",
+    "_en": "Scroll of Armor Enhancement"
+  },
+  {
+    "_key": "scroll6",
+    "_ko": "제어 순간이동 주문서",
+    "_en": "Scroll of Controlled Teleportation"
+  },
+  {
+    "_key": "scroll2",
+    "_ko": "축복받은 강화 주문서",
+    "_en": "Scroll of Blessed Enhancement"
+  },
+  {
+    "_key": "scroll5",
+    "_ko": "소환 주문서",
+    "_en": "Scroll of Summoning"
+  },
+  {
+    "_key": "scroll8",
+    "_ko": "공포 주문서",
+    "_en": "Scroll of Fear"
+  },
+  {
+    "_key": "scroll9",
+    "_ko": "안개 주문서",
+    "_en": "Scroll of Fog"
+  },
+  {
+    "_key": "scroll10",
+    "_ko": "화염 주문서",
+    "_en": "Scroll of Flame"
+  },
+  {
+    "_key": "scroll11",
+    "_ko": "침묵 주문서",
+    "_en": "Scroll of Silence"
+  },
+  {
+    "_key": "scroll12",
+    "_ko": "회피 주문서",
+    "_en": "Scroll of Evasion"
+  },
+  {
+    "_key": "scroll14",
+    "_ko": "망각 주문서",
+    "_en": "Scroll of Forgetfulness"
+  },
+  {
+    "_key": "scroll13",
+    "_ko": "부활 주문서",
+    "_en": "Scroll of Resurrection"
+  },
+  {
+    "_key": "scroll4",
+    "_ko": "획득 주문서",
+    "_en": "Scroll of Acquisition"
+  },
+  {
+    "_key": "scroll7_comment",
+    "_ko": "무작위로 공간을 이동한다.",
+    "_en": "Teleports to a random location"
+  },
+  {
+    "_key": "scroll1_comment",
+    "_ko": "무기를 강화한다.",
+    "_en": "Enhances a weapon"
+  },
+  {
+    "_key": "scroll3_comment",
+    "_ko": "방어구를 강화한다.",
+    "_en": "Enhances armor"
+  },
+  {
+    "_key": "scroll6_comment",
+    "_ko": "선택한 공간으로 이동한다.",
+    "_en": "Teleports to a selected location"
+  },
+  {
+    "_key": "scroll2_comment",
+    "_ko": "무기나 방어구를 더욱 강화한다.",
+    "_en": "Further enhances a weapon or armor"
+  },
+  {
+    "_key": "scroll5_comment",
+    "_ko": "무작위로 아군 몬스터를 소환한다.",
+    "_en": "Summons a random ally monster"
+  },
+  {
+    "_key": "scroll8_comment",
+    "_ko": "주변 적에게 공포 효과를 준다.",
+    "_en": "Inflicts fear on nearby enemies"
+  },
+  {
+    "_key": "scroll9_comment",
+    "_ko": "주변에 안개를 발생시킨다.",
+    "_en": "Creates a fog around the area"
+  },
+  {
+    "_key": "scroll10_comment",
+    "_ko": "화염으로 적을 공격한다.",
+    "_en": "Attacks enemies with flames"
+  },
+  {
+    "_key": "scroll11_comment",
+    "_ko": "주변을 침묵하게 만든다.",
+    "_en": "Silences the surrounding area"
+  },
+  {
+    "_key": "scroll12_comment",
+    "_ko": "회피력이 상승한다.",
+    "_en": "Increases evasion"
+  },
+  {
+    "_key": "scroll14_comment",
+    "_ko": "습득한 마법을 망각한다.",
+    "_en": "Forgets a learned spell"
+  },
+  {
+    "_key": "scroll13_comment",
+    "_ko": "죽음에서 한번 부활한다.",
+    "_en": "Revives once upon death"
+  },
+  {
+    "_key": "scroll4_comment",
+    "_ko": "좋은 아이템을 얻을 수 있다.",
+    "_en": "Can obtain a valuable item"
+  },
+  {
+    "_key": "fire6",
+    "_ko": "화염 폭풍",
+    "_en": "Flame Storm"
+  },
+  {
+    "_key": "ice3",
+    "_ko": "냉기 폭풍",
+    "_en": "Frost Storm"
+  },
+  {
+    "_key": "sum6",
+    "_ko": "대악마 소환",
+    "_en": "Summon Archdemon"
+  },
+  {
+    "_key": "fire1",
+    "_ko": "화염 창",
+    "_en": "Flame Spear"
+  },
+  {
+    "_key": "ice5",
+    "_ko": "얼음 창",
+    "_en": "Ice Spear"
+  },
+  {
+    "_key": "venom4",
+    "_ko": "맹독 폭풍",
+    "_en": "Poison Storm"
+  },
+  {
+    "_key": "earth4",
+    "_ko": "대지의 수정창",
+    "_en": "Crystal Spear of Earth"
+  },
+  {
+    "_key": "nec5",
+    "_ko": "저주",
+    "_en": "Curse"
+  },
+  {
+    "_key": "nec6",
+    "_ko": "악마 변신",
+    "_en": "Demonic Transformation"
+  },
+  {
+    "_key": "sum5",
+    "_ko": "악마 소환",
+    "_en": "Summon Demon"
+  },
+  {
+    "_key": "fire5",
+    "_ko": "불꽃 발화",
+    "_en": "Ignite"
+  },
+  {
+    "_key": "fire7",
+    "_ko": "화염 화살",
+    "_en": "Fire Arrow"
+  },
+  {
+    "_key": "fire3",
+    "_ko": "화염의 힘",
+    "_en": "Power of Flame"
+  },
+  {
+    "_key": "fire4",
+    "_ko": "화염구",
+    "_en": "Fireball"
+  },
+  {
+    "_key": "fire2",
+    "_ko": "화염 벽",
+    "_en": "Wall of Fire"
+  },
+  {
+    "_key": "ice1",
+    "_ko": "냉기 갑옷",
+    "_en": "Frost Armor"
+  },
+  {
+    "_key": "ice2",
+    "_ko": "냉기의 손길",
+    "_en": "Touch of Frost"
+  },
+  {
+    "_key": "ice6",
+    "_ko": "차가운 회복",
+    "_en": "Cold Recovery"
+  },
+  {
+    "_key": "ice7",
+    "_ko": "급속 냉각",
+    "_en": "Rapid Chill"
+  },
+  {
+    "_key": "ice8",
+    "_ko": "얼음 화살",
+    "_en": "Ice Arrow"
+  },
+  {
+    "_key": "venom1",
+    "_ko": "독침",
+    "_en": "Poison Sting"
+  },
+  {
+    "_key": "venom2",
+    "_ko": "맹독의 구",
+    "_en": "Orb of Venom"
+  },
+  {
+    "_key": "venom3",
+    "_ko": "독 바르기",
+    "_en": "Apply Poison"
+  },
+  {
+    "_key": "venom5",
+    "_ko": "맹독 폭탄",
+    "_en": "Poison Bomb"
+  },
+  {
+    "_key": "venom6",
+    "_ko": "맹독 구름",
+    "_en": "Poison Cloud"
+  },
+  {
+    "_key": "earth5",
+    "_ko": "모래 바람",
+    "_en": "Sandstorm"
+  },
+  {
+    "_key": "earth1",
+    "_ko": "암석 화살",
+    "_en": "Stone Arrow"
+  },
+  {
+    "_key": "earth2",
+    "_ko": "마비의 눈",
+    "_en": "Eye of Paralysis"
+  },
+  {
+    "_key": "earth3",
+    "_ko": "석상의 형상",
+    "_en": "Form of a Statue"
+  },
+  {
+    "_key": "nec1",
+    "_ko": "해골 소환",
+    "_en": "Summon Skeleton"
+  },
+  {
+    "_key": "nec2",
+    "_ko": "고통",
+    "_en": "Agony"
+  },
+  {
+    "_key": "nec3",
+    "_ko": "좀비 소환",
+    "_en": "Summon Zombie"
+  },
+  {
+    "_key": "nec4",
+    "_ko": "언데드 말살",
+    "_en": "Undead Annihilation"
+  },
+  {
+    "_key": "sum1",
+    "_ko": "작은 동물 소환",
+    "_en": "Summon Small Animal"
+  },
+  {
+    "_key": "sum2",
+    "_ko": "늑대 소환",
+    "_en": "Summon Wolf"
+  },
+  {
+    "_key": "sum3",
+    "_ko": "코끼리 소환",
+    "_en": "Summon Elephant"
+  },
+  {
+    "_key": "sum4",
+    "_ko": "요정 소환",
+    "_en": "Summon Fairy"
+  },
+  {
+    "_key": "fire6_comment",
+    "_ko": "거대한 화염 폭풍을 일으킨다",
+    "_en": "Summons a massive flame storm"
+  },
+  {
+    "_key": "ice3_comment",
+    "_ko": "거대한 냉기 폭풍을 일으킨다",
+    "_en": "Summons a massive frost storm"
+  },
+  {
+    "_key": "sum6_comment",
+    "_ko": "대악마를 소환한다",
+    "_en": "Summons an archdemon"
+  },
+  {
+    "_key": "fire1_comment",
+    "_ko": "화염창을 적에게 발사한다",
+    "_en": "Launches a flame spear at the enemy"
+  },
+  {
+    "_key": "ice5_comment",
+    "_ko": "얼음창을 적에게 발사한다",
+    "_en": "Launches an ice spear at the enemy"
+  },
+  {
+    "_key": "venom4_comment",
+    "_ko": "거대한 맹독 폭풍을 일으킨다",
+    "_en": "Unleashes a massive poison storm"
+  },
+  {
+    "_key": "earth4_comment",
+    "_ko": "수정창을 적에게 발사한다",
+    "_en": "Fires a crystal spear at the enemy"
+  },
+  {
+    "_key": "nec5_comment",
+    "_ko": "적에게 저주를 건다",
+    "_en": "Casts a curse on the enemy"
+  },
+  {
+    "_key": "nec6_comment",
+    "_ko": "강력한 악마로 변신을 한다",
+    "_en": "Transforms into a powerful demon"
+  },
+  {
+    "_key": "sum5_comment",
+    "_ko": "악마를 소환한다",
+    "_en": "Summons a demon"
+  },
+  {
+    "_key": "fire5_comment",
+    "_ko": "작은 불꽃으로 적을 공격한다",
+    "_en": "Attacks the enemy with a small flame"
+  },
+  {
+    "_key": "fire7_comment",
+    "_ko": "화염 화살로 적을 공격한다",
+    "_en": "Attacks the enemy with a fire arrow"
+  },
+  {
+    "_key": "fire3_comment",
+    "_ko": "무기에 화염의 힘을 더한다",
+    "_en": "Empowers the weapon with the power of flame"
+  },
+  {
+    "_key": "fire4_comment",
+    "_ko": "화염구로 적을 공격한다",
+    "_en": "Attacks the enemy with a fireball"
+  },
+  {
+    "_key": "fire2_comment",
+    "_ko": "화염 벽을 만든다",
+    "_en": "Creates a wall of fire"
+  },
+  {
+    "_key": "ice1_comment",
+    "_ko": "갑옷에 냉기를 더한다",
+    "_en": "Infuses armor with frost"
+  },
+  {
+    "_key": "ice2_comment",
+    "_ko": "냉기를 이용해서 적을 공격한다",
+    "_en": "Attacks the enemy using frost"
+  },
+  {
+    "_key": "ice6_comment",
+    "_ko": "냉기의 힘으로 체력을 회복한다",
+    "_en": "Recovers health using the power of frost"
+  },
+  {
+    "_key": "ice7_comment",
+    "_ko": "차가운 냉기로 적을 얼린다",
+    "_en": "Freezes the enemy with chilling cold"
+  },
+  {
+    "_key": "ice8_comment",
+    "_ko": "얼음 화살로 적을 공격한다",
+    "_en": "Attacks the enemy with an ice arrow"
+  },
+  {
+    "_key": "venom1_comment",
+    "_ko": "독침으로 적을 공격한다",
+    "_en": "Attacks the enemy with a poison sting"
+  },
+  {
+    "_key": "venom2_comment",
+    "_ko": "둥그런 맹독으로 적을 공격한다",
+    "_en": "Attacks the enemy with a venomous orb"
+  },
+  {
+    "_key": "venom3_comment",
+    "_ko": "무기에 맹독을 바른다",
+    "_en": "Coats the weapon with poison"
+  },
+  {
+    "_key": "venom5_comment",
+    "_ko": "맹독으로 만든 폭탄을 터트려서 공격한다",
+    "_en": "Detonates a poison bomb to attack"
+  },
+  {
+    "_key": "venom6_comment",
+    "_ko": "넓은 범위에 맹독 구름을 소환한다",
+    "_en": "Summons a poison cloud over a wide area"
+  },
+  {
+    "_key": "earth5_comment",
+    "_ko": "작은 모래 바람으로 적을 공격한다",
+    "_en": "Attacks the enemy with a small sandstorm"
+  },
+  {
+    "_key": "earth1_comment",
+    "_ko": "암석 화살로 적을 공격한다",
+    "_en": "Attacks the enemy with a stone arrow"
+  },
+  {
+    "_key": "earth2_comment",
+    "_ko": "적을 마비 시킨다",
+    "_en": "Paralyzes the enemy"
+  },
+  {
+    "_key": "earth3_comment",
+    "_ko": "단단한 석상으로 변신한다",
+    "_en": "Transforms into a solid statue"
+  },
+  {
+    "_key": "nec1_comment",
+    "_ko": "해골을 소환한다",
+    "_en": "Summons a skeleton"
+  },
+  {
+    "_key": "nec2_comment",
+    "_ko": "사악한 기운으로 적을 공격한다",
+    "_en": "Attacks the enemy with evil energy"
+  },
+  {
+    "_key": "nec3_comment",
+    "_ko": "좀비를 소환한다",
+    "_en": "Summons a zombie"
+  },
+  {
+    "_key": "nec4_comment",
+    "_ko": "언데드에게 강력한 공격을 한다",
+    "_en": "Deals a powerful blow to undead"
+  },
+  {
+    "_key": "sum1_comment",
+    "_ko": "작은 동물을 소환한다",
+    "_en": "Summons a small animal"
+  },
+  {
+    "_key": "sum2_comment",
+    "_ko": "늑대를 소환한다",
+    "_en": "Summons a wolf"
+  },
+  {
+    "_key": "sum3_comment",
+    "_ko": "코끼리를 소환한다",
+    "_en": "Summons an elephant"
+  },
+  {
+    "_key": "sum4_comment",
+    "_ko": "요정을 소환한다",
+    "_en": "Summons a fairy"
+  },
+  {
+    "_key": "Adder",
+    "_ko": "살무사",
+    "_en": "Adder"
+  },
+  {
+    "_key": "Ancient Rich",
+    "_ko": "고대 리치",
+    "_en": "Ancient Lich"
+  },
+  {
+    "_key": "Balrug",
+    "_ko": "발록",
+    "_en": "Balrug"
+  },
+  {
+    "_key": "Baphomet",
+    "_ko": "바포메트",
+    "_en": "Baphomet"
+  },
+  {
+    "_key": "Bat",
+    "_ko": "박쥐",
+    "_en": "Bat"
+  },
+  {
+    "_key": "Bear",
+    "_ko": "곰",
+    "_en": "Bear"
+  },
+  {
+    "_key": "Beholder",
+    "_ko": "비홀더",
+    "_en": "Beholder"
+  },
+  {
+    "_key": "Black Bear",
+    "_ko": "흑곰",
+    "_en": "Black Bear"
+  },
+  {
+    "_key": "Cyclops named",
+    "_ko": "외눈파괴자 모르그",
+    "_en": "One-Eyed Destroyer Morg"
+  },
+  {
+    "_key": "Cyclops",
+    "_ko": "싸이클롭스",
+    "_en": "Cyclops"
+  },
+  {
+    "_key": "Dark Fiend",
+    "_ko": "어둠의 옵스큐러",
+    "_en": "Dark Fiend"
+  },
+  {
+    "_key": "Dog",
+    "_ko": "강아지",
+    "_en": "Dog"
+  },
+  {
+    "_key": "Dwarf Carpenter",
+    "_ko": "드워프 나무꾼",
+    "_en": "Dwarf Carpenter"
+  },
+  {
+    "_key": "Dwarf Gimli",
+    "_ko": "작은 거인 김리",
+    "_en": "Dwarf Gimli"
+  },
+  {
+    "_key": "Dwarf",
+    "_ko": "드워프",
+    "_en": "Dwarf"
+  },
+  {
+    "_key": "Elephant Dire",
+    "_ko": "광폭의 코끼리",
+    "_en": "Elephant Dire"
+  },
+  {
+    "_key": "Elephant Hell",
+    "_ko": "지옥의 코끼리",
+    "_en": "Elephant Hell"
+  },
+  {
+    "_key": "Elephant ",
+    "_ko": "코끼리",
+    "_en": "Elephant "
+  },
+  {
+    "_key": "Elf Blade Master",
+    "_ko": "엘프 검술사",
+    "_en": "Elf Blade Master"
+  },
+  {
+    "_key": "Elf Bow Master",
+    "_ko": "엘프 궁술사",
+    "_en": "Elf Bow Master"
+  },
+  {
+    "_key": "Elf DeathMage",
+    "_ko": "엘프 사령술사",
+    "_en": "Elf Necromancer"
+  },
+  {
+    "_key": "Elf Demonologist",
+    "_ko": "엘프 악마술사",
+    "_en": "Elf Demonologist"
+  },
+  {
+    "_key": "Elf Knight",
+    "_ko": "엘프 기사",
+    "_en": "Elf Knight"
+  },
+  {
+    "_key": "Elf Magi",
+    "_ko": "엘프 마법사",
+    "_en": "Elf Mage"
+  },
+  {
+    "_key": "Elf",
+    "_ko": "엘프",
+    "_en": "Elf"
+  },
+  {
+    "_key": "Ettin",
+    "_ko": "에틴",
+    "_en": "Ettin"
+  },
+  {
+    "_key": "Eye Of Floating",
+    "_ko": "떠다니는 불안정안 눈",
+    "_en": "Eye Of Floating"
+  },
+  {
+    "_key": "Eye Of Gold",
+    "_ko": "탐욕스러운 황금의 눈",
+    "_en": "Eye Of Gold"
+  },
+  {
+    "_key": "Eye Of Green",
+    "_ko": "초록 독기",
+    "_en": "Eye Of Green"
+  },
+  {
+    "_key": "Eye Of Walk",
+    "_ko": "걸어다디는 감시자",
+    "_en": "Eye Of Walk"
+  },
+  {
+    "_key": "Giant Magi",
+    "_ko": "거인 마법사",
+    "_en": "Giant Magi"
+  },
+  {
+    "_key": "Giant",
+    "_ko": "거인",
+    "_en": "Giant"
+  },
+  {
+    "_key": "Golem",
+    "_ko": "골렘",
+    "_en": "Golem"
+  },
+  {
+    "_key": "Green Fiend",
+    "_ko": "녹염의 에버그린",
+    "_en": "Green Fiend"
+  },
+  {
+    "_key": "Human Named",
+    "_ko": "마녀 제시카",
+    "_en": "Witch Jessica"
+  },
+  {
+    "_key": "Ice Fiend",
+    "_ko": "빙결의 크라이오",
+    "_en": "Ice Fiend"
+  },
+  {
+    "_key": "Imp Fire",
+    "_ko": "파이어 임프",
+    "_en": "Imp Fire"
+  },
+  {
+    "_key": "Imp Ice",
+    "_ko": "아이스 임프",
+    "_en": "Imp Ice"
+  },
+  {
+    "_key": "Imp Iron",
+    "_ko": "아이언 임프",
+    "_en": "Imp Iron"
+  },
+  {
+    "_key": "Imp Poision",
+    "_ko": "포이즌 임프",
+    "_en": "Imp Poison"
+  },
+  {
+    "_key": "Iron Fiend",
+    "_ko": "무쇠의 스틸드라",
+    "_en": "Iron Fiend"
+  },
+  {
+    "_key": "JangshMaster",
+    "_ko": "강시 마스터",
+    "_en": "Jiangshi Master"
+  },
+  {
+    "_key": "Jiangshi",
+    "_ko": "강시 대장",
+    "_en": "Jiangshi General"
+  },
+  {
+    "_key": "Jiangshi2",
+    "_ko": "강시",
+    "_en": "Jiangshi"
+  },
+  {
+    "_key": "Jio",
+    "_ko": "저팔계",
+    "_en": "Pigsy"
+  },
+  {
+    "_key": "Koblod Crown",
+    "_ko": "코볼트 광대",
+    "_en": "Kobold Crown"
+  },
+  {
+    "_key": "Koblod",
+    "_ko": "코볼트",
+    "_en": "Kobold"
+  },
+  {
+    "_key": "Kobold Archer",
+    "_ko": "코볼트 궁수",
+    "_en": "Kobold Archer"
+  },
+  {
+    "_key": "Kobold Chief",
+    "_ko": "코볼트 대장",
+    "_en": "Kobold Chief"
+  },
+  {
+    "_key": "Kobold King",
+    "_ko": "코볼트 킹",
+    "_en": "Kobold King"
+  },
+  {
+    "_key": "Kobold Mage",
+    "_ko": "코볼트 마법사",
+    "_en": "Kobold Mage"
+  },
+  {
+    "_key": "Korea Bridal Mask",
+    "_ko": "각시탈",
+    "_en": "Bridal Mask"
+  },
+  {
+    "_key": "Korea Dokkebi",
+    "_ko": "도깨비",
+    "_en": "Dokkebi"
+  },
+  {
+    "_key": "Korea Gomiho",
+    "_ko": "구미호",
+    "_en": "Gumiho"
+  },
+  {
+    "_key": "Korea Harubang",
+    "_ko": "돌하루방",
+    "_en": "Harubang"
+  },
+  {
+    "_key": "Korea Hong_gil_dong",
+    "_ko": "홍길동",
+    "_en": "Hong Gil-dong"
+  },
+  {
+    "_key": "Korea Jangsug",
+    "_ko": "장승",
+    "_en": "Jangseung"
+  },
+  {
+    "_key": "Korea Man Ghost",
+    "_ko": "저승사자",
+    "_en": "Death Messenger"
+  },
+  {
+    "_key": "Korea Woman Ghost",
+    "_ko": "처녀귀신",
+    "_en": "Female Ghost"
+  },
+  {
+    "_key": "Little Devi Dark",
+    "_ko": "다크 데빌",
+    "_en": "Little Dark Devi "
+  },
+  {
+    "_key": "Little Devi Fire",
+    "_ko": "파이어 데빌",
+    "_en": "Little Fire Devi "
+  },
+  {
+    "_key": "Little Devi Green",
+    "_ko": "포이즌 데빌",
+    "_en": "Little Poison Devi "
+  },
+  {
+    "_key": "Little Devi Ice",
+    "_ko": "아이스 데빌",
+    "_en": "Little Ice Devi "
+  },
+  {
+    "_key": "Little Devi Iron",
+    "_ko": "아이언 데빌",
+    "_en": "Little Iron Devi "
+  },
+  {
+    "_key": "Mana Viper",
+    "_ko": "마나 바이퍼",
+    "_en": "Mana Viper"
+  },
+  {
+    "_key": "Manticore",
+    "_ko": "만티코어",
+    "_en": "Manticore"
+  },
+  {
+    "_key": "Merfork Baker",
+    "_ko": "머포크 요리사",
+    "_en": "Merfolk Chef"
+  },
+  {
+    "_key": "Merfork Javelineer",
+    "_ko": "머포크 재벌리너",
+    "_en": "Merfolk Javelineer"
+  },
+  {
+    "_key": "Merfork Warrier",
+    "_ko": "머포크 워리어",
+    "_en": "Merfolk Warrior"
+  },
+  {
+    "_key": "Merfork",
+    "_ko": "머포크",
+    "_en": "Merfolk"
+  },
+  {
+    "_key": "Minota",
+    "_ko": "미노타우르스",
+    "_en": "Minotaur"
+  },
+  {
+    "_key": "Mummy Anubis",
+    "_ko": "아누비스",
+    "_en": "Mummy Anubis"
+  },
+  {
+    "_key": "Mummy Pharaoh",
+    "_ko": "미라 파라오",
+    "_en": "Mummy Pharaoh"
+  },
+  {
+    "_key": "Mummy Warrier",
+    "_ko": "미라 워리어",
+    "_en": "Mummy Warrior"
+  },
+  {
+    "_key": "Mummy",
+    "_ko": "미라",
+    "_en": "Mummy"
+  },
+  {
+    "_key": "Naga Azura",
+    "_ko": "붉은 시선 아주라",
+    "_en": "Naga Azura"
+  },
+  {
+    "_key": "Naga Magi",
+    "_ko": "나가 마법사",
+    "_en": "Naga Magi"
+  },
+  {
+    "_key": "Naga Master",
+    "_ko": "나가 마스터",
+    "_en": "Naga Master"
+  },
+  {
+    "_key": "Naga Medusa",
+    "_ko": "메두사",
+    "_en": "Naga Medusa"
+  },
+  {
+    "_key": "Naga SharpShooter",
+    "_ko": "나가 슈터",
+    "_en": "Naga SharpShooter"
+  },
+  {
+    "_key": "Naga Warrier",
+    "_ko": "나가 워리어",
+    "_en": "Naga Warrior"
+  },
+  {
+    "_key": "Naga",
+    "_ko": "나가",
+    "_en": "Naga"
+  },
+  {
+    "_key": "Ogre Red",
+    "_ko": "레드 오우거",
+    "_en": "Red Ogre"
+  },
+  {
+    "_key": "Ogre",
+    "_ko": "오우거",
+    "_en": "Ogre"
+  },
+  {
+    "_key": "Ork HighMage",
+    "_ko": "오크 하이메이지",
+    "_en": "Ork HighMage"
+  },
+  {
+    "_key": "Ork King",
+    "_ko": "오크 킹",
+    "_en": "Ork King"
+  },
+  {
+    "_key": "Ork Knight",
+    "_ko": "오크 나이트",
+    "_en": "Ork Knight"
+  },
+  {
+    "_key": "Ork Mage",
+    "_ko": "오크 메이지",
+    "_en": "Ork Mage"
+  },
+  {
+    "_key": "Ork Named",
+    "_ko": "외눈박이 크룩",
+    "_en": "One-Eyed Crook"
+  },
+  {
+    "_key": "Ork Rider",
+    "_ko": "오크 라이더",
+    "_en": "Ork Rider"
+  },
+  {
+    "_key": "Ork Warrier",
+    "_ko": "오크 워리어",
+    "_en": "Ork Warrior"
+  },
+  {
+    "_key": "Ork",
+    "_ko": "오크",
+    "_en": "Ork"
+  },
+  {
+    "_key": "Plant",
+    "_ko": "식인 식물",
+    "_en": "Man-eating Plant"
+  },
+  {
+    "_key": "Rat",
+    "_ko": "쥐",
+    "_en": "Rat"
+  },
+  {
+    "_key": "Reaper",
+    "_ko": "리퍼",
+    "_en": "Reaper"
+  },
+  {
+    "_key": "Rich",
+    "_ko": "리치",
+    "_en": "Lich"
+  },
+  {
+    "_key": "Sa",
+    "_ko": "사오정",
+    "_en": "Sandy"
+  },
+  {
+    "_key": "Skeleton Archer",
+    "_ko": "스켈레톤 궁수",
+    "_en": "Skeleton Archer"
+  },
+  {
+    "_key": "Skeleton Axe",
+    "_ko": "스켈레톤 워리어",
+    "_en": "Skeleton Warrior"
+  },
+  {
+    "_key": "Skeleton",
+    "_ko": "스켈레톤",
+    "_en": "Skeleton"
+  },
+  {
+    "_key": "Slug Named",
+    "_ko": "느림의 에스카르고스",
+    "_en": "Escargoss the Slow"
+  },
+  {
+    "_key": "Slug",
+    "_ko": "달팽이",
+    "_en": "Slug"
+  },
+  {
+    "_key": "Son",
+    "_ko": "손오공",
+    "_en": "Monkey King"
+  },
+  {
+    "_key": "Sprite Earth",
+    "_ko": "땅의 정령",
+    "_en": "Sprite Earth"
+  },
+  {
+    "_key": "Sprite Fire",
+    "_ko": "불의 정령",
+    "_en": "Sprite Fire"
+  },
+  {
+    "_key": "Sprite Ice",
+    "_ko": "냉기의 정령",
+    "_en": "Sprite Ice"
+  },
+  {
+    "_key": "Sprite Light",
+    "_ko": "빛의 정령",
+    "_en": "Sprite Light"
+  },
+  {
+    "_key": "Troll Deep Assasin",
+    "_ko": "딥 트롤 어쌔신",
+    "_en": "Deep Troll Assassin"
+  },
+  {
+    "_key": "Troll Deep Shaman",
+    "_ko": "딥 트롤 샤먼",
+    "_en": "Deep Troll Shaman"
+  },
+  {
+    "_key": "Troll Deep",
+    "_ko": "딥 트롤",
+    "_en": "Deep Troll "
+  },
+  {
+    "_key": "Troll Magision",
+    "_ko": "트롤 매지션",
+    "_en": "Troll Magician"
+  },
+  {
+    "_key": "Troll",
+    "_ko": "트롤",
+    "_en": "Troll"
+  },
+  {
+    "_key": "Wolf Ware",
+    "_ko": "웨어울프",
+    "_en": "Wolf Ware"
+  },
+  {
+    "_key": "Wolf",
+    "_ko": "울프",
+    "_en": "Wolf"
+  },
+  {
+    "_key": "Zombie Giant",
+    "_ko": "좀비 거인",
+    "_en": "Zombie Giant"
+  },
+  {
+    "_key": "Zombie Knight",
+    "_ko": "좀비 기사",
+    "_en": "Zombie Knight"
+  },
+  {
+    "_key": "Zombie Magi",
+    "_ko": "좀비 마법사",
+    "_en": "Zombie Mage"
+  },
+  {
+    "_key": "Zombie Miner",
+    "_ko": "좀비 광부",
+    "_en": "Zombie Miner"
+  },
+  {
+    "_key": "Zombie1",
+    "_ko": "좀비",
+    "_en": "Zombie"
+  },
+  {
+    "_key": "Zombie3",
+    "_ko": "좀비",
+    "_en": "Zombie"
+  },
+  {
+    "_key": "Adder_comment",
+    "_ko": "독을 가진 작은 뱀",
+    "_en": "A small venomous snake"
+  },
+  {
+    "_key": "Ancient Rich_comment",
+    "_ko": "고대의 강력한 마법사 언데드",
+    "_en": "An ancient undead sorcerer"
+  },
+  {
+    "_key": "Balrug_comment",
+    "_ko": "불타는 지옥의 악마",
+    "_en": "A fiery demon from the underworld"
+  },
+  {
+    "_key": "Baphomet_comment",
+    "_ko": "염소 머리의 마왕",
+    "_en": "A demon lord with a goat’s head"
+  },
+  {
+    "_key": "Bat_comment",
+    "_ko": "어둠 속을 나는 박쥐",
+    "_en": "A bat flying through darkness"
+  },
+  {
+    "_key": "Bear_comment",
+    "_ko": "야생의 강력한 곰",
+    "_en": "A powerful wild bear"
+  },
+  {
+    "_key": "Beholder_comment",
+    "_ko": "커다란 눈으로 떠다니는 괴물",
+    "_en": "A floating monster with a large eye"
+  },
+  {
+    "_key": "Black Bear_comment",
+    "_ko": "검고 더 사나운 곰",
+    "_en": "\"A fiercer"
+  },
+  {
+    "_key": "Cyclops named_comment",
+    "_ko": "사나운 외눈 파괴자 모르그",
+    "_en": "\"Morg"
+  },
+  {
+    "_key": "Cyclops_comment",
+    "_ko": "외눈을 가진 거대한 괴물",
+    "_en": "A giant monster with a single eye"
+  },
+  {
+    "_key": "Dark Fiend_comment",
+    "_ko": "어둠에서 태어난 악마",
+    "_en": "A fiend born from darkness"
+  },
+  {
+    "_key": "Dog_comment",
+    "_ko": "평범한 사냥개",
+    "_en": "A common hunting dog"
+  },
+  {
+    "_key": "Dwarf Carpenter_comment",
+    "_ko": "도끼를 든 드워프 목수",
+    "_en": "A dwarf carpenter wielding an axe"
+  },
+  {
+    "_key": "Dwarf Gimli_comment",
+    "_ko": "용감한 전사 김리 드워프",
+    "_en": "Brave dwarf warrior named Gimli"
+  },
+  {
+    "_key": "Dwarf_comment",
+    "_ko": "작지만 강인한 드워프",
+    "_en": "A small but sturdy dwarf"
+  },
+  {
+    "_key": "Elephant Dire_comment",
+    "_ko": "흉포한 야생 코끼리",
+    "_en": "A ferocious wild elephant"
+  },
+  {
+    "_key": "Elephant Hell_comment",
+    "_ko": "지옥에서 온 코끼리",
+    "_en": "An elephant from the depths of hell"
+  },
+  {
+    "_key": "Elephant_comment",
+    "_ko": "평범한 대형 코끼리",
+    "_en": "A regular large elephant"
+  },
+  {
+    "_key": "Elf Blade Master_comment",
+    "_ko": "검술에 능한 엘프",
+    "_en": "An elf master of swordsmanship"
+  },
+  {
+    "_key": "Elf Bow Master_comment",
+    "_ko": "활을 다루는 엘프 명사수",
+    "_en": "An elf expert in archery"
+  },
+  {
+    "_key": "Elf DeathMage_comment",
+    "_ko": "죽음을 다루는 엘프 마법사",
+    "_en": "An elf necromancer"
+  },
+  {
+    "_key": "Elf Demonologist_comment",
+    "_ko": "악마를 연구하는 엘프",
+    "_en": "An elf who studies demons"
+  },
+  {
+    "_key": "Elf Knight_comment",
+    "_ko": "중무장한 엘프 기사",
+    "_en": "A heavily armored elf knight"
+  },
+  {
+    "_key": "Elf Magi_comment",
+    "_ko": "마법을 다루는 엘프",
+    "_en": "An elf proficient in magic"
+  },
+  {
+    "_key": "Elf_comment",
+    "_ko": "민첩하고 지혜로운 종족",
+    "_en": "An agile and wise race"
+  },
+  {
+    "_key": "Ettin_comment",
+    "_ko": "두 개의 머리를 가진 오우거",
+    "_en": "A two-headed ogre"
+  },
+  {
+    "_key": "Eye Of Floating_comment",
+    "_ko": "떠다니는 괴기한 눈",
+    "_en": "A bizarre floating eye"
+  },
+  {
+    "_key": "Eye Of Gold_comment",
+    "_ko": "황금빛의 떠다니는 눈",
+    "_en": "A golden floating eye"
+  },
+  {
+    "_key": "Eye Of Green_comment",
+    "_ko": "초록색 기운의 눈",
+    "_en": "A floating eye of green energy"
+  },
+  {
+    "_key": "Eye Of Walk_comment",
+    "_ko": "걸어다니는 눈 괴물",
+    "_en": "A walking eye creature"
+  },
+  {
+    "_key": "Giant Magi_comment",
+    "_ko": "마법을 쓰는 거대한 거인",
+    "_en": "A giant who wields powerful magic"
+  },
+  {
+    "_key": "Giant_comment",
+    "_ko": "산처럼 큰 거인",
+    "_en": "A colossal humanoid creature"
+  },
+  {
+    "_key": "Golem_comment",
+    "_ko": "생명이 깃든 돌덩이",
+    "_en": "A living construct made of stone"
+  },
+  {
+    "_key": "Green Fiend_comment",
+    "_ko": "초록색 악마",
+    "_en": "A green-skinned demonic creature"
+  },
+  {
+    "_key": "Human Named_comment",
+    "_ko": "강력한 마법을 구사하는 아름답고 위험한 마녀",
+    "_en": "A beautiful yet dangerous witch who wields powerful magic"
+  },
+  {
+    "_key": "Ice Fiend_comment",
+    "_ko": "얼음의 힘을 지닌 악마",
+    "_en": "A fiend empowered by ice"
+  },
+  {
+    "_key": "Imp Fire_comment",
+    "_ko": "불의 기운을 지닌 임프",
+    "_en": "A fire-aligned imp"
+  },
+  {
+    "_key": "Imp Ice_comment",
+    "_ko": "얼음 속성의 임프",
+    "_en": "An imp with ice powers"
+  },
+  {
+    "_key": "Imp Iron_comment",
+    "_ko": "단단한 피부의 금속 임프",
+    "_en": "\"A tough"
+  },
+  {
+    "_key": "Imp Poision_comment",
+    "_ko": "독을 사용하는 임프",
+    "_en": "A poisonous imp"
+  },
+  {
+    "_key": "Iron Fiend_comment",
+    "_ko": "금속으로 된 악마",
+    "_en": "A fiend with an iron body"
+  },
+  {
+    "_key": "JangshMaster_comment",
+    "_ko": "강한 기운의 강시 주술사",
+    "_en": "A powerful jiangshi master"
+  },
+  {
+    "_key": "Jiangshi_comment",
+    "_ko": "점프하며 움직이는 강시 대장",
+    "_en": "A hopping jiangshi general"
+  },
+  {
+    "_key": "Jiangshi2_comment",
+    "_ko": "점프하며 움직이는 강시",
+    "_en": "A hopping jiangshi"
+  },
+  {
+    "_key": "Jio_comment",
+    "_ko": "욕심 많고 장난기 넘치는 돼지 요괴",
+    "_en": "A greedy and mischievous pig demon"
+  },
+  {
+    "_key": "Koblod Crown_comment",
+    "_ko": "왕관을 쓴 코볼드",
+    "_en": "A kobold wearing a crown"
+  },
+  {
+    "_key": "Koblod_comment",
+    "_ko": "소형 도적형 몬스터",
+    "_en": "A small goblin-like creature"
+  },
+  {
+    "_key": "Kobold Archer_comment",
+    "_ko": "활을 쏘는 코볼드",
+    "_en": "A kobold skilled in archery"
+  },
+  {
+    "_key": "Kobold Chief_comment",
+    "_ko": "코볼드 부족장",
+    "_en": "The chief of the kobold tribe"
+  },
+  {
+    "_key": "Kobold King_comment",
+    "_ko": "코볼드의 왕",
+    "_en": "The ruling king of kobolds"
+  },
+  {
+    "_key": "Kobold Mage_comment",
+    "_ko": "마법을 사용하는 코볼드",
+    "_en": "A kobold who casts magic"
+  },
+  {
+    "_key": "Korea Bridal Mask_comment",
+    "_ko": "하얀 탈을 쓴 전사",
+    "_en": "A warrior wearing a white bridal mask"
+  },
+  {
+    "_key": "Korea Dokkebi_comment",
+    "_ko": "장난기 많은 도깨비",
+    "_en": "A mischievous Dokkebi"
+  },
+  {
+    "_key": "Korea Gomiho_comment",
+    "_ko": "꼬리가 아홉 개인 여우",
+    "_en": "A nine-tailed fox Gumiho"
+  },
+  {
+    "_key": "Korea Harubang_comment",
+    "_ko": "제주의 돌신상 전사",
+    "_en": "A warrior resembling the Dol Hareubang"
+  },
+  {
+    "_key": "Korea Hong_gil_dong_comment",
+    "_ko": "의적 홍길동",
+    "_en": "\"The heroic outlaw"
+  },
+  {
+    "_key": "Korea Jangsug_comment",
+    "_ko": "마을을 수호하는 나무로 만든 수호신",
+    "_en": "A wooden guardian deity that protects villages"
+  },
+  {
+    "_key": "Korea Man Ghost_comment",
+    "_ko": "원혼이 된 저승 사자",
+    "_en": "A vengeful death messenger"
+  },
+  {
+    "_key": "Korea Woman Ghost_comment",
+    "_ko": "한을 품은 처녀 귀신",
+    "_en": "A sorrowful female ghost"
+  },
+  {
+    "_key": "Little Devi Dark_comment",
+    "_ko": "어둠의 힘을 지닌 작은 악마",
+    "_en": "A small demon with dark powers"
+  },
+  {
+    "_key": "Little Devi Fire_comment",
+    "_ko": "불의 힘을 지닌 작은 악마",
+    "_en": "A small demon infused with fire"
+  },
+  {
+    "_key": "Little Devi Green_comment",
+    "_ko": "자연의 힘을 지닌 작은 악마",
+    "_en": "A small demon empowered by nature"
+  },
+  {
+    "_key": "Little Devi Ice_comment",
+    "_ko": "얼음 마법을 쓰는 작은 악마",
+    "_en": "A small demon who wields ice magic"
+  },
+  {
+    "_key": "Little Devi Iron_comment",
+    "_ko": "강철처럼 단단한 작은 악마",
+    "_en": "A small demon with an iron body"
+  },
+  {
+    "_key": "Mana Viper_comment",
+    "_ko": "마력을 지닌 독사",
+    "_en": "A venomous snake charged with mana"
+  },
+  {
+    "_key": "Manticore_comment",
+    "_ko": "날개 달린 전갈 꼬리의 괴수",
+    "_en": "A winged beast with a scorpion tail"
+  },
+  {
+    "_key": "Merfork Baker_comment",
+    "_ko": "요리를 잘하는 인어족 요리사",
+    "_en": "A skilled merfolk chef"
+  },
+  {
+    "_key": "Merfork Javelineer_comment",
+    "_ko": "작살을 던지는 인어족 전사",
+    "_en": "A merfolk warrior who throws javelins"
+  },
+  {
+    "_key": "Merfork Warrier_comment",
+    "_ko": "전투에 능한 인어족",
+    "_en": "A skilled merfolk warrior"
+  },
+  {
+    "_key": "Merfork_comment",
+    "_ko": "바다를 지키는 인어족",
+    "_en": "A sea-dwelling merfolk creature"
+  },
+  {
+    "_key": "Minota_comment",
+    "_ko": "미궁에 사는 반인반수 괴물",
+    "_en": "\"A half-man"
+  },
+  {
+    "_key": "Mummy Anubis_comment",
+    "_ko": "아누비스의 힘을 지닌 미라",
+    "_en": "A mummy blessed by the power of Anubis"
+  },
+  {
+    "_key": "Mummy Pharaoh_comment",
+    "_ko": "파라오의 저주받은 미라",
+    "_en": "A cursed mummy of a pharaoh"
+  },
+  {
+    "_key": "Mummy Warrier_comment",
+    "_ko": "무장한 전사 미라",
+    "_en": "A mummified warrior equipped for battle"
+  },
+  {
+    "_key": "Mummy_comment",
+    "_ko": "무덤에서 깨어난 미라",
+    "_en": "An undead awakened from an ancient tomb"
+  },
+  {
+    "_key": "Naga Azura_comment",
+    "_ko": "불길한 붉은 비늘을 지닌 전설의 나가 전사",
+    "_en": "A legendary naga warrior with ominous crimson scales"
+  },
+  {
+    "_key": "Naga Magi_comment",
+    "_ko": "마법을 사용하는 나가",
+    "_en": "A naga spellcaster"
+  },
+  {
+    "_key": "Naga Master_comment",
+    "_ko": "나가 군단을 지휘하는 여왕이자 최고 지도자",
+    "_en": "The queen and supreme commander of the Naga army"
+  },
+  {
+    "_key": "Naga Medusa_comment",
+    "_ko": "적을 돌로 만드는 메두사 나가",
+    "_en": "A naga Medusa who turns foes to stone"
+  },
+  {
+    "_key": "Naga SharpShooter_comment",
+    "_ko": "저격 능력이 뛰어난 나가 궁수",
+    "_en": "A naga sharpshooter with deadly aim"
+  },
+  {
+    "_key": "Naga Warrier_comment",
+    "_ko": "강력한 전사형 나가",
+    "_en": "A strong warrior of the naga race"
+  },
+  {
+    "_key": "Naga_comment",
+    "_ko": "인간과 뱀의 혼종 나가",
+    "_en": "A snake-human hybrid creature"
+  },
+  {
+    "_key": "Ogre Red_comment",
+    "_ko": "붉은 피부의 흉폭한 오우거",
+    "_en": "A ferocious red-skinned ogre"
+  },
+  {
+    "_key": "Ogre_comment",
+    "_ko": "거대한 덩치의 난폭한 오우거",
+    "_en": "A brutal giant brute"
+  },
+  {
+    "_key": "Ork HighMage_comment",
+    "_ko": "상급 마법을 쓰는 오크",
+    "_en": "An orc who commands powerful magic"
+  },
+  {
+    "_key": "Ork King_comment",
+    "_ko": "오크들의 왕",
+    "_en": "The mighty king of the orcs"
+  },
+  {
+    "_key": "Ork Knight_comment",
+    "_ko": "무장을 갖춘 오크 기사",
+    "_en": "A fully armored orc knight"
+  },
+  {
+    "_key": "Ork Mage_comment",
+    "_ko": "마법을 쓰는 오크",
+    "_en": "An orc magic user"
+  },
+  {
+    "_key": "Ork Named_comment",
+    "_ko": "이름을 지닌 특별한 오크",
+    "_en": "A uniquely named orc"
+  },
+  {
+    "_key": "Ork Rider_comment",
+    "_ko": "짐승을 타고 다니는 오크",
+    "_en": "An orc riding a beast"
+  },
+  {
+    "_key": "Ork Warrier_comment",
+    "_ko": "전투에 특화된 오크 전사",
+    "_en": "A battle-hardened orc warrior"
+  },
+  {
+    "_key": "Ork_comment",
+    "_ko": "힘과 숫자를 앞세운 야만족",
+    "_en": "Brutish warriors who rely on strength and numbers"
+  },
+  {
+    "_key": "Plant_comment",
+    "_ko": "먹이를 기다리는 육식 식물",
+    "_en": "A carnivorous plant waiting to devour prey"
+  },
+  {
+    "_key": "Rat_comment",
+    "_ko": "어두운 곳에 사는 작은 해충",
+    "_en": "A small pest dwelling in the dark"
+  },
+  {
+    "_key": "Reaper_comment",
+    "_ko": "죽음을 수확하는 사신",
+    "_en": "A harbinger of death who reaps souls"
+  },
+  {
+    "_key": "Rich_comment",
+    "_ko": "영혼을 봉인한 불사의 마법사",
+    "_en": "An undead sorcerer bound to a phylactery"
+  },
+  {
+    "_key": "Sa_comment",
+    "_ko": "모래와 힘을 다루는 요괴",
+    "_en": "A powerful companion who wields sand and strength"
+  },
+  {
+    "_key": "Skeleton Archer_comment",
+    "_ko": "원거리 공격을 하는 언데드",
+    "_en": "An undead archer with deadly aim"
+  },
+  {
+    "_key": "Skeleton Axe_comment",
+    "_ko": "무장한 해골 전사",
+    "_en": "An armored skeletal warrior"
+  },
+  {
+    "_key": "Skeleton_comment",
+    "_ko": "기본적인 언데드 전투원",
+    "_en": "A basic undead fighter made of bones"
+  },
+  {
+    "_key": "Slug Named_comment",
+    "_ko": "매우 느리지만 단단한 거대 달팽이",
+    "_en": "A giant snail that's slow but heavily armored"
+  },
+  {
+    "_key": "Slug_comment",
+    "_ko": "미끄러지며 이동하는 약한 생물",
+    "_en": "\"A weak"
+  },
+  {
+    "_key": "Son_comment",
+    "_ko": "재치와 무공을 겸비한 원숭이 왕",
+    "_en": "A monkey king skilled in martial arts and trickery"
+  },
+  {
+    "_key": "Sprite Earth_comment",
+    "_ko": "대지의 힘을 지닌 작은 정령",
+    "_en": "A small spirit empowered by the earth"
+  },
+  {
+    "_key": "Sprite Fire_comment",
+    "_ko": "불꽃처럼 활발한 정령",
+    "_en": "A fiery spirit full of energy"
+  },
+  {
+    "_key": "Sprite Ice_comment",
+    "_ko": "냉기를 내뿜는 차가운 정령",
+    "_en": "A cold spirit that emanates frost"
+  },
+  {
+    "_key": "Sprite Light_comment",
+    "_ko": "치유와 보호의 힘을 지닌 정령",
+    "_en": "A spirit of light that heals and protects"
+  },
+  {
+    "_key": "Troll Deep Assasin_comment",
+    "_ko": "그림자 속에서 암살하는 트롤",
+    "_en": "A troll assassin who strikes from the shadows"
+  },
+  {
+    "_key": "Troll Deep Shaman_comment",
+    "_ko": "주술과 자연을 다루는 트롤",
+    "_en": "A troll shaman who commands spirits and nature"
+  },
+  {
+    "_key": "Troll Deep_comment",
+    "_ko": "깊은 동굴에 사는 강인한 트롤",
+    "_en": "A sturdy troll dwelling in deep caves"
+  },
+  {
+    "_key": "Troll Magision_comment",
+    "_ko": "마법을 쓰는 희귀한 트롤",
+    "_en": "A rare troll capable of using magic"
+  },
+  {
+    "_key": "Troll_comment",
+    "_ko": "강력한 체력의 거대 몬스터",
+    "_en": "A large monster with incredible stamina"
+  },
+  {
+    "_key": "Wolf Ware_comment",
+    "_ko": "인간의 형상을 한 늑대인간",
+    "_en": "A fearsome werewolf that walks on two legs"
+  },
+  {
+    "_key": "Wolf_comment",
+    "_ko": "집단으로 사냥하는 야생 늑대",
+    "_en": "A wild wolf that hunts in packs"
+  },
+  {
+    "_key": "Zombie Giant_comment",
+    "_ko": "거대한 시체가 되살아난 언데드",
+    "_en": "A massive undead risen from a corpse"
+  },
+  {
+    "_key": "Zombie Knight_comment",
+    "_ko": "부패한 갑옷을 입은 기사형 좀비",
+    "_en": "A decaying knight risen from the grave"
+  },
+  {
+    "_key": "Zombie Magi_comment",
+    "_ko": "죽음 속에서도 마법을 쓰는 좀비",
+    "_en": "A zombie who retains dark magical powers"
+  },
+  {
+    "_key": "Zombie Miner_comment",
+    "_ko": "탄광에서 되살아난 좀비",
+    "_en": "A reanimated miner who once dug deep"
+  },
+  {
+    "_key": "Zombie1_comment",
+    "_ko": "느리지만 끈질긴 언데드",
+    "_en": "A slow but relentless undead"
+  },
+  {
+    "_key": "Zombie3_comment",
+    "_ko": "살아있는 자를 집요하게 쫓는 시체",
+    "_en": "A corpse that persistently hunts the living"
+  }
+]

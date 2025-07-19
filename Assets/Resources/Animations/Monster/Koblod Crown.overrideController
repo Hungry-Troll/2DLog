@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Koblod Crown
+  m_Controller: {fileID: 9100000, guid: a204af652c5c6724d97228c5c8b94667, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 25546eebe453bfb40b7de1774746bccf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8cc4d0b2d6a757c46813cf3a51cc37db, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 498e36bc666f05f4c82d8e693199942c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4af5e3e03d57aec4199ef7872202c7f9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cf077880f088b914eb3e759cbc85ba59, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9e95acf0d051c41439568f0b74400596, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9147f604a38d61240b720ec410129231, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d5c484ebbe292284bbf49c57fe4be4bd, type: 2}

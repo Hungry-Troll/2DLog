@@ -1,0 +1,35 @@
+﻿{
+  "name": "Map_002",
+  "bounds": {
+    "xMin": 0,
+    "xMax": 30,
+    "yMin": -1,
+    "yMax": 23
+  },
+  "itemList": [
+    "sword11",
+    "sword12",
+    "sword13",
+    "sword14",
+    "sword15",
+    "sword16",
+    "sword17",
+    "sword18",
+    "sword19",
+    "sword20"
+  ],
+  "monsterList": [
+    "Reaper",
+    "Rich",
+    "Ancient Rich",
+    "Skeleton",
+    "Skeleton Axe",
+    "Skeleton Archer",
+    "Zombie1",
+    "Zombie3",
+    "Zombie Knight",
+    "Zombie Miner",
+    "Zombie Giant",
+    "Zombie Magi"
+  ]
+}

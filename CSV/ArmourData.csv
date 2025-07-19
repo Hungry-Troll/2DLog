@@ -1,0 +1,22 @@
+_no,_name,_max_hp,_max_mp,_min_attack,_max_attack,_defence,_min_magic_attack,_max_magic_attack,_fire_res,_cold_res,_earth_res,_dark_res,_poison_res,_avoid,_type,_hand,_enhance_limit,_skill_limit,_nickName
+1,가죽 갑옷,30,,,,4,,,,,,,,,,,2,1,leader armour1
+2,고리 갑옷,40,,,,6,,,,,,,,,,,2,1,ringmail1
+3,미늘 갑옷,40,,,,8,,,,,,,,,,,2,2,scalemail1
+4,사슬 갑옷,60,,,,12,,,,,,,,,,,2,2,chainmail1
+5,판금 갑옷,80,,,,16,,,,,,,,,,,2,3,platemail1
+6,수정 판금 갑옷,80,,,,20,,,,,,,,,,,2,3,crystalplatemail1
+7,트롤 가죽 갑옷,40,,,,8,,,,,,,,,,,2,1,troll leader armour1
+8,회색 용 갑옷,60,,,,10,,,,,,,,10,,,2,1,dragon armour1
+9,붉은 용 갑옷,80,,,,18,,,20,,,,,,,,2,3,dragon armour2
+10,푸른 용 갑옷,80,,,,18,,,,20,,,,,,,2,3,dragon armour3
+11,황금 용 갑옷,80,,,,18,,,10,10,10,,,,,,2,3,dragon armour4
+12,마력의 고리 갑옷,40,20,,,8,10,10,,,,,,,,,2,2,ringmail3
+13,대장군의 사슬 갑옷,60,,,,12,,,10,10,,,10,,,,2,2,chainmail2
+14,황금 판금 갑옷,80,,,,18,,,10,10,10,,10,,,,2,3,platemail2
+15,고대 용 갑옷,80,,,,14,,,10,10,10,10,,,,,5,3,dragon armour5
+16,가죽 갑옷,30,,,,4,,,,,,,,,,,2,1,leader armour2
+17,고리 갑옷,40,,,,6,,,,,,,,,,,2,1,ringmail2
+18,미늘 갑옷,40,,,,10,,,,,,,,,,,2,2,scalemail2
+19,사슬 갑옷,60,,,,14,,,,,,,,,,,2,3,chainmail2
+20,수정  판금 갑옷,80,,,,20,,,,,,,,,,,2,3,crystalplatemail2
+21,트롤 가죽 갑옷,40,,,,10,,,,,,,,,,,2,1,troll leader armour2

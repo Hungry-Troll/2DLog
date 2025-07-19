@@ -1,0 +1,45 @@
+﻿{
+  "name": "Map_003",
+  "bounds": {
+    "xMin": 0,
+    "xMax": 30,
+    "yMin": -1,
+    "yMax": 23
+  },
+  "itemList": [
+    "spear5",
+    "sword21",
+    "spear12",
+    "spear13",
+    "spear14",
+    "spear15",
+    "spear16",
+    "spear6",
+    "spear7",
+    "spear8",
+    "spear9",
+    "spear10",
+    "spear11",
+    "spear4",
+    "sword23",
+    "sword22",
+    "spear3",
+    "spear2",
+    "spear1"
+  ],
+  "monsterList": [
+    "Ogre",
+    "Ogre Red",
+    "Ettin",
+    "Jiangshi",
+    "Jiangshi2",
+    "JangshMaster",
+    "Cyclops",
+    "Cyclops Named",
+    "Giant",
+    "Giant Magi",
+    "Son",
+    "Sa",
+    "Jio"
+  ]
+}

@@ -5,7 +5,7 @@ using System.IO;
 using UnityEditor;
 using Newtonsoft.Json;
 
-public class MapEditor
+public class MapEditor 
 {
     // Editor 폴더에 있는 클래스는 Asset 폴더와 어셈블리가 다름
     [System.Serializable]
@@ -180,6 +180,7 @@ public class MapEditor
         }
         return data;
     }
+
 
     //private static void GenerateMap()
     //{

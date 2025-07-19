@@ -1,0 +1,12 @@
+_no,_name,_max_hp,_max_mp,_min_attack,_max_attack,_defence,_min_magic_attack,_max_magic_attack,_fire_res,_cold_res,_earth_res,_dark_res,_poison_res,_avoid,_type,_hand,_enhance_limit,_skill_limit,_nickName
+1,메이스,,,5,10,,,,,,,,,,,1,3,1,mace5
+2,플레일,,,10,15,,,,,,,,,,,1,3,1,mace3
+3,모닝스타,,,15,20,,,,,,,,,,,1,3,2,mace1
+4,강철 모닝스타,,,25,30,,,,,,,,,,,1,3,3,mace2
+5,대형 메이스,,,30,35,,,,,,,,,,,2,3,3,mace6
+6,거대 몽둥이,,,40,50,,,,,,,,,,,2,3,3,mace7
+7,푸른빛의 모닝스타,,,30,35,,,,,20,,10,10,,ICE,1,3,3,mace10
+8,가시박힌 거대 몽둥이,,,45,55,,,,,,,,,,,2,3,3,mace9
+9,강철 거대 몽둥이,20,,40,50,,,,,,10,,,,EARTH,2,3,3,mace11
+10,플레일,,,10,15,,,,,,,,,,,1,3,1,mace4
+11,거대 몽둥이,,,40,50,,,,,,,,,,,2,3,3,mace8

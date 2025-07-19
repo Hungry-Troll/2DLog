@@ -1796,7 +1796,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bow16
+      name: bow6
       rect:
         serializedVersion: 2
         x: 360
@@ -3518,7 +3518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LeaderArmou1
+      name: leader armour1
       rect:
         serializedVersion: 2
         x: 0
@@ -3539,7 +3539,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LeaderArmour2
+      name: leader armour2
       rect:
         serializedVersion: 2
         x: 72
@@ -3812,7 +3812,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: troll Leader Armour1
+      name: troll leader armour1
       rect:
         serializedVersion: 2
         x: 1008
@@ -3833,7 +3833,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: troll Leader Armour2
+      name: troll leader armour2
       rect:
         serializedVersion: 2
         x: 1080
@@ -3854,7 +3854,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragonArmour1
+      name: dragon armour1
       rect:
         serializedVersion: 2
         x: 1152
@@ -3875,7 +3875,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragonArmour2
+      name: dragon armour2
       rect:
         serializedVersion: 2
         x: 1224
@@ -3896,7 +3896,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragonArmour3
+      name: dragon armour3
       rect:
         serializedVersion: 2
         x: 1296
@@ -3917,7 +3917,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragonArmour4
+      name: dragon armour4
       rect:
         serializedVersion: 2
         x: 1368
@@ -3938,7 +3938,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragonArmour5
+      name: dragon armour5
       rect:
         serializedVersion: 2
         x: 1440
@@ -4797,6 +4797,7 @@ TextureImporter:
       amulet9: -2047031813
       shield8: -455741012
       spear6: 1362268607
+      dragon armour4: -1186279605
       sword14: 592360062
       deck1: 111147741
       axe9: 1387327662
@@ -4804,15 +4805,13 @@ TextureImporter:
       helmet15: -495330386
       sword18: 2082512210
       chainmail2: -4083742
-      LeaderArmour2: -721395593
       spear10: -1500292016
       sword1: 1886700605
       ring8: 1311159554
       mutationPotion: -217908843
       helmet11: 517495417
-      dragonArmour2: 1647301120
+      troll leader armour1: 704819929
       Item_150: 1146983331
-      dragonArmour1: 2036810832
       blackbox: -557237786
       mace1: 1041821239
       sword12: -778193183
@@ -4838,16 +4837,19 @@ TextureImporter:
       deck3: 1124750663
       ring3: -529317802
       glove1: 1644768794
+      dragon armour3: 1226572417
       shield3: -311945021
       spear3: -1622206886
       Item_151: 1197346714
       boot4: -2138747527
       bow3: -1048808108
+      dragon armour2: 1647301120
       spear14: -936647232
       sword16: -1394412692
       axe11: -523690728
       amulet4: -945454330
       helmet2: -537562071
+      troll leader armour2: 1564496556
       amulet10: -1619493110
       chainmail3: -692268212
       curePotion: -211991514
@@ -4857,16 +4859,15 @@ TextureImporter:
       robe5: -441335221
       helmet5: 1538586199
       staff4: 1423603337
-      dragonArmour5: 203790652
       crystalplatemail1: -2117270884
       shield10: 1245959946
+      leader armour1: 445427540
       helmet8: 2138728846
       spear13: -596633357
       scroll1: -134837046
       spear11: -348829667
       magic18: 1455626434
       mace4: -1164731158
-      bow16: -1241118548
       staff6: -430763348
       amulet8: 57581263
       robe1: 436510076
@@ -4907,7 +4908,6 @@ TextureImporter:
       scroll14: 334638143
       staff7: 1359053052
       ring9: -1732300633
-      dragonArmour3: 1226572417
       ring2: -1017875705
       scroll5: -358957043
       axe2: -1234699019
@@ -4920,6 +4920,7 @@ TextureImporter:
       amulet13: 1063798683
       shield2: 421890742
       invisibilityPotion: 527558944
+      dragon armour5: 203790652
       sword9: -1496421985
       Item_153: -405849145
       glove4: 1746778027
@@ -4962,7 +4963,6 @@ TextureImporter:
       manaPotion: 1221362449
       lvUpPotion: 189348176
       sword8: -1018408970
-      dragonArmour4: -1186279605
       mace2: -1650327315
       scroll8: 1550572939
       deck2: 465245197
@@ -4970,6 +4970,7 @@ TextureImporter:
       sword19: 219598375
       scroll12: -1263117771
       axe3: -712156328
+      dragon armour1: 2036810832
       axe4: 2035976718
       sword4: -115123071
       spear2: -748922914
@@ -4980,7 +4981,7 @@ TextureImporter:
       magic7: -160406085
       scroll4: -1488761815
       sword7: 2067817090
-      LeaderArmou1: 445427540
+      leader armour2: -721395593
       spear5: 657499022
       platemail1: 1269718568
       ring14: -159758106
@@ -4990,9 +4991,7 @@ TextureImporter:
       mace11: 176163747
       amulet16: 93082535
       bow4: 664881645
-      troll Leader Armour1: 704819929
       amulet3: 356029914
-      troll Leader Armour2: 1564496556
       ring5: -1234339808
       amulet6: 916143703
       robe7: -2088232573
@@ -5006,6 +5005,7 @@ TextureImporter:
       scroll10: 20932060
       ring10: 1696530616
       bow2: -2022808052
+      bow6: -1241118548
       sword22: -1776779541
       staff9: 709949419
       shield6: 400599288

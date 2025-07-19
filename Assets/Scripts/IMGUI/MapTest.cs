@@ -32,6 +32,16 @@ public class MapTest : MonoBehaviour
             showTextField = true;
         }
 
+        if (GUI.Button(new Rect(20, 320, 180, 100), "DestroyMap", buttonStyle))
+        {
+            DestroyMap();
+        }
+
+        if (GUI.Button(new Rect(20, 440, 180, 100), "NextMobAnim", buttonStyle))
+        {
+            NextMobAnim();
+        }
+
         GUIStyle textFieldStyle = new GUIStyle(GUI.skin.textField);
         textFieldStyle.fontSize = 30;
 
@@ -141,6 +151,7 @@ public class MapTest : MonoBehaviour
     Tilemap baseTilemap;
     Sprite[] itemSprites;
     Sprite[] monsterSprites;
+    List<Animator> animators;
 
     public void LoadMap(string userInput)
     {
@@ -164,9 +175,10 @@ public class MapTest : MonoBehaviour
         GameObject collisionMap = Util.FindChild(map, "CollisionMap", true);
         GameObject itemTile = Util.FindChild(map, "Item", true);
         GameObject monsterTile = Util.FindChild(map, "Monster", true);
-        Tilemap baseTilemap = Util.FindChild<Tilemap>(map, "BaseMap", true);
+        baseTilemap = Util.FindChild<Tilemap>(map, "BaseMap", true);
         itemSprites = Resources.LoadAll<Sprite>("Sprite/Item/Item");
         monsterSprites = Resources.LoadAll<Sprite>("Sprite/Monster/Monster");
+        animators = new List<Animator>();
 
         if (collisionMap != null)
             collisionMap.SetActive(false);
@@ -293,11 +305,13 @@ public class MapTest : MonoBehaviour
                     SpriteRenderer spriteRenderer = item.GetComponent<SpriteRenderer>();
                     spriteRenderer.sprite = Array.Find(itemSprites, sprite => sprite.name.Equals(mapData.itemList[itemIndex]));
                     Animator animator = item.GetComponent<Animator>();
-                    animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>($"Animations/Item/Controller/{mapData.itemList[itemIndex]}");
+                    animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>($"Animations/Item/{mapData.itemList[itemIndex]}");
                     //
                     // 데이터 추가
                     //
                     item.transform.position = worldPos;
+                    item.name = mapData.itemList[itemIndex];
+                    item.transform.SetParent(map.transform);
                     itemIndex++;
                 }
             }
@@ -328,14 +342,18 @@ public class MapTest : MonoBehaviour
                     // 데이터 추가
                     GameObject monster = GameObject.Instantiate(dummyMonster);
                     SpriteRenderer spriteRenderer = monster.GetComponent<SpriteRenderer>();
-                    spriteRenderer.sprite = Resources.Load<Sprite>($"Sprite/Monster/{mapData.monsterList[monsterIndex]}");
+                    spriteRenderer.sprite = Array.Find(monsterSprites, sprite => sprite.name.Equals(mapData.monsterList[monsterIndex]));
                     Animator animator = monster.GetComponent<Animator>();
-                    animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>($"Animations/Monster/{mapData.itemList[itemIndex]}");
+                    animator.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>($"Animations/Monster/{mapData.monsterList[monsterIndex]}");
+                    animators.Add(animator);
+                    
                     //
                     // 데이터 추가
                     //
-  
+
                     monster.transform.position = worldPos;
+                    monster.name = $"{mapData.monsterList[monsterIndex]}{monsterIndex + 1}";
+                    monster.transform.SetParent(map.transform);
                     monsterIndex++;
                 }
             }
@@ -345,11 +363,29 @@ public class MapTest : MonoBehaviour
 
     public void DestroyMap()
     {
-        GameObject map = GameObject.Find("Map");
-        if (map != null)
+        GameObject findMap = GameObject.Find(map.name);
+        if (findMap != null)
         {
-            GameObject.Destroy(map);
+            GameObject.Destroy(findMap);
             currentGrid = null;
+        }
+    }
+
+    int StateNum = 1;
+    public void NextMobAnim()
+    {
+        foreach (var one in animators)
+        {
+            one.SetInteger("State", StateNum);
+        }
+
+        if (StateNum < 3)
+        {
+            StateNum++;
+        }
+        else
+        {
+            StateNum = 0;
         }
     }
 
